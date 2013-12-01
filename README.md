@@ -1,5 +1,7 @@
-Proposal to Add IEC 60417-5009 Symbol to Unicode (joe.loughry@stx.ox.ac.uk)
+Proposal to Add IEC 60417-5009 Symbol to Unicode
 ================================================
+
+[Joe Loughry](joe.loughry@stx.ox.ac.uk)
 
 The IEC 60417-5009 "Stand-by" Symbol
 ------------------------------------
