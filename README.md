@@ -27,7 +27,7 @@ Procedure for Adding Symbols to Unicode
 the above symbols appear in the [pipeline](http://www.unicode.org/pending/proposals.html)
 of proposed new symbols, so **let's do it!**
 
-Getting Access to the "Official" Symbols
+Getting Access to the &ldquo;Official&rdquo; Symbols
 ----------------------------------------
 
 [IEC](http://www.iec.ch/) charges
