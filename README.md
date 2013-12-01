@@ -1,9 +1,9 @@
-Proposal to Add IEC 60417-5009 Symbol to Unicode
+Proposal to Add the IEC 60417-5009 Symbol to Unicode
 ================================================
 
-[Joe Loughry](joe.loughry@stx.ox.ac.uk)
+[Joe Loughry](mailto:joe.loughry@stx.ox.ac.uk), 1st December 2013.
 
-The IEC 60417-5009 "Stand-by" Symbol
+The IEC 60417-5009 &ldquo;Stand-by&rdquo; Symbol
 ------------------------------------
 
 On 1 December 2013, [Terence Eden](http://shkspr.mobi/blog/) posed a question to
