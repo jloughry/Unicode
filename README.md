@@ -42,7 +42,8 @@ alt="IEC-5010 \"On\"/\"OFF\" (push-push) symbol"></a></td>
 <td>&ldquo;OFF&rdquo; (power)</td>
 <td>&ldquo;Stand-by&rdquo;</td>
 <td>&ldquo;ON&rdquo;/&ldquo;OFF&rdquo; (push-push)</td>
-</tr><tr><td span="4">Click on an image for SVG.</td></tr>
+</tr>
+<tr><td colspan="4">Click on any image for SVG.</td></tr>
 </table>
 
 Clearly these would be useful to anyone writing technical or user manuals. In fact, for
