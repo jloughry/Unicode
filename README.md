@@ -23,29 +23,31 @@ symbols:<sup>[1](#ref1)</sup>
 <td align="center"><a
 href="https://github.com/jloughry/Unicode/raw/master/IEC5007_On_Symbol.svg"><img
 src="https://github.com/jloughry/Unicode/raw/master/31px-IEC5007_On_Symbol.svg.png"
-alt="IEC-5007 \"ON\" (power) symbol (click for SVG)"></a></td>
+alt="IEC-5007 \"ON\" (power) symbol"></a></td>
 <td><a
 href="https://github.com/jloughry/Unicode/raw/master/IEC5008_Off_Symbol.svg"><img
 src="https://github.com/jloughry/Unicode/raw/master/176px-IEC5008_Off_Symbol.svg.png"
-alt="IEC-5008 \"OFF\" (power) symbol (click for SVG)"></a></td>
+alt="IEC-5008 \"OFF\" (power) symbol"></a></td>
 <td><a
 href="https://github.com/jloughry/Unicode/raw/master/IEC5009_Standby_Symbol.svg"><img
 src="https://github.com/jloughry/Unicode/raw/master/177px-IEC5009_Standby_Symbol.svg.png"
-alt="IEC-5009 \"Stand-by\" symbol (click for SVG)"></a></td>
+alt="IEC-5009 \"Stand-by\" symbol"></a></td>
 <td><a
 href="https://github.com/jloughry/Unicode/raw/master/IEC5010_On_Off_Symbol.svg"><img
 src="https://github.com/jloughry/Unicode/raw/master/176px-IEC5010_On_Off_Symbol.svg.png"
-alt="IEC-5010 \"On\"/\"OFF\" (push-push) symbol (click for SVG)"></a></td>
+alt="IEC-5010 \"On\"/\"OFF\" (push-push) symbol"></a></td>
 </tr>
 <tr>
 <td>&ldquo;ON&rdquo; (power)</td>
 <td>&ldquo;OFF&rdquo; (power)</td>
 <td>&ldquo;Stand-by&rdquo;</td>
 <td>&ldquo;ON&rdquo;/&ldquo;OFF&rdquo; (push-push)</td>
-</tr>
+</tr><tr><td span="4">Click on an image for SVG.</td></tr>
 </table>
 
-Clearly these symbols would be useful to anybody writing technical or user manuals.
+Clearly these would be useful to anyone writing technical or user manuals. In fact, for
+electronically publishing said documentation, it is crucial to have symbols defined in
+Unicode for type because it makes them searchable.
 
 Procedure for Adding Symbols to Unicode
 ---------------------------------------
