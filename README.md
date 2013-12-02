@@ -9,7 +9,8 @@ The IEC 60417-5009 &ldquo;Stand-by&rdquo; Symbol
 On 1 December 2013, [Terence Eden](http://shkspr.mobi/blog/) posed a question to
 [Hacker News](https://news.ycombinator.com/item?id=6828102) asking why Unicode lacks
 the international symbol that appears on power buttons. After searching for a while,
-I learnt he was right &mdash; in fact, Unicode lacks all of the following symbols [1] :
+I learnt he was right &mdash; in fact, Unicode lacks all of the following
+symbols:<sup>[1](#ref1)</sup>
 
 <table>
 <tr>
@@ -19,7 +20,7 @@ I learnt he was right &mdash; in fact, Unicode lacks all of the following symbol
 <td>IEC 60417-5010</td>
 </tr>
 <tr>
-<td width="25%" align="center"><a
+<td align="center"><a
 href="https://github.com/jloughry/Unicode/raw/master/IEC5007_On_Symbol.svg"><img
 src="https://github.com/jloughry/Unicode/raw/master/31px-IEC5007_On_Symbol.svg.png"
 alt="IEC-5007 \"ON\" (power) symbol (click for SVG)"></a></td>
@@ -74,5 +75,5 @@ TBD
 References
 ----------
 
-[1]: [Power symbol](http://en.wikipedia.org/wiki/Power_symbol#Definitions). *Wikipedia*.
+1. <a name="ref1"/>"Power symbol" *Wikipedia*. http://en.wikipedia.org/wiki/Power_symbol#Definitions
 
