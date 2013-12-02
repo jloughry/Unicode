@@ -15,7 +15,7 @@ infringement; the latter two are public-domain images from Wikipedia).
 
 <table>
 <tr>
-<td>![IEC 60417-5007 "ON" (power)][IEC5007]</td>
+<td> ![IEC 60417-5007 "ON" (power)][IEC5007]</td>
 <td>![IEC 60417-5008 "OFF" (power)][IEC5008]</td>
 <td>![IEC 60417-5009 "Stand-by" (power)][IEC5009]</td>
 <td>![IEC 60417-5010 "ON"/"OFF" (power)][IEC5010]</td>
