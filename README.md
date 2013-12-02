@@ -13,9 +13,26 @@ I learnt he was right &mdash; in fact, Unicode lacks all the following
 (the first two symbols have been re-drawn to avoid any possibility of copyright
 infringement; the latter two are public-domain images from Wikipedia).
 
-![IEC 60417-5007 "ON" (power)](https://github.com/jloughry/Unicode/raw/master/176px-IEC5007_On_Symbol.svg.png) | ![IEC 60417-5008 "OFF" (power)](https://github.com/jloughry/Unicode/raw/master/176px-IEC5008_Off_Symbol.svg.png) | ![IEC 60417-5009 "Stand-by" (power)](https://github.com/jloughry/Unicode/raw/master/177px-IEC5009_Standby_Symbol.svg.png) | ![IEC 60417-5010 "ON"/"OFF" (power)](https://github.com/jloughry/Unicode/raw/master/176px-IEC5010_On_Off_Symbol.svg.png)
-IEC 60417-5007 | IEC 60417-5008 | IEC 60417-5009 | IEC 60417-5010
-&ldquo;ON&rdquo; (power) | &ldquo;OFF&rdquo; (power) | &ldquo;Stand-by&rdquo; | &ldquo;ON&rdquo;/&ldquo;OFF&rdquo; (push-push)
+<table>
+<tr>
+<td>![IEC 60417-5007 "ON" (power)][IEC5007]</td>
+<td>![IEC 60417-5008 "OFF" (power)][IEC5008]</td>
+<td>![IEC 60417-5009 "Stand-by" (power)][IEC5009]</td>
+<td>![IEC 60417-5010 "ON"/"OFF" (power)][IEC5010]</td>
+</tr>
+<tr>
+<td>IEC 60417-5007</td>
+<td>IEC 60417-5008</td>
+<td>IEC 60417-5009</td>
+<td>IEC 60417-5010</td>
+</tr>
+<tr>
+<td>&ldquo;ON&rdquo; (power)</td>
+<td>&ldquo;OFF&rdquo; (power)</td>
+<td>&ldquo;Stand-by&rdquo;</td>
+<td>&ldquo;ON&rdquo;/&ldquo;OFF&rdquo; (push-push)</td>
+</tr>
+</table>
 
 Clearly these symbols would be useful to anybody writing technical or user manuals.
 
@@ -43,4 +60,15 @@ Writing the Proposal
 --------------------
 
 TBD
+
+References
+----------
+
+[IEC5007]: https://github.com/jloughry/Unicode/raw/master/176px-IEC5007_On_Symbol.svg.png "IEC 60417-5007 \"ON\" (power)"
+
+[IEC5008]: https://github.com/jloughry/Unicode/raw/master/176px-IEC5008_Off_Symbol.svg.png "IEC 60417-5008 \"OFF\" (power)"
+
+[IEC5009]: https://github.com/jloughry/Unicode/raw/master/177px-IEC5009_Standby_Symbol.svg.png "IEC 60417-5009 \"Stand-by\" (power)"
+
+[IEC5010]: https://github.com/jloughry/Unicode/raw/master/176px-IEC5010_On_Off_Symbol.svg.png "IEC 60417-5010 \"ON\"/\"OFF\" (power)"
 
