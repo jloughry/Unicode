@@ -19,7 +19,7 @@ I learnt he was right &mdash; in fact, Unicode lacks all of the following symbol
 <td>IEC 60417-5010</td>
 </tr>
 <tr>
-<td width="176" align="center"><a
+<td style="width:176px" align="center"><a
 href="https://github.com/jloughry/Unicode/raw/master/IEC5007_On_Symbol.svg"><img
 src="https://github.com/jloughry/Unicode/raw/master/31px-IEC5007_On_Symbol.svg.png"
 alt="IEC-5007 \"ON\" (power) symbol (click for SVG)"></a></td>
