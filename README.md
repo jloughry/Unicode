@@ -18,36 +18,42 @@ symbols:<sup>[1](#ref1)</sup>
 <td>IEC 60417-5008</td>
 <td>IEC 60417-5009</td>
 <td>IEC 60417-5010</td>
+<td>IEEE 1621</td>
 </tr>
 <tr>
 <td align="center"><a
-href="https://github.com/jloughry/Unicode/raw/master/IEC5007_On_Symbol.svg"><img
+href="http://en.wikipedia.org/wiki/File:IEC5007_On_Symbol.svg"><img
 src="https://github.com/jloughry/Unicode/raw/master/31px-IEC5007_On_Symbol.svg.png"
 alt="IEC-5007 \"ON\" (power) symbol"></a></td>
 <td><a
-href="https://github.com/jloughry/Unicode/raw/master/IEC5008_Off_Symbol.svg"><img
+href="http://en.wikipedia.org/wiki/File:IEC5008_Off_Symbol.svg"><img
 src="https://github.com/jloughry/Unicode/raw/master/176px-IEC5008_Off_Symbol.svg.png"
 alt="IEC-5008 \"OFF\" (power) symbol"></a></td>
 <td><a
-href="https://github.com/jloughry/Unicode/raw/master/IEC5009_Standby_Symbol.svg"><img
+href="http://en.wikipedia.org/wiki/File:IEC5009_Standby_Symbol.svg"><img
 src="https://github.com/jloughry/Unicode/raw/master/177px-IEC5009_Standby_Symbol.svg.png"
 alt="IEC-5009 \"Stand-by\" symbol"></a></td>
 <td><a
-href="https://github.com/jloughry/Unicode/raw/master/IEC5010_On_Off_Symbol.svg"><img
+href="http://en.wikipedia.org/wiki/File:IEC5010_On_Off_Symbol.svg"><img
 src="https://github.com/jloughry/Unicode/raw/master/176px-IEC5010_On_Off_Symbol.svg.png"
 alt="IEC-5010 \"On\"/\"OFF\" (push-push) symbol"></a></td>
+<td><a
+href="http://en.wikipedia.org/wiki/File:Astronomical_symbol_for_the_moon.svg"><img
+src="https://github.com/jloughry/Unicode/raw/master/IEEE1621_Standby_Symbol.svg.png"
+alt="IEEE 1621 \"Standby\" symbol"></a></td>
 </tr>
 <tr>
 <td>&ldquo;ON&rdquo; (power)</td>
 <td>&ldquo;OFF&rdquo; (power)</td>
 <td>&ldquo;Stand-by&rdquo;</td>
 <td>&ldquo;ON&rdquo;/&ldquo;OFF&rdquo; (push-push)</td>
+<td>&ldquo;Stand-by&rdquo;</td>
 </tr>
-<tr><td colspan="4">Click on any image for SVG.</td></tr>
+<tr><td align="center" colspan="5">Click on any image for SVG.</td></tr>
 </table>
 
 Clearly these would be useful to anyone writing technical or user manuals. In fact, for
-electronically publishing said documentation, it is crucial to have symbols defined in
+electronically publishing documentation, it is crucial to have symbols defined in
 Unicode for type because it makes them searchable.
 
 Procedure for Adding Symbols to Unicode
@@ -59,16 +65,24 @@ the above symbols appear in the [pipeline](http://www.unicode.org/pending/propos
 of proposed new symbols, so **let's do it!**
 
 Getting Access to the &ldquo;Official&rdquo; Symbols
-----------------------------------------
+----------------------------------------------------
 
 [IEC](http://www.iec.ch/) charges
 [400 Swiss Francs](http://webstore.iec.ch/webstore/webstore.nsf/artnum/029221)
-(currently $440 USD) for the standard. If anyone has access to IEC standards through their
-employer or school and wants to help, could you look at the relevant pages in
-[IEC 60417](http://webstore.iec.ch/webstore/webstore.nsf/ArtNum_PK/29221?OpenDocument) and
-get the GIF and vectorised PDF drawings of all four symbols and also look at the copyright
-information on the standard to make sure we're OK with including them in a proposal to the
-Unicode Consortium?
+(currently $440 USD) for their standard.<sup>[2](#ref2)</sup> [IEEE](http://standards.ieee.org/)
+charges [$58](http://www.techstreet.com/ieee/products/vendor_id/3344) for the IEEE 1621
+standard.<sup>[3](#ref3)</sup>
+
+I want to verify the specifications for each symbol in IEC 61417 (which is also ISO 7000)
+and IEEE 1621-2004, then translate those into whatever form of description is required by
+Unicode.
+
+Copyright
+---------
+
+[Alex Stapleton](https://twitter.com/alexstapleton) in
+[this conversation](https://twitter.com/alexstapleton/status/407468582860111873) checked
+the introduction of IEC 60417 for copyright information and vector drawings of the symbols.
 
 Writing the Proposal
 --------------------
@@ -78,5 +92,13 @@ TBD
 References
 ----------
 
-1. <a name="ref1"/>"Power symbol" *Wikipedia*. http://en.wikipedia.org/wiki/Power_symbol#Definitions
+1. <a name="ref1"/>"Power symbol" *Wikipedia*.
+http://en.wikipedia.org/wiki/Power_symbol#Definitions
+
+2. <a name="ref2"/>International Electrotechnical Commission. *Graphical symbols for use on
+equipment*. IEC 60417, 2005.
+
+3. <a name="ref3"/>IEEE Standards Association. *IEEE Standard for User Interface Elements in
+Power Control of Electronic Devices Employed in Office/Consumer Environments*. IEEE Standard
+1621-2004.
 
