@@ -15,10 +15,10 @@ infringement; the latter two are public-domain images from Wikipedia).
 
 <table>
 <tr>
-<td> ![IEC 60417-5007 "ON" (power)][IEC5007]</td>
-<td>![IEC 60417-5008 "OFF" (power)][IEC5008]</td>
-<td>![IEC 60417-5009 "Stand-by" (power)][IEC5009]</td>
-<td>![IEC 60417-5010 "ON"/"OFF" (power)][IEC5010]</td>
+<td><img src="https://github.com/jloughry/Unicode/raw/master/176px-IEC5007_On_Symbol.svg.png"></td>
+<td><img src="https://github.com/jloughry/Unicode/raw/master/176px-IEC5008_Off_Symbol.svg.png"></td>
+<td><img src="https://github.com/jloughry/Unicode/raw/master/177px-IEC5009_Standby_Symbol.svg.png"></td>
+<td><img src="https://github.com/jloughry/Unicode/raw/master/176px-IEC5010_On_Off_Symbol.svg.png"></td>
 </tr>
 <tr>
 <td>IEC 60417-5007</td>
@@ -64,11 +64,5 @@ TBD
 References
 ----------
 
-[IEC5007]: https://github.com/jloughry/Unicode/raw/master/176px-IEC5007_On_Symbol.svg.png "IEC 60417-5007 \"ON\" (power)"
-
-[IEC5008]: https://github.com/jloughry/Unicode/raw/master/176px-IEC5008_Off_Symbol.svg.png "IEC 60417-5008 \"OFF\" (power)"
-
-[IEC5009]: https://github.com/jloughry/Unicode/raw/master/177px-IEC5009_Standby_Symbol.svg.png "IEC 60417-5009 \"Stand-by\" (power)"
-
-[IEC5010]: https://github.com/jloughry/Unicode/raw/master/176px-IEC5010_On_Off_Symbol.svg.png "IEC 60417-5010 \"ON\"/\"OFF\" (power)"
+TBD
 
