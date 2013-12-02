@@ -13,7 +13,7 @@ I learnt he was right &mdash; in fact, Unicode lacks all the following
 (the first two symbols have been re-drawn to avoid any possibility of copyright
 infringement; the latter two are public-domain images from Wikipedia).
 
-![IEC 60417-5007 "ON" (power)](https://github.com/jloughry/Unicode/raw/master/196px-IEC5007.svg.png) | ![IEC 60417-5008 "OFF" (power)](https://github.com/jloughry/Unicode/raw/master/176px-IEC5008.svg.png) | ![IEC 60417-5009 "Stand-by" (power)](https://github.com/jloughry/Unicode/raw/master/177px-IEC5009_Standby_Symbol.svg.png) | ![IEC 60417-5010 "ON"/"OFF" (power)](https://github.com/jloughry/Unicode/raw/master/176px-IEC5010_On_Off_Symbol.svg.png)
+![IEC 60417-5007 "ON" (power)](https://github.com/jloughry/Unicode/raw/master/176px-IEC5007.svg.png) | ![IEC 60417-5008 "OFF" (power)](https://github.com/jloughry/Unicode/raw/master/176px-IEC5008.svg.png) | ![IEC 60417-5009 "Stand-by" (power)](https://github.com/jloughry/Unicode/raw/master/177px-IEC5009_Standby_Symbol.svg.png) | ![IEC 60417-5010 "ON"/"OFF" (power)](https://github.com/jloughry/Unicode/raw/master/176px-IEC5010_On_Off_Symbol.svg.png)
 IEC 60417-5007 | IEC 60417-5008 | IEC 60417-5009 | IEC 60417-5010
 &ldquo;ON&rdquo; (power) | &ldquo;OFF&rdquo; (power) | &ldquo;Stand-by&rdquo; | &ldquo;ON&rdquo;/&ldquo;OFF&rdquo; (push-push)
 
