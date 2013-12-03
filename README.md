@@ -23,23 +23,23 @@ symbols:<sup>[1](#ref1)</sup>
 <tr>
 <td align="center"><a
 href="http://en.wikipedia.org/wiki/File:IEC5007_On_Symbol.svg"><img
-src="https://github.com/jloughry/Unicode/raw/master/100px-h-IEC5007_On_Symbol.svg.png"
+src="https://github.com/jloughry/Unicode/raw/master/100px-h-IEC5007_On_Symbol.png"
 alt="IEC-5007 ON (power) symbol"></a></td>
 <td><a
 href="http://en.wikipedia.org/wiki/File:IEC5008_Off_Symbol.svg"><img
-src="https://github.com/jloughry/Unicode/raw/master/100px-IEC5008_Off_Symbol.svg.png"
+src="https://github.com/jloughry/Unicode/raw/master/100px-IEC5008_Off_Symbol.png"
 alt="IEC-5008 OFF (power) symbol"></a></td>
 <td><a
 href="http://en.wikipedia.org/wiki/File:IEC5009_Standby_Symbol.svg"><img
-src="https://github.com/jloughry/Unicode/raw/master/100px-IEC5009_Standby_Symbol.svg.png"
+src="https://github.com/jloughry/Unicode/raw/master/100px-IEC5009_Standby_Symbol.png"
 alt="IEC-5009 Stand-by symbol"></a></td>
 <td><a
 href="http://en.wikipedia.org/wiki/File:IEC5010_On_Off_Symbol.svg"><img
-src="https://github.com/jloughry/Unicode/raw/master/100px-IEC5010_On_Off_Symbol.svg.png"
+src="https://github.com/jloughry/Unicode/raw/master/100px-IEC5010_On_Off_Symbol.png"
 alt="IEC-5010 On/OFF (push-push) symbol"></a></td>
 <td><a
 href="http://en.wikipedia.org/wiki/File:Astronomical_symbol_for_the_moon.svg"><img
-src="https://github.com/jloughry/Unicode/raw/master/100px-IEEE1621_Standby_Symbol.svg.png"
+src="https://github.com/jloughry/Unicode/raw/master/100px-IEEE1621_Standby_Symbol.png"
 alt="IEEE 1621 Standby symbol"></a></td>
 </tr>
 <tr>
@@ -87,7 +87,18 @@ the introduction of IEC 60417 for copyright information and vector drawings of t
 Writing the Proposal
 --------------------
 
-TBD
+1. Login through my school and see if I can get the IEC and IEEE standards.
+
+2. If not, the buy them&mdash;the cost of the IEEE standard is reasonable and there is
+some indication that the IEC can be bought for less without a yearly fee.
+
+3. Verify that the Wikipedia symbols shown above are compliant with the specifications.
+
+4. Research on the IEC web site to find the right format in which to write a proposal.
+
+5. Determine whether there is a filing fee.
+
+6. File proposal.
 
 References
 ----------
