@@ -39,7 +39,7 @@ src="https://github.com/jloughry/Unicode/raw/master/100px-IEC5010_On_Off_Symbol.
 alt="IEC-5010 On/OFF (push-push) symbol"></a></td>
 <td><a
 href="http://en.wikipedia.org/wiki/File:Astronomical_symbol_for_the_moon.svg"><img
-src="https://github.com/jloughry/Unicode/raw/master/100px-IEEE1621_Standby_Symbol.png"
+src="https://github.com/jloughry/Unicode/raw/master/100px-Astronomical_symbol_for_the_moon.png"
 alt="IEEE 1621 Standby symbol"></a></td>
 </tr>
 <tr>
