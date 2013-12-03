@@ -1,5 +1,5 @@
-Proposal to Add the IEC 60417-5009 Symbol to Unicode
-====================================================
+Proposal to Add the IEC 60417-5009 Power Button Symbol to Unicode
+=================================================================
 
 [Joe Loughry](mailto:joe.loughry@stx.ox.ac.uk), originally 1st December 2013.
 
@@ -56,13 +56,18 @@ Clearly these would be useful to anyone writing technical or user manuals. In fa
 electronically publishing documentation, it is crucial to have symbols defined in
 Unicode for type because it makes them searchable.
 
-Procedure for Adding Symbols to Unicode
+How to Add Symbols to Unicode
 ---------------------------------------
 
 [The Unicode Consortium](http://www.unicode.org/) has a procedure for
 [submitting character proposals](http://www.unicode.org/pending/proposals.html). None of
 the above symbols appear in the [pipeline](http://www.unicode.org/pending/proposals.html)
 of proposed new symbols, so **let's do it!**
+
+There are a few crescent moon symbols in Unicode already: &#x1f319;
+CRESCENT MOON (U+1F319), &#x263D; FIRST QUARTER MOON (U+263D), and
+&#x263E; LAST QUARTER MOON (U+263E) but none of them are exactly like the
+IEEE 1621 symbol.
 
 Getting Access to the &ldquo;Official&rdquo; Symbols
 ----------------------------------------------------
@@ -85,33 +90,37 @@ Copyright
 ---------
 
 [Alex Stapleton](https://twitter.com/alexstapleton) in
-[this conversation](https://twitter.com/alexstapleton/status/407468582860111873) checked
-the introduction of IEC 60417 for copyright information and vector drawings of the symbols.
+[this conversation](https://twitter.com/alexstapleton/status/407468582860111873)
+on Twitter checked the introduction of IEC 60417 for copyright information and
+vector drawings of the symbols.
 
 Writing the Proposal
 --------------------
 
-1. Login through my school and see if I can get the IEC and IEEE standards.
+1. See if I can get the IEC and IEEE standards through my school.
 
-2. If not, the buy them&mdash;the cost of the IEEE standard is reasonable and there is
-some indication that the IEC can be bought for less without a yearly fee.
+2. If not, I'll buy them&mdash;the cost of the IEEE standard is reasonable and
+there is some indication that the IEC standard can be got for less without a
+yearly fee.
 
-3. Verify that the Wikipedia symbols shown above are compliant with the specifications.
+3. Verify that the Wikipedia symbols shown above are compliant with the
+specifications in the standards.
 
-4. Research on the IEC web site to find the right format in which to write a proposal.
+4. Research on the IEC web site to find the right format in which to write
+a proposal.
 
-5. Determine the &ldquo;character properties&rdquo; like name, bidirectional class,
-upper and lowercase mapping, linebreaking behaviour, collation order, 
+5. Determine the &ldquo;character properties&rdquo; like name, bidirectional
+class, upper and lowercase mapping, linebreaking behaviour, collation order, 
 
 6. Make TrueType and PostScript fonts.
 
-7. File proposal at least seven days in advance of the next quarterly meeting
+7. File the proposal at least seven days in advance of the next quarterly meeting
 of the [Unicode Technical Committee (UTC)](http://unicode.org/consortium/utc.html).
 
 References
 ----------
 
-1. <a name="ref1"/>"Power symbol" *Wikipedia*.
+1. <a name="ref1"/>&ldquo;Power symbol&rdquo; *Wikipedia*.
 http://en.wikipedia.org/wiki/Power_symbol#Definitions
 
 2. <a name="ref2"/>International Electrotechnical Commission.
