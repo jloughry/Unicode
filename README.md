@@ -110,12 +110,14 @@ specifications in the standards.
 a proposal.
 
 5. Determine the &ldquo;character properties&rdquo; like name, bidirectional
-class, upper and lowercase mapping, linebreaking behaviour, collation order, 
+class, upper and lowercase mapping, linebreaking behaviour, and collation order.
 
 6. Make TrueType and PostScript fonts.
 
 7. File the proposal at least seven days in advance of the next quarterly meeting
 of the [Unicode Technical Committee (UTC)](http://unicode.org/consortium/utc.html).
+
+8. If accepted, submit a &ldquo;Show HN&rdquo; post on HN telling how it was done.
 
 References
 ----------
