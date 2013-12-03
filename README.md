@@ -14,40 +14,40 @@ symbols:<sup>[1](#ref1)</sup>
 
 <table>
 <tr>
-<td>IEC 60417-5007</td>
-<td>IEC 60417-5008</td>
-<td>IEC 60417-5009</td>
-<td>IEC 60417-5010</td>
-<td>IEEE 1621</td>
+<td align="center">IEC 60417-5007</td>
+<td align="center">IEC 60417-5008</td>
+<td align="center">IEC 60417-5009</td>
+<td align="center">IEC 60417-5010</td>
+<td align="center">IEEE 1621</td>
 </tr>
 <tr>
 <td align="center"><a
 href="http://en.wikipedia.org/wiki/File:IEC5007_On_Symbol.svg"><img
 src="https://github.com/jloughry/Unicode/raw/master/100px-h-IEC5007_On_Symbol.png"
 alt="IEC-5007 ON (power) symbol"></a></td>
-<td><a
+<td align="center"><a
 href="http://en.wikipedia.org/wiki/File:IEC5008_Off_Symbol.svg"><img
 src="https://github.com/jloughry/Unicode/raw/master/100px-IEC5008_Off_Symbol.png"
 alt="IEC-5008 OFF (power) symbol"></a></td>
-<td><a
+<td align="center"><a
 href="http://en.wikipedia.org/wiki/File:IEC5009_Standby_Symbol.svg"><img
 src="https://github.com/jloughry/Unicode/raw/master/100px-IEC5009_Standby_Symbol.png"
 alt="IEC-5009 Stand-by symbol"></a></td>
-<td><a
+<td align="center"><a
 href="http://en.wikipedia.org/wiki/File:IEC5010_On_Off_Symbol.svg"><img
 src="https://github.com/jloughry/Unicode/raw/master/100px-IEC5010_On_Off_Symbol.png"
 alt="IEC-5010 On/OFF (push-push) symbol"></a></td>
-<td><a
+<td align="center"><a
 href="http://en.wikipedia.org/wiki/File:Astronomical_symbol_for_the_moon.svg"><img
 src="https://github.com/jloughry/Unicode/raw/master/100px-Astronomical_symbol_for_the_moon.png"
 alt="IEEE 1621 Standby symbol"></a></td>
 </tr>
 <tr>
-<td>&ldquo;ON&rdquo; (power)</td>
-<td>&ldquo;OFF&rdquo; (power)</td>
-<td>&ldquo;Stand-by&rdquo;</td>
-<td>&ldquo;ON&rdquo;/&ldquo;OFF&rdquo; (push-push)</td>
-<td>&ldquo;Stand-by&rdquo;</td>
+<td align="center">&ldquo;ON&rdquo; (power)</td>
+<td align="center">&ldquo;OFF&rdquo; (power)</td>
+<td align="center">&ldquo;Stand-by&rdquo;</td>
+<td align="center">&ldquo;ON&rdquo;/&ldquo;OFF&rdquo; (push-push)</td>
+<td align="center">&ldquo;Stand-by&rdquo;</td>
 </tr>
 <tr><td align="center" colspan="5">Click on any image for SVG.</td></tr>
 </table>
@@ -69,13 +69,18 @@ Getting Access to the &ldquo;Official&rdquo; Symbols
 
 [IEC](http://www.iec.ch/) charges
 [400 Swiss Francs](http://webstore.iec.ch/webstore/webstore.nsf/artnum/029221)
-(currently $440 USD) for their standard.<sup>[2](#ref2)</sup> [IEEE](http://standards.ieee.org/)
-charges [$58](http://www.techstreet.com/ieee/products/vendor_id/3344) for the IEEE 1621
-standard.<sup>[3](#ref3)</sup>
+(currently $440 USD) for their standard.<sup>[2](#ref2)</sup> &nbsp;
+[IEEE](http://standards.ieee.org/) charges
+[$58](http://www.techstreet.com/ieee/products/vendor_id/3344) for the
+IEEE 1621 standard.<sup>[3](#ref3)</sup>
 
-I want to verify the specifications for each symbol in IEC 61417 (which is also ISO 7000)
-and IEEE 1621-2004, then translate those into whatever form of description is required by
-Unicode.
+I want to verify the specifications for each symbol shown above in IEEE 1621-2004
+and IEC 61417, which is also
+[ISO 7000:2012](http://www.iso.org/iso/home/store/catalogue_tc/catalogue_detail.htm?csnumber=60898),
+then translate those into whatever form of description is required by Unicode.
+
+The ISO standard is free, so the cost of completing this project is looking
+better all the time.
 
 Copyright
 ---------
@@ -96,9 +101,13 @@ some indication that the IEC can be bought for less without a yearly fee.
 
 4. Research on the IEC web site to find the right format in which to write a proposal.
 
-5. Determine whether there is a filing fee.
+5. Determine the &ldquo;character properties&rdquo; like name, bidirectional class,
+upper and lowercase mapping, linebreaking behaviour, collation order, 
 
-6. File proposal.
+6. Make TrueType and PostScript fonts.
+
+7. File proposal at least seven days in advance of the next quarterly meeting of the
+[Unicode Technical Committee (UTC)](http://unicode.org/consortium/utc.html).
 
 References
 ----------
