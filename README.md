@@ -79,8 +79,7 @@ and IEC 61417, which is also
 [ISO 7000:2012](http://www.iso.org/iso/home/store/catalogue_tc/catalogue_detail.htm?csnumber=60898),
 then translate those into whatever form of description is required by Unicode.
 
-The ISO standard is free, so the cost of completing this project is looking
-better all the time.
+The ISO standard is free<sup>[4](#ref4)</sup>, so if we can use that, we will.
 
 Copyright
 ---------
@@ -106,8 +105,8 @@ upper and lowercase mapping, linebreaking behaviour, collation order,
 
 6. Make TrueType and PostScript fonts.
 
-7. File proposal at least seven days in advance of the next quarterly meeting of the
-[Unicode Technical Committee (UTC)](http://unicode.org/consortium/utc.html).
+7. File proposal at least seven days in advance of the next quarterly meeting
+of the [Unicode Technical Committee (UTC)](http://unicode.org/consortium/utc.html).
 
 References
 ----------
@@ -115,10 +114,13 @@ References
 1. <a name="ref1"/>"Power symbol" *Wikipedia*.
 http://en.wikipedia.org/wiki/Power_symbol#Definitions
 
-2. <a name="ref2"/>International Electrotechnical Commission. *Graphical symbols for use on
-equipment*. IEC 60417, 2005.
+2. <a name="ref2"/>International Electrotechnical Commission.
+*Graphical symbols for use on equipment*. IEC 60417, 2005.
 
-3. <a name="ref3"/>IEEE Standards Association. *IEEE Standard for User Interface Elements in
-Power Control of Electronic Devices Employed in Office/Consumer Environments*. IEEE Standard
-1621-2004.
+3. <a name="ref3"/>IEEE Standards Association. *IEEE Standard for
+User Interface Elements in Power Control of Electronic Devices Employed
+in Office/Consumer Environments*. IEEE Standard 1621-2004.
+
+4. <a name="ref4"/>International Organisation for Standardisation. *Graphical
+symbols for use on equipment -- Registered symbols*. ISO 7000:2012.
 
