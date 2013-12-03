@@ -54,7 +54,7 @@ alt="IEEE 1621 Standby symbol"></a></td>
 
 Clearly these would be useful to anyone writing technical or user manuals. In fact, for
 electronically publishing documentation, it is crucial to have symbols defined in
-Unicode for type because it makes them searchable.
+Unicode because it makes them searchable in text.
 
 How to Add Symbols to Unicode
 ---------------------------------------
@@ -64,10 +64,10 @@ How to Add Symbols to Unicode
 the above symbols appear in the [pipeline](http://www.unicode.org/pending/proposals.html)
 of proposed new symbols, so **let's do it!**
 
-There are a few crescent moon symbols in Unicode already: &#x1f319;
+There are a few crescent moon symbols in Unicode already: the &#x1f319;
 CRESCENT MOON (U+1F319), &#x263D; FIRST QUARTER MOON (U+263D), and
-&#x263E; LAST QUARTER MOON (U+263E) but none of them are exactly like the
-IEEE 1621 symbol.
+&#x263E; LAST QUARTER MOON (U+263E) symbols, but none of them are exactly
+like the IEEE 1621 symbol; U+1F319 is closest, but faces the opposite direction.
 
 Getting Access to the &ldquo;Official&rdquo; Symbols
 ----------------------------------------------------
