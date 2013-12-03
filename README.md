@@ -119,6 +119,15 @@ of the [Unicode Technical Committee (UTC)](http://unicode.org/consortium/utc.htm
 
 8. If accepted, submit a &ldquo;Show HN&rdquo; post on HN telling how it was done.
 
+Notes
+-----
+
+- a font editor that speaks SVG, PostScript, and TrueType is http://fontforge.org/
+
+- [This](http://stackoverflow.com/questions/526402/creating-a-postscript-truetype-font)
+article on [Stack Overflow](http://stackoverflow.com/) suggests using Python and
+[TTX](http://www.letterror.com/code/ttx/) to generate TrueType fonts from SVG.
+
 References
 ----------
 
