@@ -138,9 +138,9 @@ that the font designer thought about the encoding and put the corporate logo in 
 encoding slot for that reason, so it would fail gracefully if the font were unavailable.
 (&ldquo;L&rdquo; for &ldquo;Lockheed&rdquo;?)
 
-Is there a well-known convention to use when
-assigning symbol font encodings: maybe &ldquo;P&rdquo; for &ldquo;power&rdquo; (IEC-5009) and
-&ldquo;S&rdquo; for &ldquo;stand-by&rdquo; (moon) and &ldquo;1&rdquo; and &ldquo;0&rdquo; for
+Is there a well-known convention to use when assigning symbol font encodings: maybe
+&ldquo;P&rdquo; for &ldquo;power&rdquo; (IEC-5009) and &ldquo;S&rdquo; for
+&ldquo;stand-by&rdquo; (crescent moon) and &ldquo;1&rdquo; and &ldquo;0&rdquo; for
 &ldquo;on&rdquo; and &ldquo;off&rdquo; (IEC-5007 and IEC-5008) and &ldquo;T&rdquo; for IEC-5010.
 That would be in accordance with the recommendation in IEEE 1621 to use the IEC-5009 symbol to
 mean &ldquo;power&rdquo; as everyone in the world (except IEC and ICO) thinks it means, and
