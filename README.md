@@ -54,7 +54,7 @@ alt="IEEE 1621 Standby symbol"></a></td>
 
 Clearly these would be useful to anyone writing technical or user manuals. In fact, for
 electronically publishing documentation, it is crucial to have symbols defined in
-Unicode because it makes them searchable in text.
+Unicode because it makes them search-able in text.
 
 How to Add Symbols to Unicode
 ---------------------------------------
@@ -110,7 +110,7 @@ specifications in the standards.
 a proposal.
 
 5. Determine the &ldquo;character properties&rdquo; like name, bidirectional
-class, upper and lowercase mapping, linebreaking behaviour, and collation order.
+class, upper and lowercase mapping, line-breaking behaviour, and collation order.
 
 6. Make TrueType and PostScript fonts.
 
@@ -143,7 +143,7 @@ Is there a well-known convention to use when assigning symbol font encodings: ma
 &ldquo;stand-by&rdquo; (crescent moon) and &ldquo;1&rdquo; and &ldquo;0&rdquo; for
 &ldquo;on&rdquo; and &ldquo;off&rdquo; (IEC-5007 and IEC-5008) and &ldquo;T&rdquo; for IEC-5010.
 That would be in accordance with the recommendation in IEEE 1621 to use the IEC-5009 symbol to
-mean &ldquo;power&rdquo; as everyone in the world (except IEC and ICO) thinks it means, and
+mean &ldquo;power&rdquo; as everyone in the world (except IEC and ISO) thinks it means, and
 the crescent moon symbol to mean &ldquo;stand-by&rdquo;.
 
 References
