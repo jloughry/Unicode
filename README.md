@@ -119,14 +119,30 @@ of the [Unicode Technical Committee (UTC)](http://unicode.org/consortium/utc.htm
 
 8. If accepted, submit a &ldquo;Show HN&rdquo; post on HN telling how it was done.
 
-Notes
------
+Notes on Encoding
+-----------------
 
-- a font editor that speaks SVG, PostScript, and TrueType is http://fontforge.org/
+When designing a new font of symbols where there is no pre-existing ordering to use, what is the
+best way to define the encoding? There are practical and aesthetic reasons for doing it
+thoughtfully. The practical reason is, encodings are shared across fonts, and if a string encoded
+in your new symbol font is accidentally changed to or displayed in a different font, it may
+coincidentally spell out a message that is
+[nonsensical, confusing, or offensive](http://www.snopes.com/rumors/wingdings.asp).
+(Microsoft had this problem with the Webdings and Wingdings fonts a few years ago; it was either
+a coincidence or a conspiracy depending on who's telling the story.)
 
-- [This](http://stackoverflow.com/questions/526402/creating-a-postscript-truetype-font)
-article on [Stack Overflow](http://stackoverflow.com/) suggests using Python and
-[TTX](http://www.letterror.com/code/ttx/) to generate TrueType fonts from SVG.
+Years ago at Lockheed, they had a special font containing the corporate logo in a few sizes, for
+use on letterhead; it was not uncommon to open a Word document and see a big &ldquo;L&rdquo; on
+the page where the letterhead was supposed to be, because the font wasn't loaded. It suggests
+that the font designer thought about the encoding and put the corporate logo in the capital-L
+encoding slot for that reason, so it would fail gracefully if the font were unavailable.
+(&ldquo;L&rdquo; for &ldquo;Lockheed&rdquo;?) Is there a well-known convention to use when
+assigning symbol font encodings: maybe &ldquo;P&rdquo; for &ldquo;power&rdquo; (IEC-5009) and
+&ldquo;S&rdquo; for &ldquo;stand-by&rdquo; (moon) and &ldquo;1&rdquo; and &ldquo;0&rdquo; for
+&ldquo;on&rdquo; and &ldquo;off&rdquo; (IEC-5007 and IEC-5008) and &ldquo;T&rdquo; for IEC-5010.
+That would be in accordance with the recommendation in IEEE 1621 to use the IEC-5009 symbol to
+mean &ldquo;power&rdquo; as everyone in the world (except IEC and ICO) thinks it means, and
+the crescent moon symbol to mean &ldquo;stand-by&rdquo;.
 
 References
 ----------
