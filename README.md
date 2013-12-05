@@ -143,21 +143,31 @@ that reason, so it would fail gracefully if the font were unavailable.
 In the absence of any well-defined convention for code pages in &ldquo;sparse&rdquo;
 symbol fonts, here is a proposed encoding:
 <table>
-<tr><th>Code Point</th><td>Symbol</th><th>Rationale</th></tr>
-<tr><td>P</td><td>IEC-5009</td><td>&ldquo;power&rdquo;<sup><a href="#refstar">*</a></sup></td></tr>
-<tr><td>S</td><td>IEEE 1621</td><td>&ldquo;standby&rdquo;</td></tr>
-<tr><td>T</td><td>IEC-5010</td><td>&ldquo;toggle&rdquo;</td></tr>
-<tr><td>0</td><td>IEC-5008</td><td>binary &ldquo;0&rdquo;</td></tr>
-<tr><td>1</td><td>IEC-5007</td><td>binary &ldquo;1&rdquo;</td></tr>
+<tr><th align="center">Code Point</th><th align="center">Symbol</th><th>Rationale</th></tr>
+<tr><td align="center">P</td><td align="center"><img
+src="https://github.com/jloughry/Unicode/raw/master/18px-IEC5009_Standby_Symbol.svg.png"
+alt="IEC-5009 symbol"></td><td>&ldquo;power&rdquo;<a href="#refstar">*</a></td></tr>
+<tr><td align="center">S</td><td align="center"><img
+src="https://github.com/jloughry/Unicode/raw/master/18px-Astronomical_symbol_for_the_moon.svg.png"
+alt="IEEE 1621 stand-by symbol"></td><td>&ldquo;standby&rdquo;</td></tr>
+<tr><td align="center">T</td><td align="center"><img
+src="https://github.com/jloughry/Unicode/raw/master/18px-IEC5010_On_Off_Symbol.svg.png"
+alt="IEC-5010 symbol"></td><td>&ldquo;toggle&rdquo;</td></tr>
+<tr><td align="center">0</td><td align="center"><img
+src="https://github.com/jloughry/Unicode/raw/master/18px-IEC5008_Off_Symbol.svg.png"
+alt="IEC-5008 symbol"></td><td>binary &ldquo;0&rdquo;</td></tr>
+<tr><td align="center">1</td><td align="center"><img
+src="https://github.com/jloughry/Unicode/raw/master/18px-IEC5007_On_Symbol.svg.png"
+alt="IEC-5007 symbol"></td><td>binary &ldquo;1&rdquo;</td></tr>
 </table>
 
 <a name="refstar"/>* This is in accordance with the recommendation in IEEE 1621:2004
-to use the IEC-5009
+to use the
 ![IEC-5009](https://github.com/jloughry/Unicode/raw/master/18px-IEC5009_Standby_Symbol.svg.png)
 symbol to mean &ldquo;power&rdquo; as everyone in the world except IEC and ISO thinks it means,
-and to use the crescent moon symbol
+and to use the
 ![moon](https://github.com/jloughry/Unicode/raw/master/18px-Astronomical_symbol_for_the_moon.svg.png)
-to mean &ldquo;stand-by&rdquo;.
+symbol to mean &ldquo;stand-by&rdquo;.
 
 References
 ----------
