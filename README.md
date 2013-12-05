@@ -52,7 +52,7 @@ alt="IEEE 1621 Standby symbol"></a></td>
 <tr><td align="center" colspan="5">Click on any image for SVG.</td></tr>
 </table>
 
-Source: [Wikipedia](http://en.wikipedia.org/wiki/Power_symbol).
+Source of the above images: [Wikipedia](http://en.wikipedia.org/wiki/Power_symbol).
 
 Clearly these would be useful to anyone writing technical or user manuals. In fact, for
 electronically publishing documentation, it is crucial to have symbols defined in
