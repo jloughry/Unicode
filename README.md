@@ -167,8 +167,8 @@ alt="IEC-5007 symbol"></td><td>binary &ldquo;1&rdquo;</td><td>&nbsp;</td></tr>
 
 ### Notes
 
-<a name="note1"/>1. Power symbol usage is in accordance with the recommendation
-in IEEE 1621:2004 to use the
+<a name="note1"/>1. This usage of the &ldquo;power&rdquo; symbol is in
+accordance with the recommendation in IEEE 1621:2004 to use the
 ![IEC-5009](https://github.com/jloughry/Unicode/raw/master/18px-IEC5009_Standby_Symbol.svg.png)
 symbol to mean &ldquo;power&rdquo; as everyone in the world except IEC and ISO thinks it means,
 and to use the
