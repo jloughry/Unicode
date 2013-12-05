@@ -141,7 +141,8 @@ thought about the encoding and put the corporate logo in the capital-L encoding 
 that reason, so it would fail gracefully if the font were unavailable.
 
 In the absence of any well-defined convention for code pages in &ldquo;sparse&rdquo;
-symbol fonts, here is a proposed encoding:
+symbol fonts, here is a proposed encoding for the
+[new font](https://github.com/jloughry/Unicode/tree/master/fonts):
 <table>
 <tr>
 <th align="center">Code Point</th><th align="center">Symbol</th><th>Rationale</th><th>Note</th>
