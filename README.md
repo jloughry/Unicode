@@ -148,7 +148,8 @@ symbol fonts, here is a proposed encoding:
 </tr>
 <tr><td align="center">P</td><td align="center"><img
 src="https://github.com/jloughry/Unicode/raw/master/18px-IEC5009_Standby_Symbol.svg.png"
-alt="IEC-5009 symbol"></td><td>&ldquo;power&rdquo;</td><td><a href="#note1">1</a></td></tr>
+alt="IEC-5009 symbol"></td><td>&ldquo;power&rdquo;</td><td align="center"><a
+href="#note1">1</a></td></tr>
 <tr><td align="center">S</td><td align="center"><img
 src="https://github.com/jloughry/Unicode/raw/master/18px-Astronomical_symbol_for_the_moon.svg.png"
 alt="IEEE 1621 stand-by symbol"></td><td>&ldquo;standby&rdquo;</td><td>&nbsp;</td></tr>
@@ -159,14 +160,14 @@ alt="IEC-5010 symbol"></td><td>&ldquo;toggle&rdquo;</td><td>&nbsp;</td></tr>
 src="https://github.com/jloughry/Unicode/raw/master/18px-IEC5008_Off_Symbol.svg.png"
 alt="IEC-5008 symbol"></td><td>binary &ldquo;0&rdquo;</td><td>&nbsp;</td></tr>
 <tr><td align="center">1</td><td align="center"><img
-src="https://github.com/jloughry/Unicode/raw/master/18px-IEC5007_On_Symbol.svg.png"
+src="https://github.com/jloughry/Unicode/raw/master/3px-IEC5007_On_Symbol.svg.png"
 alt="IEC-5007 symbol"></td><td>binary &ldquo;1&rdquo;</td><td>&nbsp;</td></tr>
 </table>
 
 ### Notes
 
-<a name="note1"/>1. This is in accordance with the recommendation in IEEE 1621:2004
-to use the
+<a name="note1"/>1. Power symbol usage is in accordance with the recommendation
+in IEEE 1621:2004 to use the
 ![IEC-5009](https://github.com/jloughry/Unicode/raw/master/18px-IEC5009_Standby_Symbol.svg.png)
 symbol to mean &ldquo;power&rdquo; as everyone in the world except IEC and ISO thinks it means,
 and to use the
