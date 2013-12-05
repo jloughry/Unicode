@@ -144,17 +144,15 @@ In the absence of any well-defined convention for code pages in &ldquo;sparse&rd
 symbol fonts, here is a proposed encoding:
 <table>
 <tr><th>Code Point</th><td>Symbol</th><th>Rationale</th></tr>
-<tr>
-<td>P</td><td>IEC-5009</td><td>&ldquo;power&rdquo;<sup>[*](#refstar)</sup></td>
-<td>S</td><td>IEEE 1621</td><td>&ldquo;standby&rdquo;</td>
-<td>T</td><td>IEC-5010</td><td>&ldquo;toggle&rdquo;</td>
-<td>0</td><td>IEC-5008</td><td>binary &ldquo;0&rdquo;</td>
-<td>1</td><td>IEC-5007</td><td>binary &ldquo;1&rdquo;</td>
-</tr>
+<tr><td>P</td><td>IEC-5009</td><td>&ldquo;power&rdquo;<sup><a href="#refstar">*</a></sup></td></tr>
+<tr><td>S</td><td>IEEE 1621</td><td>&ldquo;standby&rdquo;</td></tr>
+<tr><td>T</td><td>IEC-5010</td><td>&ldquo;toggle&rdquo;</td></tr>
+<tr><td>0</td><td>IEC-5008</td><td>binary &ldquo;0&rdquo;</td></tr>
+<tr><td>1</td><td>IEC-5007</td><td>binary &ldquo;1&rdquo;</td></tr>
 </table>
 
-<sup>*</sup> <a name="refstar"/>This is in accordance with the recommendation in
-IEEE 1621:2004 to use the IEC-5009
+<a name="refstar"/>* This is in accordance with the recommendation in IEEE 1621:2004
+to use the IEC-5009
 ![IEC-5009](https://github.com/jloughry/Unicode/raw/master/18px-IEC5009_Standby_Symbol.svg.png)
 symbol to mean &ldquo;power&rdquo; as everyone in the world except IEC and ISO thinks it means,
 and to use the crescent moon symbol
