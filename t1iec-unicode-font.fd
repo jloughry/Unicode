@@ -1,0 +1,19 @@
+\ProvidesFile{t1iec-unicode-font.fd}[IEC Unicode font]
+
+\DeclareFontFamily{T1}{iec-unicode-font}{}
+
+\DeclareFontShape{T1}{iec-unicode-font}{m}{n}{
+   <-> iec-unicode-font
+}{}
+
+\DeclareFontShape{T1}{iec-unicode-font}{bx}{n}{<->ssub * iec-unicode-font/m/n}{}
+
+\DeclareFontShape{T1}{iec-unicode-font}{m}{it}{<->ssub * ptm/m/it}{}
+\DeclareFontShape{T1}{iec-unicode-font}{m}{sl}{<->ssub * ptm/m/sl}{}
+\DeclareFontShape{T1}{iec-unicode-font}{m}{sc}{<->ssub * ptm/m/sc}{}
+
+\DeclareFontShape{T1}{iec-unicode-font}{bx}{it}{<->ssub * ptm/b/it}{}
+\DeclareFontShape{T1}{iec-unicode-font}{bx}{sl}{<->ssub * ptm/b/sl}{}
+\DeclareFontShape{T1}{iec-unicode-font}{bx}{sc}{<->ssub * ptm/b/sc}{}
+
+\pdfmapline{+iec-unicode-font\space <iec-unicode-font.ttf\space <T1-WGL4.enc}

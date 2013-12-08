@@ -1,0 +1,44 @@
+%
+% Proposal to The Unicode Consortium to include IEC-5007, -8, -9,
+% -10, and IEEE 1621 "Stand-by" sumbols in Unicode.
+%
+% For information on this file please contact Joe Loughry at
+% Tel. +1 303 221 4380 (time zone GMT minus 7 hours) or Email:
+% joe.loughry@stx.ox.ac.uk
+%
+
+\documentclass[10pt,letterpaper]{article}
+
+\usepackage[english,british]{babel}
+\usepackage[pdftex]{graphicx}
+\usepackage[T1]{fontenc}
+
+\newcommand\customfont[1]{{\usefont{T1}{iec-unicode-font}{m}{n} #1 }}
+
+\begin{document}
+
+\title{Proposal to Include IEC Power Button Symbols in Unicode}
+
+\author{Joe Loughry and Terence Eden}
+
+\maketitle
+
+\begin{abstract}
+The international symbols \customfont{P} meaning `power on' and \customfont{P}
+meaning `stand-by' are not in Unicode.  Clearly these would be useful to anyone
+writing technical or user manuals. Furthermore, for electronically published
+documentation, it is crucial to have the symbols defined in Unicode because it
+makes them search-able in text.  In this proposal we provide a TrueType font
+containing the glyphs as specified in three international standards together
+with all needed character properties.
+\end{abstract}
+
+\section{Introduction}
+
+It has long been known\ldots \cite{Kafka1946}
+
+\bibliographystyle{plain}
+\bibliography{consolidated_bibtex_file}
+
+\end{document}
+

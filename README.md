@@ -59,7 +59,7 @@ electronically publishing documentation, it is crucial to have symbols defined i
 Unicode because it makes them search-able in text.
 
 How to Add Symbols to Unicode
----------------------------------------
+-----------------------------
 
 [The Unicode Consortium](http://www.unicode.org/) has a procedure for
 [submitting character proposals](http://www.unicode.org/pending/proposals.html). None of
@@ -96,30 +96,27 @@ Copyright
 on Twitter checked the introduction of IEC 60417 for copyright information and
 vector drawings of the symbols.
 
-Writing the Proposal
---------------------
+Draft Proposal
+--------------
 
-1. See if I can get the IEC and IEEE standards through my school.
+The current draft proposal is
+[here](https://github.com/jloughry/Unicode/raw/master/proposal.pdf) (PDF).
 
-2. If not, I'll buy them&mdash;the cost of the IEEE standard is reasonable and
-there is some indication that the IEC standard can be got for less without a
-yearly fee.
+The next quarterly meeting of the
+[Unicode Technical Committee (UTC)](http://unicode.org/consortium/utc.html) is
+28th January 2014. Before then we need:
 
-3. Verify that the Wikipedia symbols shown above are compliant with the
-specifications in the standards.
+- &ldquo;character properties&rdquo; like name, bidirectional class, upper and
+lowercase mapping, line-breaking behaviour, and collation order.
 
-4. Research on the IEC web site to find the right format in which to write
-a proposal.
+- Check the IEC and IEEE standards to verify that the symbols in the new font
+are compliant with the specifications in the standards.
 
-5. Determine the &ldquo;character properties&rdquo; like name, bidirectional
-class, upper and lowercase mapping, line-breaking behaviour, and collation order.
+- Check the Unicode Consortium web site for required or recommended proposal
+format.
 
-6. Make TrueType and PostScript fonts.
-
-7. File the proposal at least seven days in advance of the next quarterly meeting
-of the [Unicode Technical Committee (UTC)](http://unicode.org/consortium/utc.html).
-
-8. If accepted, submit a &ldquo;Show HN&rdquo; post on HN telling how it was done.
+After the proposal is submitted, I plant to submit a &ldquo;Show HN&rdquo; post
+on HN telling how it was done.
 
 Notes on Encoding
 -----------------
