@@ -172,6 +172,12 @@ and to use the
 ![moon](https://github.com/jloughry/Unicode/raw/master/18px-Astronomical_symbol_for_the_moon.svg.png)
 symbol to mean &ldquo;stand-by&rdquo;.
 
+### Notes on XeTeX
+
+XeTeX in the current version of MiKTeX has a bug that causes a harmless message
+during compilation, `** WARNING ** Couldn't open font map file "kanjix.map"`. To
+avoid it, place an empty file called `kanjix.map` in the current directory.
+
 References
 ----------
 

@@ -10,10 +10,21 @@
 \documentclass[10pt,letterpaper]{article}
 
 \usepackage[english,british]{babel}
-\usepackage[pdftex]{graphicx}
-\usepackage[T1]{fontenc}
 
-\newcommand\customfont[1]{{\usefont{T1}{iec-unicode-font}{m}{n} #1 }}
+% to let me use the new TrueType font we created:
+\usepackage{fontspec}
+
+% for formatting URLs (the `obeyspaces' option is for URLs with spaces (%20) in them):
+\usepackage[obeyspaces]{url}
+
+% added 20130901.2347 for putting angled brackets around URLs:
+\newcommand{\URL}[1]{$\langle$\url{#1}$\rangle$}
+
+% for XeLaTeX logo
+\usepackage{hologo}
+
+% Use \IEC{x} to display a symbol in the new font.
+\newcommand{\IEC}[1]{{\fontspec{IEC power}#1}}
 
 \begin{document}
 
@@ -24,21 +35,63 @@
 \maketitle
 
 \begin{abstract}
-The international symbols \customfont{P} meaning `power on' and \customfont{P}
-meaning `stand-by' are not in Unicode.  Clearly these would be useful to anyone
-writing technical or user manuals. Furthermore, for electronically published
-documentation, it is crucial to have the symbols defined in Unicode because it
-makes them search-able in text.  In this proposal we provide a TrueType font
-containing the glyphs as specified in three international standards together
-with all needed character properties.
+The international symbols IEC 60417-5009 \IEC{P} meaning `power' and
+IEEE-STD-1621 \IEC{S} meaning `stand-by' are not in Unicode.  Clearly
+these signs would be useful to anyone writing technical or user manuals.
+Furthermore, for electronically published documentation, it is crucial
+to have the symbols defined in Unicode because it makes them searchable
+in text.  In this proposal we provide a TrueType font named `IEC power'
+containing the glyphs as specified in three international standards
+together with all needed character properties.
 \end{abstract}
 
 \section{Introduction}
 
-It has long been known\ldots \cite{Kafka1946}
+The following symbols are defined in IEC 60417, which is also ISO 7000:2012,
+and IEEE 1621, which describes the current practice
+\cite{IEEE1621,ISO7000,IEC60417}.
+
+The five symbols defined in this font are shown in Table~\ref{table:symbols}.
+Only these symbols are defined; if an undefined character, for example `A' is
+called for in the font, the result is implementation-defined. In \hologo{XeTeX}
+the result is \IEC{A}. In OpenOffice Writer, the result is `A' in a san-serif
+typeface.
+
+\begin{table}[htbp]
+	\centering
+	\begin{tabular}{clcll}
+		\textbf{Symbol} & \textbf{Standard} & \textbf{Character} & \
+			\textbf{Mnemonic} & \textbf{Meaning} \\
+		\hline \\
+		\IEC{P} & IEC 60417-5009 & P & `power'       & Power        \\
+		\IEC{T} & IEC 60417-5010 & T & `toggle'      & Power on/off \\
+		\IEC{0} & IEC 60417-5008 & 0 & `binary zero' & Power off    \\
+		\IEC{1} & IEC 60417-5007 & 1 & `binary one'  & Power on     \\
+		\IEC{S} & IEEE 6121      & S & `sleep'       & Stand-by     \\
+    \end{tabular}
+    \caption{All of the available glyphs in the \emph{IEC power} TrueType font.}
+    \label{table:symbols} % label must come after caption!
+\end{table}
+
+\section{How this document was made}
+
+There is an excellent SVG font tutorial at
+\URL{http://www.webdesignerdepot.com/2012/01/how-to-make-your-own-icon-webfont/}
+that is specifically aimed at generating icon fonts and includes an SVG font
+starter file, instructions for using the SVG font editor in Inkscape,
+recommendations about which on-line font converters are reliable, and tips for
+editing the metadata and distributing the new font afterwards.
+
+\subsection{TrueType fonts in {\LaTeX}}
+
+To use the TrueType font in \TeX, this file must be compiled with \hologo{XeTeX}
+and the font should be installed on the system ahead of time.
 
 \bibliographystyle{plain}
 \bibliography{consolidated_bibtex_file}
+
+\vfill
+{\tiny Build \input{build_counter.txt}}
 
 \end{document}
 
