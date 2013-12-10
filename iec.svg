@@ -9,7 +9,7 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   version="1.0"
+   version="1.1"
    width="1000"
    height="1000"
    id="svg5496"
@@ -67,12 +67,12 @@
        id="perspective3931" />
     <font
        horiz-adv-x="1024"
-       id="font3933"
+       id="IECpower"
        inkscape:label="font 1">
       <font-face
          units-per-em="1024"
-         id="font-face3935"
-         font-family="IEC power" />
+         id="IEC power symbols"
+         font-family="IEC Unicode" />
       <missing-glyph
          d="M0,0h1000v1024h-1000z"
          id="missing-glyph3937" />

@@ -118,6 +118,23 @@ format.
 After the proposal is submitted, I plant to submit a &ldquo;Show HN&rdquo; post
 on HN telling how it was done.
 
+Notes on Tools for Creating Fonts
+---------------------------------
+
+There is an excellent
+[SVG font tutorial](http://www.webdesignerdepot.com/2012/01/how-to-make-your-own-icon-webfont/)
+specifically aimed at generating icon fonts. It includes an SVG font starter file,
+instructions for using the SVG font editor built into Inkscape 0.48, recommendations
+about which on-line font converters are most reliable, and tips for editing the
+metadata and distributing the new font afterwards.
+
+These instructions for
+[using TrueType fonts in LaTeX](http://fachschaft.physik.uni-greifswald.de/~stitch/ttf.html)
+are straightforward, but a better method is to use
+[XeTeX](http://en.wikipedia.org/wiki/XeTeX)
+which has built-in support for TrueType fonts already installed in the OS,
+and is available in MiKTeX 2.9.
+
 Notes on Encoding
 -----------------
 
