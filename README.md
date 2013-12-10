@@ -156,7 +156,7 @@ that reason, so it would fail gracefully if the font were unavailable.
 
 In the absence of any well-defined convention for code pages in &ldquo;sparse&rdquo;
 symbol fonts, here is a proposed encoding for the
-[new font](https://github.com/jloughry/Unicode/tree/master/fonts):
+[new font](https://github.com/jloughry/Unicode/blob/master/iec.ttf?raw=true):
 <table>
 <tr>
 <th align="center">Code Point</th><th align="center">Symbol</th><th>Rationale</th><th>Note</th>
