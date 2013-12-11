@@ -81,20 +81,23 @@ Getting Access to the &ldquo;Official&rdquo; Symbols
 [$58](http://www.techstreet.com/ieee/products/vendor_id/3344) for the
 IEEE 1621 standard.<sup>[3](#ref3)</sup>
 
-I want to verify the specifications for each symbol shown above in IEEE 1621-2004
-and IEC 61417, which is also
+Before submitting a proposal, I would like to verify the specifications for each
+symbol shown above in IEEE 1621-2004 and IEC 61417, which is also
 [ISO 7000:2012](http://www.iso.org/iso/home/store/catalogue_tc/catalogue_detail.htm?csnumber=60898),
-then translate those into whatever form of description is required by Unicode.
+and then translate those into whatever form of description is required by Unicode.
 
-The ISO standard is free<sup>[4](#ref4)</sup>, so if we can use that, we will.
+The ISO standard is free.<sup>[4](#ref4)</sup>
 
-Copyright
----------
+Copyright of the Symbols
+------------------------
 
 [Alex Stapleton](https://twitter.com/alexstapleton) in
 [this conversation](https://twitter.com/alexstapleton/status/407468582860111873)
 on Twitter checked the introduction of IEC 60417 for copyright information and
 vector drawings of the symbols.
+
+The [SVG](http://en.wikipedia.org/wiki/Svg) files for the symbols in the table
+are public domain.
 
 Draft Proposal
 --------------
