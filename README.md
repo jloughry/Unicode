@@ -54,7 +54,7 @@ alt="IEEE 1621 Standby symbol"></a></td>
 
 Source of the above images: [Wikipedia](http://en.wikipedia.org/wiki/Power_symbol).
 The symbols were drawn by Wikipedia users [klork](http://commons.wikimedia.org/wiki/User:Klork)
-and [DarkEvil](ihttp://commons.wikimedia.org/wiki/User:DarkEvil).
+and [DarkEvil](http://commons.wikimedia.org/wiki/User:DarkEvil).
 
 Clearly these would be useful to anyone writing technical or user manuals. In fact, for
 electronically publishing documentation, it is crucial to have symbols defined in
