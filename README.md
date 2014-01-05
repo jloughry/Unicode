@@ -113,8 +113,8 @@ The current draft proposal is
 [here](https://github.com/jloughry/Unicode/raw/master/proposal.pdf) (PDF).
 
 I joined the Unicode Consortium as an
-[individual member](http://www.unicode.org/consortium/levels.html) to get
-on the mailing list for Unicode Technical Committee meeting announcements.
+[individual member](http://www.unicode.org/consortium/levels.html#individual)
+to get on the mailing list for Unicode Technical Committee meeting announcements.
 
 ### TODO
 

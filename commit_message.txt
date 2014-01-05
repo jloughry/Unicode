@@ -1,1 +1,1 @@
-I joined the Unicode Consortium as a student member to get on their mailing list.
+fix target of URL in Unicode membership link.
