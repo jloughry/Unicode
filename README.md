@@ -6,7 +6,7 @@ Proposal to Add the IEC 60417-5009 Power Button Symbol to Unicode
 Latest Updates
 --------------
 
-See the [Draft Proposal](#update20140104) section.
+*(4th January 2013)* See the [Draft Proposal](#update20140104) section.
 
 The IEC 60417-5009 &ldquo;Stand-by&rdquo; Symbol
 ------------------------------------------------
@@ -176,7 +176,7 @@ in San Jose, California. The next meeting after that is 6&ndash;9 May 2014.
 I want to get our proposal submitted in time to make the agenda for the February
 meeting (two weeks in advance).
 
-### Afterward
+### What To Do Next
 
 After the proposal is submitted, I plant to submit a &ldquo;Show HN&rdquo; post
 on HN telling how it was done.

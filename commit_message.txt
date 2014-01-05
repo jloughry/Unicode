@@ -1,1 +1,1 @@
-apply spacing correction after use of italics
+added revision date
