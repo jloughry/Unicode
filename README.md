@@ -163,7 +163,8 @@ In the [latest edition](http://www.unicode.org/Public/UCD/latest/) of the standa
 </table>
 
 ...but not the IEC power symbol. There are none in [BETA](http://www.unicode.org/ucd/#Beta)
-right now; therefore, it is proper to submit a proposal at this time. Hints for
+right now, nor in the [pipeline](http://www.unicode.org/pending/proposals.html) as of
+20-December-2013; therefore, it is proper to submit a proposal at this time. Hints for
 [Submitting Successful Character and Script Proposals](http://www.unicode.org/faq/char_proposal.html)
 for submitting good proposals are being looked at.
 

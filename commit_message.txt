@@ -1,1 +1,1 @@
-added revision date
+checked the Unicode pipeline; our proposed characters are not in it.
