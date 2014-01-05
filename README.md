@@ -130,7 +130,7 @@ format.
 - Check to make sure these symbols are not in any upcoming draft standard.
 
 In the [latest edition](http://www.unicode.org/Public/UCD/latest/) of the standard,
-*The Unicode Standard, Version 6.3.0*<sup>[5](#ref5)</sup>, released 27th September
+*The Unicode Standard, Version 6.3.0* <sup>[5](#ref5)</sup>, released 27th September
 2013, there are 11 occurrences of the word *power* in the Unicode Character Database:
 
 <table>
@@ -162,8 +162,8 @@ In the [latest edition](http://www.unicode.org/Public/UCD/latest/) of the standa
 </tr>
 </table>
 
-There are none in [BETA](http://www.unicode.org/ucd/#Beta) right now; therefore, it is
-proper to submit a proposal at this time. Hints for
+...but not the IEC power symbol. There are none in [BETA](http://www.unicode.org/ucd/#Beta)
+right now; therefore, it is proper to submit a proposal at this time. Hints for
 [Submitting Successful Character and Script Proposals](http://www.unicode.org/faq/char_proposal.html)
 for submitting good proposals are being looked at.
 

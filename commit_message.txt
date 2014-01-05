@@ -1,1 +1,1 @@
-fixed broken link in references
+apply spacing correction after use of italics
