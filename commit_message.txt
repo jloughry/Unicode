@@ -1,1 +1,1 @@
-updated calendar, before applying CSS for highlighting changes
+added link to latest information; there isn't any way to change the background colour in Markdown

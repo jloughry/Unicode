@@ -106,11 +106,14 @@ vector drawings of the symbols.
 The [SVG](http://en.wikipedia.org/wiki/Svg) files for the symbols in the table
 are public domain.
 
-Draft Proposal
---------------
+Draft Proposal<a name="update20140104"/>
+----------------------------------------
 
 The current draft proposal is
 [here](https://github.com/jloughry/Unicode/raw/master/proposal.pdf) (PDF).
+
+TODO
+====
 
 - &ldquo;character properties&rdquo; like name, bidirectional class, upper and
 lowercase mapping, line-breaking behaviour, and collation order.
@@ -121,7 +124,12 @@ are compliant with the specifications in the standards.
 - Check the Unicode Consortium web site for required or recommended proposal
 format.
 
-<a name="update20140104"/>In the latest edition of the standard,
+DONE
+====
+
+- Check to make sure these symbols are not in any upcoming draft standard.
+
+In the latest edition of the standard,
 [*The Unicode Standard, Version 6.3.0*](http://www.unicode.org/Public/UCD/latest/)
 <sup>[5](#ref5)</sup>, released 27th September 2013, there are 11 occurrences of
 the word *power* in the Unicode Character Database:
@@ -161,10 +169,9 @@ proper to submit a proposal at this time. Hints for
 for submitting good proposals are being looked at.
 
 The calendar has been updated; the next quarterly meeting of the
-[Unicode Technical Committee (UTC)](http://unicode.org/consortium/utc.html) is
-[3&ndash;6 February 2014](http://www.unicode.org/timesens/calendar.html) in
-San Jose, California. The next meeting after that is 6&ndash;9 May 2014.
-
+[Unicode Technical Committee (UTC)](http://unicode.org/consortium/utc.html) will
+take place [3&ndash;6 February 2014](http://www.unicode.org/timesens/calendar.html)
+in San Jose, California. The next meeting after that is 6&ndash;9 May 2014.
 I want to get our proposal submitted in time to make the agenda for the February
 meeting (two weeks in advance).
 
