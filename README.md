@@ -129,10 +129,9 @@ format.
 
 - Check to make sure these symbols are not in any upcoming draft standard.
 
-In the latest edition of the standard,
-[*The Unicode Standard, Version 6.3.0*](http://www.unicode.org/Public/UCD/latest/)
-<sup>[5](#ref5)</sup>, released 27th September 2013, there are 11 occurrences of
-the word *power* in the Unicode Character Database:
+In the [latest edition](http://www.unicode.org/Public/UCD/latest/) of the standard,
+*The Unicode Standard, Version 6.3.0*<sup>[5](#ref5)</sup>, released 27th September
+2013, there are 11 occurrences of the word *power* in the Unicode Character Database:
 
 <table>
 <tr>

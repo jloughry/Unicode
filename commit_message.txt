@@ -1,1 +1,1 @@
-fixed syntax of third-level headers; I hate Markdown.
+fixed broken link in references
