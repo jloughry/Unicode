@@ -1,1 +1,1 @@
-fixed formatting of table ("rowspan" has an off-by-one bug?); added reference to latest standard.
+updated calendar, before applying CSS for highlighting changes

@@ -3,10 +3,10 @@ Proposal to Add the IEC 60417-5009 Power Button Symbol to Unicode
 
 [Joe Loughry](mailto:joe.loughry@stx.ox.ac.uk), originally 1st December 2013.
 
-Updates
--------
+Latest Updates
+--------------
 
-See the [Draft Proposal](#update20140104) section
+See the [Draft Proposal](#update20140104) section.
 
 The IEC 60417-5009 &ldquo;Stand-by&rdquo; Symbol
 ------------------------------------------------
@@ -109,10 +109,22 @@ are public domain.
 Draft Proposal
 --------------
 
+The current draft proposal is
+[here](https://github.com/jloughry/Unicode/raw/master/proposal.pdf) (PDF).
+
+- &ldquo;character properties&rdquo; like name, bidirectional class, upper and
+lowercase mapping, line-breaking behaviour, and collation order.
+
+- Check the IEC and IEEE standards to verify that the symbols in the new font
+are compliant with the specifications in the standards.
+
+- Check the Unicode Consortium web site for required or recommended proposal
+format.
+
 <a name="update20140104"/>In the latest edition of the standard,
-[*The Unicode Standard, Version 6.3.0*](http://www.unicode.org/Public/UCD/latest/)<sup>[5](#ref5)</sup>,
-released 27th September 2013, there are 11 occurrences of the word *power* in the
-database:
+[*The Unicode Standard, Version 6.3.0*](http://www.unicode.org/Public/UCD/latest/)
+<sup>[5](#ref5)</sup>, released 27th September 2013, there are 11 occurrences of
+the word *power* in the Unicode Character Database:
 
 <table>
 <tr>
@@ -143,26 +155,18 @@ database:
 </tr>
 </table>
 
-There are none in [BETA](http://www.unicode.org/ucd/#Beta) right now. Therefore, it is
+There are none in [BETA](http://www.unicode.org/ucd/#Beta) right now; therefore, it is
 proper to submit a proposal at this time. Hints for
 [Submitting Successful Character and Script Proposals](http://www.unicode.org/faq/char_proposal.html)
 for submitting good proposals are being looked at.
 
-The current draft proposal is
-[here](https://github.com/jloughry/Unicode/raw/master/proposal.pdf) (PDF).
-
-The next quarterly meeting of the
+The calendar has been updated; the next quarterly meeting of the
 [Unicode Technical Committee (UTC)](http://unicode.org/consortium/utc.html) is
-28th January 2014. Before then we need:
+[3&ndash;6 February 2014](http://www.unicode.org/timesens/calendar.html) in
+San Jose, California. The next meeting after that is 6&ndash;9 May 2014.
 
-- &ldquo;character properties&rdquo; like name, bidirectional class, upper and
-lowercase mapping, line-breaking behaviour, and collation order.
-
-- Check the IEC and IEEE standards to verify that the symbols in the new font
-are compliant with the specifications in the standards.
-
-- Check the Unicode Consortium web site for required or recommended proposal
-format.
+I want to get our proposal submitted in time to make the agenda for the February
+meeting (two weeks in advance).
 
 After the proposal is submitted, I plant to submit a &ldquo;Show HN&rdquo; post
 on HN telling how it was done.
