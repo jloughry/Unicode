@@ -1,0 +1,1 @@
+/cygdrive/c/Documents and Settings/rjl/My Documents/thesis/github/Makefiles/get_commit_message.sh

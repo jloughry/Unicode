@@ -3,6 +3,11 @@ Proposal to Add the IEC 60417-5009 Power Button Symbol to Unicode
 
 [Joe Loughry](mailto:joe.loughry@stx.ox.ac.uk), originally 1st December 2013.
 
+Updates
+-------
+
+See the [Draft Proposal](#update20140104) section
+
 The IEC 60417-5009 &ldquo;Stand-by&rdquo; Symbol
 ------------------------------------------------
 
@@ -103,6 +108,39 @@ are public domain.
 
 Draft Proposal
 --------------
+
+<a name="update20140104"/>In the latest edition of the standard,
+[*The Unicode Standard, Version 6.3*](http://www.unicode.org/Public/UCD/latest/)
+there are ? occurrences of the word *power*:
+
+<table>
+<tr>
+<th>Section</th><th align="center">Code Point</th><th>Description</th>
+</tr>
+<tr><td rowspan="7">Telugu fractions and weights</td></tr>
+<tr><td>0C78</td><td>TELUGU FRACTION DIGIT ZERO FOR ODD POWERS OF FOUR</td></tr>
+<tr><td>0C79</td><td>TELUGU FRACTION DIGIT ONE FOR ODD POWERS OF FOUR</td></tr>
+<tr><td>0C7A</td><td>TELUGU FRACTION DIGIT TWO FOR ODD POWERS OF FOUR</td></tr>
+<tr><td>0C7B</td><td>TELUGU FRACTION DIGIT THREE FOR ODD POWERS OF FOUR</td></tr>
+<tr><td>0C7C</td><td>TELUGU FRACTION DIGIT ONE FOR EVEN POWERS OF FOUR</td></tr>
+<tr><td>0C7D</td><td>TELUGU FRACTION DIGIT TWO FOR EVEN POWERS OF FOUR</td></tr>
+<tr><td>0C7E</td><td>TELUGU FRACTION DIGIT THREE FOR EVEN POWERS OF FOUR</td></tr>
+<tr>
+	<td>Miscellaneous Symbols</td>
+	<td>26EE</td><td>GEAR WITH HANDLES (= power plant, power substation)</td>
+</tr>
+<tr>
+	<td>Kangxi Radicals</td>
+	<td>2F12</td><td>KANGXI RADICAL POWER</td>
+</tr>
+<tr>
+	<td>Yijing Hexagram Symbols</td>
+	<td>4DE1</td><td>HEXAGRAM FOR GREAT POWER</td>
+</tr>
+	<tr><td>Mathematical Alphanumeric Symbols</td>
+	<td>1D4AB</td><td>MATHEMATICAL SCRIPT CAPITAL P (= power set)</td>
+</tr>
+</table>
 
 The current draft proposal is
 [here](https://github.com/jloughry/Unicode/raw/master/proposal.pdf) (PDF).
