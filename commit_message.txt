@@ -1,1 +1,1 @@
-add table showing all occurrences of the word "power" in version 6.3 of the Unicode standard.
+fixed formatting of table ("rowspan" has an off-by-one bug?); added reference to latest standard.

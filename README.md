@@ -110,37 +110,43 @@ Draft Proposal
 --------------
 
 <a name="update20140104"/>In the latest edition of the standard,
-[*The Unicode Standard, Version 6.3*](http://www.unicode.org/Public/UCD/latest/)
-there are ? occurrences of the word *power*:
+[*The Unicode Standard, Version 6.3.0*](http://www.unicode.org/Public/UCD/latest/)<sup>[5](#ref5)</sup>,
+released 27th September 2013, there are 11 occurrences of the word *power* in the
+database:
 
 <table>
 <tr>
 <th>Section</th><th align="center">Code Point</th><th>Description</th>
 </tr>
-<tr><td rowspan="7">Telugu fractions and weights</td></tr>
-<tr><td>0C78</td><td>TELUGU FRACTION DIGIT ZERO FOR ODD POWERS OF FOUR</td></tr>
-<tr><td>0C79</td><td>TELUGU FRACTION DIGIT ONE FOR ODD POWERS OF FOUR</td></tr>
-<tr><td>0C7A</td><td>TELUGU FRACTION DIGIT TWO FOR ODD POWERS OF FOUR</td></tr>
-<tr><td>0C7B</td><td>TELUGU FRACTION DIGIT THREE FOR ODD POWERS OF FOUR</td></tr>
-<tr><td>0C7C</td><td>TELUGU FRACTION DIGIT ONE FOR EVEN POWERS OF FOUR</td></tr>
-<tr><td>0C7D</td><td>TELUGU FRACTION DIGIT TWO FOR EVEN POWERS OF FOUR</td></tr>
-<tr><td>0C7E</td><td>TELUGU FRACTION DIGIT THREE FOR EVEN POWERS OF FOUR</td></tr>
+<tr><td rowspan="8">Telugu fractions and weights</td></tr>
+<tr><td align="center">0C78</td><td>TELUGU FRACTION DIGIT ZERO FOR ODD POWERS OF FOUR</td></tr>
+<tr><td align="center">0C79</td><td>TELUGU FRACTION DIGIT ONE FOR ODD POWERS OF FOUR</td></tr>
+<tr><td align="center">0C7A</td><td>TELUGU FRACTION DIGIT TWO FOR ODD POWERS OF FOUR</td></tr>
+<tr><td align="center">0C7B</td><td>TELUGU FRACTION DIGIT THREE FOR ODD POWERS OF FOUR</td></tr>
+<tr><td align="center">0C7C</td><td>TELUGU FRACTION DIGIT ONE FOR EVEN POWERS OF FOUR</td></tr>
+<tr><td align="center">0C7D</td><td>TELUGU FRACTION DIGIT TWO FOR EVEN POWERS OF FOUR</td></tr>
+<tr><td align="center">0C7E</td><td>TELUGU FRACTION DIGIT THREE FOR EVEN POWERS OF FOUR</td></tr>
 <tr>
 	<td>Miscellaneous Symbols</td>
-	<td>26EE</td><td>GEAR WITH HANDLES (= power plant, power substation)</td>
+	<td align="center">26EE</td><td>GEAR WITH HANDLES (= power plant, power substation)</td>
 </tr>
 <tr>
 	<td>Kangxi Radicals</td>
-	<td>2F12</td><td>KANGXI RADICAL POWER</td>
+	<td align="center">2F12</td><td>KANGXI RADICAL POWER</td>
 </tr>
 <tr>
 	<td>Yijing Hexagram Symbols</td>
-	<td>4DE1</td><td>HEXAGRAM FOR GREAT POWER</td>
+	<td align="center">4DE1</td><td>HEXAGRAM FOR GREAT POWER</td>
 </tr>
 	<tr><td>Mathematical Alphanumeric Symbols</td>
-	<td>1D4AB</td><td>MATHEMATICAL SCRIPT CAPITAL P (= power set)</td>
+	<td align="center">1D4AB</td><td>MATHEMATICAL SCRIPT CAPITAL P (= power set)</td>
 </tr>
 </table>
+
+There are none in [BETA](http://www.unicode.org/ucd/#Beta) right now. Therefore, it is
+proper to submit a proposal at this time. Hints for
+[Submitting Successful Character and Script Proposals](http://www.unicode.org/faq/char_proposal.html)
+for submitting good proposals are being looked at.
 
 The current draft proposal is
 [here](https://github.com/jloughry/Unicode/raw/master/proposal.pdf) (PDF).
@@ -253,4 +259,8 @@ in Office/Consumer Environments*. IEEE Standard 1621-2004.
 
 4. <a name="ref4"/>International Organisation for Standardisation. *Graphical
 symbols for use on equipment -- Registered symbols*. ISO 7000:2012.
+
+5. <a name="ref5"/>The Unicode Consortium. *The Unicode Standard, Version 6.3.0*,
+(Mountain View, CA: The Unicode Consortium, 2013. ISBN 978-1-936213-08-5).
+[http://www.unicode.org/versions/Unicode6.3.0/](http://www.unicode.org/versions/Unicode6.3.0/)
 
