@@ -118,16 +118,19 @@ to get on the mailing list for Unicode Technical Committee meeting announcements
 
 ### TODO
 
-- &ldquo;character properties&rdquo; like name, bidirectional class, upper and
-lowercase mapping, line-breaking behaviour, and collation order.
+- Determined the &ldquo;character properties&rdquo; like name, bidirectional
+class, upper and lowercase mapping, line-breaking behaviour, and collation order.
 
 - Check the IEC and IEEE standards to verify that the symbols in the new font
 are compliant with the specifications in the standards.
 
-- Check the Unicode Consortium web site for required or recommended proposal
-format.
+- Read the [guidelines](http://www.unicode.org/pending/proposals.html) and
+[FAQ](http://www.unicode.org/faq/char_proposal.html) on the Unicode Consortium
+web site for required or recommended proposal format.
 
-- Submit proposal.
+- Circulate the draft proposal for review.
+
+- Submit proposal to the UTC.
 
 ### DONE
 
