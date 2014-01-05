@@ -1,1 +1,1 @@
-checked the Unicode pipeline; our proposed characters are not in it.
+I joined the Unicode Consortium as a student member to get on their mailing list.
