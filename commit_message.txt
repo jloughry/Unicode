@@ -1,1 +1,1 @@
-added link to latest information; there isn't any way to change the background colour in Markdown
+fixed syntax of third-level headers; I hate Markdown.

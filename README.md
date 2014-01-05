@@ -112,8 +112,7 @@ Draft Proposal<a name="update20140104"/>
 The current draft proposal is
 [here](https://github.com/jloughry/Unicode/raw/master/proposal.pdf) (PDF).
 
-TODO
-====
+### TODO
 
 - &ldquo;character properties&rdquo; like name, bidirectional class, upper and
 lowercase mapping, line-breaking behaviour, and collation order.
@@ -124,8 +123,9 @@ are compliant with the specifications in the standards.
 - Check the Unicode Consortium web site for required or recommended proposal
 format.
 
-DONE
-====
+- Submit proposal.
+
+### DONE
 
 - Check to make sure these symbols are not in any upcoming draft standard.
 
@@ -168,12 +168,16 @@ proper to submit a proposal at this time. Hints for
 [Submitting Successful Character and Script Proposals](http://www.unicode.org/faq/char_proposal.html)
 for submitting good proposals are being looked at.
 
+### Deadlines
+
 The calendar has been updated; the next quarterly meeting of the
 [Unicode Technical Committee (UTC)](http://unicode.org/consortium/utc.html) will
 take place [3&ndash;6 February 2014](http://www.unicode.org/timesens/calendar.html)
 in San Jose, California. The next meeting after that is 6&ndash;9 May 2014.
 I want to get our proposal submitted in time to make the agenda for the February
 meeting (two weeks in advance).
+
+### Afterward
 
 After the proposal is submitted, I plant to submit a &ldquo;Show HN&rdquo; post
 on HN telling how it was done.
