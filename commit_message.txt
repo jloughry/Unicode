@@ -1,1 +1,1 @@
-update TODO list of tasks.
+fixed spelling error; indent subsequent paragraphs in a multi-paragraph list entry.

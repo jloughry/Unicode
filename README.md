@@ -118,13 +118,14 @@ to get on the mailing list for Unicode Technical Committee meeting announcements
 
 ### TODO
 
-- Determined the &ldquo;character properties&rdquo; like name, bidirectional
-class, upper and lowercase mapping, line-breaking behaviour, and collation order.
+- Determine &ldquo;character properties&rdquo; like name, bidirectional
+class, upper and lowercase mapping, line-breaking behaviour, and collation order
+for the new symbols we're proposing.
 
 - Check the IEC and IEEE standards to verify that the symbols in the new font
 are compliant with the specifications in the standards.
 
-- Read the [guidelines](http://www.unicode.org/pending/proposals.html) and
+- Read [guidelines](http://www.unicode.org/pending/proposals.html) and
 [FAQ](http://www.unicode.org/faq/char_proposal.html) on the Unicode Consortium
 web site for required or recommended proposal format.
 
@@ -136,7 +137,7 @@ web site for required or recommended proposal format.
 
 - Check to make sure these symbols are not in any upcoming draft standard.
 
-In the [latest edition](http://www.unicode.org/Public/UCD/latest/) of the standard,
+  In the [latest edition](http://www.unicode.org/Public/UCD/latest/) of the standard,
 *The Unicode Standard, Version 6.3.0* <sup>[5](#ref5)</sup>, released 27th September
 2013, there are 11 occurrences of the word *power* in the Unicode Character Database:
 
@@ -169,7 +170,7 @@ In the [latest edition](http://www.unicode.org/Public/UCD/latest/) of the standa
 </tr>
 </table>
 
-...but not the IEC power symbol. There are none in [BETA](http://www.unicode.org/ucd/#Beta)
+  ...but not the IEC power symbol. There are none in [BETA](http://www.unicode.org/ucd/#Beta)
 right now, nor in the [pipeline](http://www.unicode.org/pending/proposals.html) as of
 20-December-2013; therefore, it is proper to submit a proposal at this time. Hints for
 [Submitting Successful Character and Script Proposals](http://www.unicode.org/faq/char_proposal.html)
