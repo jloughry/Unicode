@@ -1,1 +1,1 @@
-fixed spelling error; indent subsequent paragraphs in a multi-paragraph list entry.
+added TODO to update Wikipedia page with Unicode code points after it's official.

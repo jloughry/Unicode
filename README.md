@@ -133,6 +133,11 @@ web site for required or recommended proposal format.
 
 - Submit proposal to the UTC.
 
+- Update the [Wikipedia page](http://en.wikipedia.org/wiki/Power_symbol) as soon
+as it's official; Wikipedia admins keep
+[reverting](http://en.wikipedia.org/w/index.php?title=Power_symbol&action=history)
+changes made to the article pointing to this project.
+
 ### DONE
 
 - Check to make sure these symbols are not in any upcoming draft standard.
