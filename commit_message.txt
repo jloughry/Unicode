@@ -1,1 +1,1 @@
-added TODO to update Wikipedia page with Unicode code points after it's official.
+thanks to daveljonez for Wikipedia mention.

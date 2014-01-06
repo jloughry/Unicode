@@ -136,7 +136,8 @@ web site for required or recommended proposal format.
 - Update the [Wikipedia page](http://en.wikipedia.org/wiki/Power_symbol) as soon
 as it's official; Wikipedia admins keep
 [reverting](http://en.wikipedia.org/w/index.php?title=Power_symbol&action=history)
-changes made to the article pointing to this project.
+changes made to the article pointing to this project. Thanks to
+[daveljonez](https://github.com/daveljonez) for pointing this out.
 
 ### DONE
 
