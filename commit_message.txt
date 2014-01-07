@@ -1,1 +1,1 @@
-added "How you can help" section (thanks to Adam De Witt)
+added link to open an issue on GitHub

@@ -130,12 +130,15 @@ looking for is not just copy-editing, but:
 
 - Is something missing?
 
-- Technical errors
+- Technical errors...
 
-- Spelling, grammar, or other errors, of course.
+- Spelling, grammar, or other problems, of course.
 
 Any review is valuable, but the most useful of all can be simple things like,
-*I got bored half-way through this section* or *needs a good example*.
+*I got bored half-way through this section*. The current draft proposal is always
+[here](https://github.com/jloughry/Unicode/raw/master/proposal.pdf) (PDF). Email
+the author or use a GitHub [issue](https://github.com/jloughry/Unicode/issues)
+request, whatever you prefer.
 
 Thanks to Adam De Witt for the idea!
 
