@@ -1,1 +1,1 @@
-added link to open an issue on GitHub
+improved wording around "How you can help" section.

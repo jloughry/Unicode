@@ -134,11 +134,11 @@ looking for is not just copy-editing, but:
 
 - Spelling, grammar, or other problems, of course.
 
-Any review is valuable, but the most useful of all can be simple things like,
+Any review is valuable, but the most useful of all can be things like,
 *I got bored half-way through this section*. The current draft proposal is always
 [here](https://github.com/jloughry/Unicode/raw/master/proposal.pdf) (PDF). Email
-the author or use a GitHub [issue](https://github.com/jloughry/Unicode/issues)
-request, whatever you prefer.
+the author or use a GitHub [issue](https://github.com/jloughry/Unicode/issues),
+however you prefer.
 
 Thanks to Adam De Witt for the idea!
 
