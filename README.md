@@ -114,9 +114,21 @@ Draft Proposal<a name="update20140104"/>
 The current draft proposal is
 [here](https://github.com/jloughry/Unicode/raw/master/proposal.pdf) (PDF).
 
-I joined the Unicode Consortium as an
-[individual member](http://www.unicode.org/consortium/levels.html#individual)
-to get on the mailing list for Unicode Technical Committee meeting announcements.
+#### Document Submission Notes
+
+- I joined the Unicode Consortium as a
+[student member](http://www.unicode.org/consortium/levels.html#student)
+to get on the mailing list for Unicode Technical Committee meeting announcements
+and to gain access to the member section of the web site.
+
+- I have the document submission details now (in the members section). It is
+encouraged that a representative for each proposal to the
+[UTC](http://unicode.org/consortium/utc.html) should attend the meeting
+and present the document. The next meeting is
+[February 3&ndash;6, 2014](http://www.unicode.org/timesens/calendar.html) at
+[IBM in San Jose, California](http://www.unicode.org/timesens/logistics-utc138.html).
+
+- I'll see if I can attend.
 
 ### How You Can Help<a name="update20140107"/>
 
