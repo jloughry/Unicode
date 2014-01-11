@@ -6,9 +6,11 @@ Proposal to Add the IEC 60417-5009 Power Button Symbol to Unicode
 Latest Updates
 --------------
 
-*(4th January 2014)* See the [Draft Proposal](#update20140104) section.
+*(11th January 2014)* [Call for agenda items](#update20140111) from UTC.
 
 *(7th January 2014)* [How you can help](#update20140107).
+
+*(4th January 2014)* See the [Draft Proposal](#update20140104) section.
 
 The IEC 60417-5009 &ldquo;Stand-by&rdquo; Symbol
 ------------------------------------------------
@@ -114,7 +116,9 @@ Draft Proposal<a name="update20140104"/>
 The current draft proposal is
 [here](https://github.com/jloughry/Unicode/raw/master/proposal.pdf) (PDF).
 
-#### Document Submission Notes
+#### Document Submission Notes<a name="update20140111"/>
+
+- The call for agenda items for the UTC meeting in February is out.
 
 - I joined the Unicode Consortium as a
 [student member](http://www.unicode.org/consortium/levels.html#student)
@@ -127,8 +131,6 @@ encouraged that a representative for each proposal to the
 and present the document. The next meeting is
 [February 3&ndash;6, 2014](http://www.unicode.org/timesens/calendar.html) at
 [IBM in San Jose, California](http://www.unicode.org/timesens/logistics-utc138.html).
-
-- I'll see if I can attend.
 
 ### How You Can Help<a name="update20140107"/>
 
