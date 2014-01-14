@@ -7,7 +7,7 @@
 % joe.loughry@stx.ox.ac.uk
 %
 
-\documentclass[10pt,letterpaper]{article}
+\documentclass[10pt,a4paper]{article}
 
 \usepackage[english,british]{babel}
 
@@ -45,13 +45,15 @@
 
 \title{Proposal to Include IEC Power Button Symbols}
 
-\author{Joe Loughry and Terence Eden}
+\author{Joe Loughry and Terence Eden \\
+\\
+\URL{mailto:joe.loughry@gmail.com}}
 
 \maketitle
 
 \begin{abstract}
-The international symbol IEC 60417-5009 \IEC{P} meaning `power' is not today
-in Unicode. Clearly it would be useful to anyone writing technical or user
+The international symbol IEC 60417-5009 \IEC{P} meaning `power' is not in
+Unicode. Clearly it would be useful to anyone writing technical or user
 manuals. Furthermore, for electronically published documentation, it is
 crucial for this and a few other symbols to be defined because it makes them
 searchable in plain text. In this proposal we provide a TrueType font named
@@ -63,25 +65,191 @@ together with all of the needed character properties for Unicode specification.
 
 The \IEC{P}, \IEC{T}, \IEC{0}, and \IEC{1} symbols are defined in
 IEC 60417 \cite{IEC60417}, which is also ISO 7000:2012 \cite{ISO7000}.
-IEEE 1621 further defines \IEC{S} and refines the definition of \IEC{P}, notably
-because IEEE 1621 standardises current practice as universally used on devices
-with regard to the \IEC{P} symbol and to a lesser extent for the \IEC{S} symbol
-as well \cite{IEEE1621}.
+IEEE 1621 defines \IEC{S} and refines the definition of \IEC{P}, notably
+by saying:
+
+\begin{quote}
+IEC 60417 defines \IEC{P} for use with a power switch that does not do a total
+mains disconnect, and hence the device consumes standby power. \IEC{P} is
+generally used and understood to mean ``power,'' as on power buttons, indicators,
+and elsewhere. \IEC{P}, therefore, means ``power'' with a nonzero power level
+in the \emph{off} state. Electronic devices shall use \IEC{P} to be a synonym
+for ``power'' on power controls.
+\end{quote}
+
+\noindent \cite[\S 4.3, emphasis in original]{IEEE1621}. IEEE 1621 standardises
+current practice for devices with regard to the \IEC{P} symbol and to a lesser
+extent for \IEC{S}.
 
 These characters, particularly \IEC{P}, are needed for technical writing and
-are not in Unicode. The advantage of having them there would be search-ability
-in plain text, something not possible with graphical symbols, as technical
-writers are limited to using today.
+are not in Unicode. The advantage of having them there would be that for the
+first time they would be searchable in plain text, something not possible with
+embedded graphics, which is the way the symbols have been displayed to date.
 
-We provide with our proposal a TrueType font, hereby released for unlimited use.
+\section{Suitability for Inclusion}
 
-\subsection{The \emph{IEC Power} TrueType Font}
+These symbols are \emph{characters} according to the definition in the Glossary,
+and do not appear in the Archive of Notices of Non-Approval. They are neither
+in the Pipeline Table nor in BETA. They are all widely used on equipment and
+would benefit technical writers if they were available in Unicode and benefit
+readers because it would make user manuals and other technical documentation
+more searchable in plain text.
 
-The five symbols included in the \emph{IEC Power} TrueType font are shown in
+We provide with our proposal a TrueType font, with no restrictions on its use.
+
+\section{Character Properties}
+
+Suggested character properties for the proposed symbols are given in Tables
+\ref{table:character-properties-P}--\ref{table:character-properties-S}. These
+are the same names as in IEEE 1621-2004. None of the proposed names appear
+already in the Character Name Index.
+
+\begin{table}[htbp]
+	\centering
+	\begin{tabular}{ll}
+		\textbf{Property} & \textbf{Suggested Value} \\
+		\hline \\
+		Code point                & \emph{to be determined} \\
+		Name                      & POWER \\
+		General Category          & So \\
+		Canonical Combining Class & 0 \\
+		Bidirectional Class       & ON \\
+		Decomposition Type/Decomposition Mapping \\
+		Numeric Type \\
+		Numeric Value \\
+		Bidi Mirrored             & N \\
+		Unicode 1 Name \\
+		ISO Comment \\
+		Simple Uppercase Mapping \\
+		Simple Lowercase Mapping \\
+		Simple Titlecase Mapping \\
+    \end{tabular}
+    \caption{Suggested character properties for \IEC{P}.}
+    \label{table:character-properties-P} % label must come after caption!
+\end{table}
+
+\begin{table}[htbp]
+	\centering
+	\begin{tabular}{ll}
+		\textbf{Property} & \textbf{Suggested Value} \\
+		\hline \\
+		Code point                & \emph{to be determined} \\
+		Name                      & ON \\
+		General Category          & So \\
+		Canonical Combining Class & 0 \\
+		Bidirectional Class       & ON \\
+		Decomposition Type/Decomposition Mapping \\
+		Numeric Type \\
+		Numeric Value \\
+		Bidi Mirrored             & N \\
+		Unicode 1 Name \\
+		ISO Comment \\
+		Simple Uppercase Mapping \\
+		Simple Lowercase Mapping \\
+		Simple Titlecase Mapping \\
+    \end{tabular}
+    \caption{Suggested character properties for \IEC{1}.}
+    \label{table:character-properties-1} % label must come after caption!
+\end{table}
+
+\begin{table}[htbp]
+	\centering
+	\begin{tabular}{ll}
+		\textbf{Property} & \textbf{Suggested Value} \\
+		\hline \\
+		Code point                & \emph{to be determined} \\
+		Name                      & OFF \\
+		General Category          & So \\
+		Canonical Combining Class & 0 \\
+		Bidirectional Class       & ON \\
+		Decomposition Type/Decomposition Mapping \\
+		Numeric Type \\
+		Numeric Value \\
+		Bidi Mirrored             & N \\
+		Unicode 1 Name \\
+		ISO Comment \\
+		Simple Uppercase Mapping \\
+		Simple Lowercase Mapping \\
+		Simple Titlecase Mapping \\
+    \end{tabular}
+    \caption{Suggested character properties for \IEC{0}.}
+    \label{table:character-properties-0} % label must come after caption!
+\end{table}
+
+\begin{table}[htbp]
+	\centering
+	\begin{tabular}{ll}
+		\textbf{Property} & \textbf{Suggested Value} \\
+		\hline \\
+		Code point                & \emph{to be determined} \\
+		Name                      & ON/OFF \\
+		General Category          & So \\
+		Canonical Combining Class & 0 \\
+		Bidirectional Class       & ON \\
+		Decomposition Type/Decomposition Mapping \\
+		Numeric Type \\
+		Numeric Value \\
+		Bidi Mirrored             & N \\
+		Unicode 1 Name \\
+		ISO Comment \\
+		Simple Uppercase Mapping \\
+		Simple Lowercase Mapping \\
+		Simple Titlecase Mapping \\
+    \end{tabular}
+    \caption{Suggested character properties for \IEC{T}.}
+    \label{table:character-properties-T} % label must come after caption!
+\end{table}
+
+\begin{table}[htbp]
+	\centering
+	\begin{tabular}{ll}
+		\textbf{Property} & \textbf{Suggested Value} \\
+		\hline \\
+		Code point                & \emph{to be determined} \\
+		Name                      & SLEEP \\
+		General Category          & So \\
+		Canonical Combining Class & 0 \\
+		Bidirectional Class       & ON \\
+		Decomposition Type/Decomposition Mapping \\
+		Numeric Type \\
+		Numeric Value \\
+		Bidi Mirrored             & N \\
+		Unicode 1 Name \\
+		ISO Comment \\
+		Simple Uppercase Mapping \\
+		Simple Lowercase Mapping \\
+		Simple Titlecase Mapping \\
+    \end{tabular}
+    \caption{Suggested character properties for \IEC{S}.}
+    \label{table:character-properties-S} % label must come after caption!
+\end{table}
+
+\subsection{Collation Order}\label{section:collation-order}
+
+There is no required collation order, although there is an implied state transition
+ordering:
+
+\begin{quote}
+Power states shall be understood to have physical relationships to each other.
+Specifically, \emph{on} is taken to be above \emph{sleep}, and \emph{sleep} above
+\emph{off}.
+\end{quote}
+
+\noindent \cite[\S 4.4, emphasis in original]{IEEE1621}. They exhibit no shaping
+behaviour and have no particular required sorting order (except see the quoted
+paragraph above). The characters are uncased. There is no special
+linebreaking behaviour required. These characters are not meant for use in
+identifiers, although they have been used for such. They are stand-alone symbols.
+They are not white-space characters and have no numeric values. They are neither
+combining characters nor punctuation.
+
+\section{The \emph{IECpower} TrueType Font}
+
+The five symbols included in the \emph{IECpower} TrueType font are shown in
 Table~\ref{table:symbols}. Only these symbols exist in the font; if an undefined
 character, for example `A' is called for, the result is
 implementation-defined.\footnote{In \hologo{XeTeX}, for example, the result of
-`A' in \emph{IEC Power} is \IEC{A}.  In OpenOffice Writer, the result is the
+`A' in \emph{IECpower} is \IEC{A}.  In OpenOffice Writer, the result is the
 letter `A' but in a san-serif typeface.}
 
 \begin{table}[htbp]
@@ -101,32 +269,16 @@ letter `A' but in a san-serif typeface.}
     \label{table:symbols} % label must come after caption!
 \end{table}
 
-Placement of the symbols in the \emph{IEC Power} TrueType font was chosen
+Placement of the symbols in the \emph{IECpower} TrueType font was chosen
 thoughtfully so as to be mnemonic: `P' for power, `S' for stand-by or sleep,
 `T' for toggling power on or off, and `1' and `0' for power-on and power-off,
-respectively, all of these mnemonics `fail gracefully' should the \emph{IEC Power}
-font happen to be unavailable.
+respectively; these mnemonics `fail gracefully' in text should the
+\emph{IECpower} font happen to be unavailable.
 
 \subsection{Example Usage}
 
 In-line in text with normal spacing, the \IEC{P} characters \IEC{S} look \IEC{T}
 like \IEC{1} this \IEC{0}.
-
-\section{Character Properties}
-
-Suggested character properties for the proposed symbols are given in Table
-\ref{table:character-properties}.
-
-\begin{table}[htbp]
-	\centering
-	\begin{tabular}{ll}
-		\textbf{Property} & \textbf{Value} \\
-		\hline \\
-		A & B \\
-    \end{tabular}
-    \caption{Suggested character properties.}
-    \label{table:character-properties} % label must come after caption!
-\end{table}
 
 \section{Anticipated Objections}
 
@@ -134,52 +286,79 @@ It might be argued that the meaning of \IEC{P} is disputed between IEC 60417
 and IEEE 1621, {\it i.e.}, that IEC 60417 (as well as ISO 7000:2012) defined \IEC{P}
 to mean `stand-by' and IEEE 1621 changed it to mean `power'. We counter that
 the issue is irrelevant to the Unicode Consortium for two reasons: firstly,
-because the symbol itself is needed by writers, who could use it (if it were
-available to them) according to local conventions regardless of the disagreement
+because the symbol itself is needed by writers, who could use it---if it were
+available to them---according to local conventions regardless of the disagreement
 between IEC/ISO and IEEE; and secondly, because IEEE 1621 specifically codifies
-\emph{existing practice}; the number of devices out there using \IEC{P} to mean
-`power' dwarfs the number of devices that use it to mean `stand-by' \cite{IEEE1621}.
+existing practice; the number of devices out there using \IEC{P} to mean
+`power' dwarfs the number of devices that use it to mean `stand-by'. Furthermore,
+
+\begin{quote}
+No safety issue is introduced by the use of the symbol on a switch that causes
+the device to go to a \emph{hard-off} state.
+\end{quote}
+
+\noindent \cite[\S 4.3, emphasis in original]{IEEE1621}.
 
 There are, of course, many characters in Unicode already resembling circles
 (\IEC{0}), or lines (\IEC{1}), or the crescent moon (\IEC{S}). None of the existing
 characters, however, has anything semantically to do with the concepts of `power',
-`switch', `toggle', or `interrupter'. There are eleven occurrences of the word `power'
-in Version 6.3.0 of the Unicode standard (Table \ref{table:power}) but none has
-anything to do with device control \cite{Unicode2013}.
+`switch', `toggle', or `interrupter'. There are several occurrences of the crescent
+moon, but none showing the \IEC{S} phase. There are eleven occurrences of the word
+`power' in Version 6.3.0 of the Unicode standard (Table \ref{table:power}) but none
+has anything to do with device control \cite{Unicode2013}.
+
+\section{Drawing the Symbols}
 
 The proposed characters are not part of any script and the precise form of
-their drawing is not critical. 
+their drawing is not critical. As IEEE 1621-2004 says:
+
+\begin{quote}
+In accordance with IEC 80416-3, symbols can be filled, be rotated, have their lines
+thickened, or be used on digital displays, as long as an ordinary user can recognize
+the symbol correctly.
+\end{quote}
+
+\noindent \cite[\S 4.3]{IEEE1621}.
 
 \begin{table}[htbp]
 	\centering
 	\begin{tabular}{lcl}
 		\textbf{Section} & \textbf{Code Point} & \textbf{Description} \\
-		\hline
+		\hline \\
 		Telugu fractions \
-			& 0C78 & TELUGU FRACTION DIGIT ZERO \\
-		and weights	& & FOR ODD POWERS OF FOUR \\
-			& 0C79 & TELUGU FRACTION DIGIT ONE \\
-				& & FOR ODD POWERS OF FOUR \\
-			& 0C7A & TELUGU FRACTION DIGIT TWO \\
-				& & FOR ODD POWERS OF FOUR \\
-			& 0C7B & TELUGU FRACTION DIGIT THREE \\
-				& & FOR ODD POWERS OF FOUR \\
-			& 0C7C & TELUGU FRACTION DIGIT ONE \\
-				& & FOR EVEN POWERS OF FOUR \\
-			& 0C7D & TELUGU FRACTION DIGIT TWO \\
-				& & FOR EVEN POWERS OF FOUR \\
-			& 0C7E & TELUGU FRACTION DIGIT THREE \\
-				& & FOR EVEN POWERS OF FOUR \\
+			& 0C78 & TELUGU FRACTION DIGIT \\
+		and weights	& & ZERO FOR ODD POWERS \\
+				& & OF FOUR \\
+			& 0C79 & TELUGU FRACTION DIGIT \\
+				& & ONE FOR ODD POWERS \\
+				& & OF FOUR \\
+			& 0C7A & TELUGU FRACTION DIGIT \\
+				& & TWO FOR ODD POWERS \\
+				& & OF FOUR \\
+			& 0C7B & TELUGU FRACTION DIGIT \\
+				& & THREE FOR ODD POWERS \\
+				& & OF FOUR \\
+			& 0C7C & TELUGU FRACTION DIGIT \\
+				& & ONE FOR EVEN POWERS \\
+				& & OF FOUR \\
+			& 0C7D & TELUGU FRACTION DIGIT \\
+				& & TWO FOR EVEN POWERS \\
+				& & OF FOUR \\
+			& 0C7E & TELUGU FRACTION DIGIT \\
+				& & THREE FOR EVEN \\
+				& & POWERS OF FOUR \\
 		\hline
 		Miscellaneous \
 			& 26EE & GEAR WITH HANDLES \\
-		Symbols & & (= power plant, power substation) \\
+		Symbols & & (= power plant, power \\
+				& & substation) \\
 		\hline
 		Kangxi Radicals \
 			& 2F12 & KANGXI RADICAL POWER \\
 		\hline
 		Yijing Hexagram Symbols \
-			& 4DE1 & HEXAGRAM FOR GREAT POWER \\
+			& 4DE1 & HEXAGRAM FOR GREAT \\
+				& & POWER \\
 		\hline
 		Mathematical \
 			& 1D4AB & MATHEMATICAL SCRIPT \\
@@ -196,12 +375,28 @@ We included the others in this proposal because they form a logical group. If,
 however, there is any objection to inclusion of \IEC{1}, \IEC{0}, \IEC{T}, or
 \IEC{S}, the one we really need is \IEC{P}.
 
+\section{Sponsor}
+
+The postal address for correspondence is:
+
+\begin{quote}
+Joe Loughry \\
+6214 South Krameria Street \\
+Centennial, Colorado 80111-4243 \\
+USA
+\end{quote}
+
+Tel.\ +1 303 221 4380 (time zone US/Mountain, GMT minus 7 hours).
+
 \section{Summary and Conclusion}
 
-The \IEC{P} and \IEC{S} symbols are most important because nothing like them
-appears already in Unicode.
-
-\ldots
+The \IEC{P}, \IEC{0}, \IEC{1}, \IEC{T}, and \IEC{S} symbols are needed by
+technical writers to produce manuals in which these important symbols are
+searchable in plain text. Because they were invented by the standards body to be
+distinctive, new, and unambiguous, there is no confusion with existing scripts.
+The suggested character properties are simple. We provide along with this
+proposal a TrueType font called \emph{IECpower} containing the new symbols;
+the TrueType font is made available with no restrictions.
 
 \bibliographystyle{plain}
 \bibliography{consolidated_bibtex_file}
