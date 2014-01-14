@@ -118,7 +118,7 @@ Draft Proposal
 The current draft proposal is always
 [here](https://github.com/jloughry/Unicode/raw/master/proposal.pdf) (PDF).
 
-#### Schedule for submitting the proposal<a name="update20140114"/>
+#### Schedule for submitting the proposal<a name="update20140113"/>
 
 The [proposal](https://github.com/jloughry/Unicode/raw/master/proposal.pdf)
 is ready for review and submission.

@@ -1,1 +1,1 @@
-updated README
+fixed broken link in internal reference
