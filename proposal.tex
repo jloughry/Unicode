@@ -26,6 +26,9 @@
 % for XeLaTeX logo
 \usepackage{hologo}
 
+% for multiple authors with different affiliations
+\usepackage{authblk}
+
 % Use \IEC{x} to display a symbol in the new font.
 \newcommand{\IEC}[1]{{\fontspec{IECpower}#1}}
 
@@ -37,7 +40,7 @@
 
 % Fill in some other information in the PDF header.
 \hypersetup{pdftitle=Proposal to Include IEC Power Button Symbols}
-\hypersetup{pdfauthor=Joe Loughry and Terence Eden}
+\hypersetup{pdfauthor=Terence Eden and Joe Loughry}
 \hypersetup{pdfsubject=Unicode Character Proposal}
 \hypersetup{pdfkeywords={IEC power symbol Unicode}}
 
@@ -45,11 +48,16 @@
 
 \title{Proposal to Include IEC Power Button Symbols}
 
-\author{Joe Loughry and Terence Eden \\
-\\
-\URL{mailto:joe.loughry@gmail.com}}
+\author{Terence Eden%
+	\thanks{Electronic address: \texttt{terence.eden@shkspr.mobi}} \and
+	Joe Loughry%
+	\thanks{Corresponding author's address (University of Oxford): \texttt{joe.loughry@stx.ox.ac.uk}}}
 
 \maketitle
+
+% put a header on the page; the \pagestyle command must come after \maketitle
+\pagestyle{myheadings}
+\markright{\hfill Loughry\ }
 
 \begin{abstract}
 The international symbol IEC 60417-5009 \IEC{P} meaning `power' is not in
@@ -95,7 +103,7 @@ would benefit technical writers if they were available in Unicode and benefit
 readers because it would make user manuals and other technical documentation
 more searchable in plain text.
 
-We provide with our proposal a TrueType font, with no restrictions on its use.
+We provide along with our proposal a TrueType font, with no restrictions on its use.
 
 \section{Character Properties}
 
@@ -237,11 +245,13 @@ Specifically, \emph{on} is taken to be above \emph{sleep}, and \emph{sleep} abov
 
 \noindent \cite[\S 4.4, emphasis in original]{IEEE1621}. They exhibit no shaping
 behaviour and have no particular required sorting order (except see the quoted
-paragraph above). The characters are uncased. There is no special
-linebreaking behaviour required. These characters are not meant for use in
-identifiers, although they have been used for such. They are stand-alone symbols.
-They are not white-space characters and have no numeric values. They are neither
-combining characters nor punctuation.
+paragraph above). The characters are uncased. There is no special line-breaking
+behaviour required. These characters are not meant for use in identifiers,
+although they have been used for
+such.\footnote{This web site has a collection of many examples of IEC 60417-5009
+used in logo design: \URL{http://www.logodesignlove.com/logos-using-the-standby-symbol}.}
+They are stand-alone symbols.  They are not white-space characters and have no
+numeric values. They are neither combining characters nor punctuation.
 
 \section{The \emph{IECpower} TrueType Font}
 
@@ -375,18 +385,29 @@ We included the others in this proposal because they form a logical group. If,
 however, there is any objection to inclusion of \IEC{1}, \IEC{0}, \IEC{T}, or
 \IEC{S}, the one we really need is \IEC{P}.
 
-\section{Sponsor}
+\section{Sponsors}
 
-The postal address for correspondence is:
+The address for correspondence is:
 
-\begin{quote}
-Joe Loughry \\
-6214 South Krameria Street \\
-Centennial, Colorado 80111-4243 \\
+\medskip\noindent\begin{minipage}[t]{0.5\textwidth}
+Joe Loughry
+
+6214 South Krameria Street
+
+Centennial, Colorado 80111-4243
+
 USA
-\end{quote}
 
-Tel.\ +1 303 221 4380 (time zone US/Mountain, GMT minus 7 hours).
+\medskip Tel.\ +1 303 221 4380
+
+\medskip Email: \texttt{joe.loughry@stx.ox.ac.uk}
+\end{minipage}
+\hfill
+\noindent\begin{minipage}[t]{0.48\textwidth}
+Terence Eden
+
+\medskip Email: \texttt{terence.eden@shkspr.mobi}
+\end{minipage}
 
 \section{Summary and Conclusion}
 

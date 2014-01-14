@@ -6,6 +6,9 @@ Proposal to Add the IEC 60417-5009 Power Button Symbol to Unicode
 Latest Updates
 --------------
 
+*(14th January 2014)* The UTC agenda for the 3&mdash;6 February 2014 meeting is
+now being compiled.
+
 *(13th January 2014)* The proposal is [ready to send](#update20140113) to UTC
 in time for the February meeting.
 

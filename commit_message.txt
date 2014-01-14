@@ -1,1 +1,1 @@
-fixed broken link in internal reference
+After review by Terence Eden, this is the version of the proposal submitted.

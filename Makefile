@@ -28,6 +28,7 @@ $(pdf_file): $(source_file) Makefile
 	# Now, make sure embedded fonts won't cause a problem for somebody else.
 	#
 	pdf2ps $(pdf_file)
+	rm -f $(pdf_file)
 	ps2pdf -dPDFSETTINGS=/prepress $(ps_file)
 	chmod a-x,a+r $(pdf_file)
 	cp $(pdf_file) $(submission_name)
