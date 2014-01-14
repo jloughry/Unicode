@@ -6,11 +6,13 @@ Proposal to Add the IEC 60417-5009 Power Button Symbol to Unicode
 Latest Updates
 --------------
 
-*(11th January 2014)* [Call for agenda items](#update20140111) from UTC.
+*(13th January 2014)* The proposal is [ready to send](#update20140113) to UTC
+in time for the February meeting.
+
+*(11th January 2014)* [Call for agenda items](#update20140111) from the Unicode
+Technical Committee (UTC).
 
 *(7th January 2014)* [How you can help](#update20140107).
-
-*(4th January 2014)* See the [Draft Proposal](#update20140104) section.
 
 The IEC 60417-5009 &ldquo;Stand-by&rdquo; Symbol
 ------------------------------------------------
@@ -110,11 +112,16 @@ vector drawings of the symbols.
 The [SVG](http://en.wikipedia.org/wiki/Svg) files for the symbols in the table
 are public domain.
 
-Draft Proposal<a name="update20140104"/>
-----------------------------------------
+Draft Proposal
+--------------
 
-The current draft proposal is
+The current draft proposal is always
 [here](https://github.com/jloughry/Unicode/raw/master/proposal.pdf) (PDF).
+
+#### Schedule for submitting the proposal<a name="update20140114"/>
+
+The [proposal](https://github.com/jloughry/Unicode/raw/master/proposal.pdf)
+is ready for review and submission.
 
 #### Document Submission Notes<a name="update20140111"/>
 
@@ -158,17 +165,6 @@ Thanks to Adam De Witt for the idea!
 
 ### TO-DO
 
-- Determine &ldquo;character properties&rdquo; like name, bidirectional
-class, upper and lowercase mapping, line-breaking behaviour, and collation order
-for the new symbols we're proposing.
-
-- Check the IEC and IEEE standards to verify that the symbols in the new font
-are compliant with the specifications in the standards.
-
-- Read [guidelines](http://www.unicode.org/pending/proposals.html) and
-[FAQ](http://www.unicode.org/faq/char_proposal.html) on the Unicode Consortium
-web site for required or recommended proposal format.
-
 - Circulate the draft proposal for review.
 
 - Submit proposal to the UTC.
@@ -180,6 +176,17 @@ changes made to the article pointing to this project. Thanks to
 [daveljonez](https://github.com/daveljonez) for pointing this out.
 
 ### DONE
+
+- Determine &ldquo;character properties&rdquo; like name, bidirectional
+class, upper and lowercase mapping, line-breaking behaviour, and collation order
+for the new symbols we're proposing.
+
+- Check the IEC and IEEE standards to verify that the symbols in the new font
+are compliant with the specifications in the standards.
+
+- Read [guidelines](http://www.unicode.org/pending/proposals.html) and
+[FAQ](http://www.unicode.org/faq/char_proposal.html) on the Unicode Consortium
+web site for required or recommended proposal format.
 
 - Check to make sure these symbols are not in any upcoming draft standard.
 
