@@ -11,9 +11,13 @@ latex_cmd = xelatex
 
 temporary_files = *.log *.aux *.out *.idx *.ilg *.bbl *.blg *.ind *.lof *.lot *.toc .pdf $(ps_file)
 
-graphics = Agilent2011.png Apple2007.png HP2009.png IBM1984.png \
-	IEEE1621.png  Motorola2010.png Nordman2002-01TP.png \
-	Nordman2002-0T.png Nordman2002-S.png Ugolini2013.png
+graphics_dir = ./graphics
+
+graphics = $(graphics_dir)/Agilent2011.png $(graphics_dir)/Apple2007.png \
+	$(graphics_dir)/HP2009.png $(graphics_dir)/IBM1984.png \
+	$(graphics_dir)/IEEE1621.png  $(graphics_dir)/Motorola2010.png \
+	$(graphics_dir)/Nordman2002-01TP.png  $(graphics_dir)/Nordman2002-0T.png \
+	$(graphics_dir)/Nordman2002-S.png $(graphics_dir)/Ugolini2013.png
 
 all:: $(pdf_file)
 
@@ -28,12 +32,6 @@ $(pdf_file): $(source_file) $(graphics) Makefile
 		grep "Rerun to get" $(target).log > /dev/null \
 	) do true ; done
 	@echo "Build `cat $(build_counter)`"
-	#
-	# Now, make sure embedded fonts won't cause a problem for somebody else.
-	#
-	# pdf2ps $(pdf_file)
-	# rm -f $(pdf_file)
-	# ps2pdf -dPDFSETTINGS=/prepress $(ps_file)
 	chmod a-x,a+r $(pdf_file)
 	cp $(pdf_file) $(submission_name)
 

@@ -1,1 +1,1 @@
-got permission from Bruce Nordman to use Figures 7--9; added new references.
+move graphics into their own directory
