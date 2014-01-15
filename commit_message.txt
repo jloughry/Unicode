@@ -1,1 +1,1 @@
-change IEEE to "sleep", not "stand-by" everywhere.
+add revision note for IEEE 1621 "sleep" error fix

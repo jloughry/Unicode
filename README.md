@@ -6,6 +6,9 @@ Proposal to Add the IEC 60417-5009 Power Button Symbol to Unicode
 Latest Updates
 --------------
 
+*(15th January 2014)* Corrected wrong usage of the IEEE 1621 &ldquo;sleep&rdquo;
+symbol everywhere.
+
 *(15th Jan 2014)* In response to a reviewer's question, I added evidence of the
 symbols' usage in running text. I was able to find evidence dating as far back
 as the
