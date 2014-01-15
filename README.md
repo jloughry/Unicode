@@ -45,31 +45,31 @@ symbols:<sup>[1](#ref1)</sup>
 <tr>
 <td align="center"><a
 href="http://en.wikipedia.org/wiki/File:IEC5007_On_Symbol.svg"><img
-src="https://github.com/jloughry/Unicode/raw/master/100px-h-IEC5007_On_Symbol.png"
+src="https://github.com/jloughry/Unicode/raw/master/graphics/100px-h-IEC5007_On_Symbol.png"
 alt="IEC-5007 ON (power) symbol"></a></td>
 <td align="center"><a
 href="http://en.wikipedia.org/wiki/File:IEC5008_Off_Symbol.svg"><img
-src="https://github.com/jloughry/Unicode/raw/master/100px-IEC5008_Off_Symbol.png"
+src="https://github.com/jloughry/Unicode/raw/master/graphics/100px-IEC5008_Off_Symbol.png"
 alt="IEC-5008 OFF (power) symbol"></a></td>
 <td align="center"><a
 href="http://en.wikipedia.org/wiki/File:IEC5009_Standby_Symbol.svg"><img
-src="https://github.com/jloughry/Unicode/raw/master/100px-IEC5009_Standby_Symbol.png"
+src="https://github.com/jloughry/Unicode/raw/master/graphics/100px-IEC5009_Standby_Symbol.png"
 alt="IEC-5009 Stand-by symbol"></a></td>
 <td align="center"><a
 href="http://en.wikipedia.org/wiki/File:IEC5010_On_Off_Symbol.svg"><img
-src="https://github.com/jloughry/Unicode/raw/master/100px-IEC5010_On_Off_Symbol.png"
+src="https://github.com/jloughry/Unicode/raw/master/graphics/100px-IEC5010_On_Off_Symbol.png"
 alt="IEC-5010 On/OFF (push-push) symbol"></a></td>
 <td align="center"><a
 href="http://en.wikipedia.org/wiki/File:Astronomical_symbol_for_the_moon.svg"><img
-src="https://github.com/jloughry/Unicode/raw/master/100px-Astronomical_symbol_for_the_moon.png"
-alt="IEEE 1621 Standby symbol"></a></td>
+src="https://github.com/jloughry/Unicode/raw/master/graphics/100px-Astronomical_symbol_for_the_moon.png"
+alt="IEEE 1621 Sleep symbol"></a></td>
 </tr>
 <tr>
 <td align="center">&ldquo;ON&rdquo; (power)</td>
 <td align="center">&ldquo;OFF&rdquo; (power)</td>
 <td align="center">&ldquo;Stand-by&rdquo;</td>
 <td align="center">&ldquo;ON&rdquo;/&ldquo;OFF&rdquo; (push-push)</td>
-<td align="center">&ldquo;Stand-by&rdquo;</td>
+<td align="center">&ldquo;Sleep&rdquo;</td>
 </tr>
 <tr><td align="center" colspan="5">Click on any image for SVG.</td></tr>
 </table>
@@ -323,20 +323,20 @@ symbol fonts, here is a proposed encoding for the
 <th align="center">Code Point</th><th align="center">Symbol</th><th>Rationale</th><th>Note</th>
 </tr>
 <tr><td align="center">P</td><td align="center"><img
-src="https://github.com/jloughry/Unicode/raw/master/18px-IEC5009_Standby_Symbol.svg.png"
+src="https://github.com/jloughry/Unicode/raw/master/graphics/18px-IEC5009_Standby_Symbol.svg.png"
 alt="IEC-5009 symbol"></td><td>&ldquo;power&rdquo;</td><td align="center"><a
 href="#note1">1</a></td></tr>
 <tr><td align="center">S</td><td align="center"><img
-src="https://github.com/jloughry/Unicode/raw/master/18px-Astronomical_symbol_for_the_moon.svg.png"
-alt="IEEE 1621 stand-by symbol"></td><td>&ldquo;standby&rdquo;</td><td>&nbsp;</td></tr>
+src="https://github.com/jloughry/Unicode/raw/master/graphics/18px-Astronomical_symbol_for_the_moon.svg.png"
+alt="IEEE 1621 sleep symbol"></td><td>&ldquo;sleep&rdquo;</td><td>&nbsp;</td></tr>
 <tr><td align="center">T</td><td align="center"><img
-src="https://github.com/jloughry/Unicode/raw/master/18px-IEC5010_On_Off_Symbol.svg.png"
+src="https://github.com/jloughry/Unicode/raw/master/graphics/18px-IEC5010_On_Off_Symbol.svg.png"
 alt="IEC-5010 symbol"></td><td>&ldquo;toggle&rdquo;</td><td>&nbsp;</td></tr>
 <tr><td align="center">0</td><td align="center"><img
-src="https://github.com/jloughry/Unicode/raw/master/18px-IEC5008_Off_Symbol.svg.png"
+src="https://github.com/jloughry/Unicode/raw/master/graphics/18px-IEC5008_Off_Symbol.svg.png"
 alt="IEC-5008 symbol"></td><td>binary &ldquo;0&rdquo;</td><td>&nbsp;</td></tr>
 <tr><td align="center">1</td><td align="center"><img
-src="https://github.com/jloughry/Unicode/raw/master/3px-IEC5007_On_Symbol.svg.png"
+src="https://github.com/jloughry/Unicode/raw/master/graphics/3px-IEC5007_On_Symbol.svg.png"
 alt="IEC-5007 symbol"></td><td>binary &ldquo;1&rdquo;</td><td>&nbsp;</td></tr>
 </table>
 

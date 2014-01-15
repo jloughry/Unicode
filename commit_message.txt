@@ -1,1 +1,1 @@
-move graphics into their own directory
+I forgot that when I move files around here, it affects the README file too.
