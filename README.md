@@ -145,6 +145,9 @@ I have been unable so far to find a clear statement anywhere that **making thing
 that are compliant with an ISO standard** is allowed. It's probably buried in the
 ISO by-laws.
 
+I'm not going to worry about it. The Unicode Technical Committee undoubtedly has
+thought about this before and probably knows the answer.
+
 Draft Proposal
 --------------
 
