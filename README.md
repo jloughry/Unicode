@@ -6,6 +6,12 @@ Proposal to Add the IEC 60417-5009 Power Button Symbol to Unicode
 Latest Updates
 --------------
 
+*(15th Jan 2014)* In response to a reviewer's question, I added evidence of the
+symbols' usage in running text. I was able to find evidence dating as far back
+as the
+[IBM PC/XT *Guide to Operations*](http://www.retroarchive.org/dos/docs/ibm_pc_op_guide.pdf)
+from 1984.
+
 *(14th January 2014)* The UTC agenda for the 3&mdash;6 February 2014 meeting is
 now being compiled.
 
