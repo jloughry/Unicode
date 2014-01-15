@@ -12,6 +12,8 @@ as the
 [IBM PC/XT *Guide to Operations*](http://www.retroarchive.org/dos/docs/ibm_pc_op_guide.pdf)
 from 1984.
 
+Added further notes on [copyright](#update20140115).
+
 *(14th January 2014)* The UTC agenda for the 3&mdash;6 February 2014 meeting is
 now being compiled.
 
@@ -110,7 +112,7 @@ and then translate those into whatever form of description is required by Unicod
 
 The ISO standard is free.<sup>[4](#ref4)</sup>
 
-Copyright of the Symbols
+Copyright of the Symbols<a name="update20140115"/>
 ------------------------
 
 [Alex Stapleton](https://twitter.com/alexstapleton) in
@@ -120,6 +122,28 @@ vector drawings of the symbols.
 
 The [SVG](http://en.wikipedia.org/wiki/Svg) files for the symbols in the table
 are public domain.
+
+You know, it's
+[really hard](http://graphicdesign.stackexchange.com/questions/8586/can-i-freely-use-the-fire-exit-symbol-and-similar-iso-symbols)
+to find a straight answer to the question of whether ISO standard symbols are
+copyrighted by ISO. Evidently, they are not, but the standard *doesn't say so*.
+
+Here is what I think the law says:
+
+- Everyone is encouraged to make their things compliant with relevant and current
+ISO standards.
+
+- To do so, makers need a copy of the standard; they can purchase it from ISO.
+
+- Copyright of the standard document itself belongs to ISO, so pirating standards
+documents is a no-no.
+
+- But there is no royalty cost or anything like that on things made according to
+the standard.
+
+I have been unable so far to find a clear statement anywhere that **making things
+that are compliant with an ISO standard** is allowed. It's probably buried in the
+ISO by-laws.
 
 Draft Proposal
 --------------
