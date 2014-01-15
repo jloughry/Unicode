@@ -348,7 +348,7 @@ accordance with the recommendation in IEEE 1621:2004 to use the
 symbol to mean &ldquo;power&rdquo; as everyone in the world except IEC and ISO thinks it means,
 and to use the
 ![moon](https://github.com/jloughry/Unicode/raw/master/18px-Astronomical_symbol_for_the_moon.svg.png)
-symbol to mean &ldquo;stand-by&rdquo;.
+symbol to mean &ldquo;sleep&rdquo;.
 
 ### Notes on XeTeX
 

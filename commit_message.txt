@@ -1,1 +1,1 @@
-I forgot that when I move files around here, it affects the README file too.
+change IEEE to "sleep", not "stand-by" everywhere.
