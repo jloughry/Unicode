@@ -66,7 +66,8 @@ manuals. Furthermore, for electronically published documentation, it is
 crucial for this and a few other symbols to be defined because it makes them
 searchable in plain text. In this proposal we provide a TrueType font named
 `IECpower' containing the glyphs as specified in three international standards
-together with all of the needed character properties for Unicode specification.
+together with all of the needed character properties for Unicode specification
+as well as evidence that the characters have been used in running text.
 \end{abstract}
 
 \section{Introduction}
@@ -98,12 +99,100 @@ embedded graphics, which is the way the symbols have been displayed to date.
 
 These symbols are \emph{characters} according to the definition in the Glossary,
 and do not appear in the Archive of Notices of Non-Approval. They are neither
-in the Pipeline Table nor in BETA. They are all widely used on equipment and
-would benefit technical writers if they were available in Unicode and benefit
-readers because it would make user manuals and other technical documentation
-more searchable in plain text.
+in the Pipeline Table nor in BETA. They are all widely used on equipment and in
+documentation (Figures \ref{figure:example-of-use-Agilent}--\ref{figure:example-of-use-Ugolini}).
+It would benefit technical writers and readers if they were available in Unicode
+because it would make user manuals and other technical documentation searchable
+in plain text.
 
 We provide along with our proposal a TrueType font, with no restrictions on its use.
+
+\section{Evidence of Use in Running Text}
+
+Figures \ref{figure:example-of-use-Agilent}--\ref{figure:example-of-use-Ugolini}
+show evidence of the use of each of these symbols in running text during the past
+thirty years.
+
+\begin{figure}[h!]
+	\includegraphics[width=\textwidth]{Agilent2011.png}
+	\caption{Example of \IEC{P} in use in text from 2011, in the installation
+		guide for a network analyser. From \cite[Chapter 2, p.~24]{Agilent2011}
+		(permission applied for).}
+	\label{figure:example-of-use-Agilent} % label must come after caption
+\end{figure}
+
+\begin{figure}[h!]
+	\includegraphics[width=\textwidth]{Apple2007.png}
+	\caption{Example of \IEC{P} in use in text from 2007, in the user's guide
+		for a computer. From \cite[Chapter 1, p.~12]{Apple2007} (permission
+		applied for).}
+	\label{figure:example-of-use-Apple} % label must come after caption
+\end{figure}
+
+\begin{figure}[h!]
+	\includegraphics[width=\textwidth]{HP2009.png}
+	\caption{Example of \IEC{P} in use in text from 2009, in the setup guide
+		for a printer. From \cite[p.~2]{HP2009} (permission applied for).}
+	\label{figure:example-of-use-HP} % label must come after caption
+\end{figure}
+
+\begin{figure}[h!]
+	\includegraphics[width=\textwidth]{IEEE1621.png}
+	\caption{Example of \IEC{1}, \IEC{S}, and \IEC{0} in use in text from 2004,
+		in a standards document. From \cite[\S 4.5.2, p.~7]{IEEE1621} (permission
+		applied for).}
+	\label{figure:example-of-use-IEEE} % label must come after caption
+\end{figure}
+
+\begin{figure}[!ht]
+	\centering
+	\includegraphics[width=0.5\textwidth]{IBM1984.png}
+	\caption{Example of \IEC{0} and \IEC{1} in use in text from 1984, in the
+		user manual for a computer. From \cite[p.~1-11]{IBM1984} (permission
+		applied for).}
+	\label{figure:example-of-use-IBM} % label must come after caption
+\end{figure}
+
+\begin{figure}[!ht]
+	\includegraphics[width=\textwidth]{Motorola2010.png}
+	\caption{Example of \IEC{P} in use in text from 2010, in the installation
+		guide for a cable modem. From \cite[p.~7]{Motorola2010} (permission
+		applied for).}
+	\label{figure:example-of-use-Motorola} % label must come after caption
+\end{figure}
+
+\begin{figure}[!ht]
+	\includegraphics[width=\textwidth]{Nordman2002-0T.png}
+	\caption{Example of \IEC{0} and \IEC{T} in use in the text of a monograph
+		from 2002.
+		From \cite[p.~4]{Nordman2002} (permission applied for).}
+	\label{figure:example-of-use-Nordman-0T} % label must come after caption
+\end{figure}
+
+\begin{figure}[!ht]
+	\centering
+	\includegraphics[width=0.7\textwidth]{Nordman2002-01TP.png}
+	\caption{Example of \IEC{1}, \IEC{0}, \IEC{T}, and \IEC{P} in use in the
+		text of a monograph from 2002.
+		From \cite[p.~2]{Nordman2002} (permission applied for).}
+	\label{figure:example-of-use-Nordman-01TP} % label must come after caption
+\end{figure}
+
+\begin{figure}[!ht]
+	\includegraphics[width=\textwidth]{Nordman2002-S.png}
+	\caption{Example of \IEC{S} in use in the text of a monograph from 2002.
+		From \cite[p.~2]{Nordman2002} (permission applied for).}
+	\label{figure:example-of-use-Nordman-S} % label must come after caption
+\end{figure}
+
+\begin{figure}[!ht]
+	\centering
+	\includegraphics[width=0.7\textwidth]{Ugolini2013.png}
+	\caption{Example of \IEC{0} and \IEC{1} in use in text from 2013, in the
+		operator's manual for a coffee maker. From \cite[p.~18]{Ugolini2013}
+		(permission applied for).}
+	\label{figure:example-of-use-Ugolini} % label must come after caption
+\end{figure}
 
 \section{Character Properties}
 
@@ -247,11 +336,11 @@ Specifically, \emph{on} is taken to be above \emph{sleep}, and \emph{sleep} abov
 behaviour and have no particular required sorting order (except see the quoted
 paragraph above). The characters are uncased. There is no special line-breaking
 behaviour required. These characters are not meant for use in identifiers,
-although they have been used for
-such.\footnote{This web site has a collection of many examples of IEC 60417-5009
-used in logo design: \URL{http://www.logodesignlove.com/logos-using-the-standby-symbol}.}
-They are stand-alone symbols.  They are not white-space characters and have no
-numeric values. They are neither combining characters nor punctuation.
+although they have been used for such.\footnote{This web site has a collection
+of more than thirty examples of IEC 60417-5009 used in logo design:
+\URL{http://www.logodesignlove.com/logos-using-the-standby-symbol}.} They are
+stand-alone symbols.  They are not white-space characters and have no numeric
+values. They are neither combining characters nor punctuation.
 
 \section{The \emph{IECpower} TrueType Font}
 
@@ -279,16 +368,15 @@ letter `A' but in a san-serif typeface.}
     \label{table:symbols} % label must come after caption!
 \end{table}
 
-Placement of the symbols in the \emph{IECpower} TrueType font was chosen
+Placement of symbols in the \emph{IECpower} TrueType font was chosen
 thoughtfully so as to be mnemonic: `P' for power, `S' for stand-by or sleep,
 `T' for toggling power on or off, and `1' and `0' for power-on and power-off,
 respectively; these mnemonics `fail gracefully' in text should the
 \emph{IECpower} font happen to be unavailable.
 
-\subsection{Example Usage}
-
-In-line in text with normal spacing, the \IEC{P} characters \IEC{S} look \IEC{T}
-like \IEC{1} this \IEC{0}.
+In text with normal spacing, the \IEC{P} characters \IEC{S} look \IEC{T}
+like \IEC{1} this \IEC{0}.\footnote{The spacing around \IEC{1} in the font appears
+wider because the glyphs are fixed-width.}
 
 \section{Anticipated Objections}
 
@@ -406,6 +494,12 @@ USA
 \noindent\begin{minipage}[t]{0.48\textwidth}
 Terence Eden
 
+24 Thames View Road
+
+Oxford, OX4 4TG
+
+ENGLAND
+
 \medskip Email: \texttt{terence.eden@shkspr.mobi}
 \end{minipage}
 
@@ -413,8 +507,9 @@ Terence Eden
 
 The \IEC{P}, \IEC{0}, \IEC{1}, \IEC{T}, and \IEC{S} symbols are needed by
 technical writers to produce manuals in which these important symbols are
-searchable in plain text. Because they were invented by the standards body to be
-distinctive, new, and unambiguous, there is no confusion with existing scripts.
+searchable in plain text. Because they were invented by the standards body
+to be distinctive, new, and unambiguous, there is no confusion with existing
+scripts. They have been in use in running text for at least thirty years.
 The suggested character properties are simple. We provide along with this
 proposal a TrueType font called \emph{IECpower} containing the new symbols;
 the TrueType font is made available with no restrictions.
