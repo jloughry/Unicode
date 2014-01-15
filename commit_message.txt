@@ -1,1 +1,1 @@
-add revision note for IEEE 1621 "sleep" error fix
+fixed IEEE 1621 "sleep" error in two places in the proposal.
