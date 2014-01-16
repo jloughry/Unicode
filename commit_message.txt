@@ -1,1 +1,1 @@
-add suggested collation order; add note about permissions on font files to README.[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D to proposal; add note about permissions on font files to README.
+final version proofread and submitted; all fonts verified embedded.
