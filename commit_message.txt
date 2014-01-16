@@ -1,1 +1,1 @@
-update README with latest updates
+fixed a couple of broken links caused by moving graphics to their own directory

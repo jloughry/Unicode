@@ -352,10 +352,10 @@ alt="IEC-5007 symbol"></td><td>binary &ldquo;1&rdquo;</td><td>&nbsp;</td></tr>
 
 <a name="note1"/>1. This usage of the &ldquo;power&rdquo; symbol is in
 accordance with the recommendation in IEEE 1621:2004 to use the
-![IEC-5009](https://github.com/jloughry/Unicode/raw/master/18px-IEC5009_Standby_Symbol.svg.png)
+![IEC-5009](https://github.com/jloughry/Unicode/raw/master/graphics/18px-IEC5009_Standby_Symbol.svg.png)
 symbol to mean &ldquo;power&rdquo; as everyone in the world except IEC and ISO thinks it means,
 and to use the
-![moon](https://github.com/jloughry/Unicode/raw/master/18px-Astronomical_symbol_for_the_moon.svg.png)
+![moon](https://github.com/jloughry/Unicode/raw/master/graphics/18px-Astronomical_symbol_for_the_moon.svg.png)
 symbol to mean &ldquo;sleep&rdquo;.
 
 ### Notes on XeTeX
