@@ -1,1 +1,1 @@
-fixed a couple of broken links caused by moving graphics to their own directory
+add link to a more complete set of references at the end of the current proposal draft

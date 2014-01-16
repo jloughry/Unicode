@@ -367,6 +367,10 @@ avoid it, place an empty file called `kanjix.map` in the current directory.
 References
 ----------
 
+*See the last page of the current
+[proposal](https://github.com/jloughry/Unicode/raw/master/proposal.pdf) (PDF)
+for a more up-to-date list of references.*
+
 1. <a name="ref1"/>&ldquo;Power symbol&rdquo; *Wikipedia*.
 http://en.wikipedia.org/wiki/Power_symbol#Definitions
 
