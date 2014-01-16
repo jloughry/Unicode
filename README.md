@@ -1,21 +1,26 @@
-Proposal to Add the IEC 60417-5009 Power Button Symbol to Unicode
-=================================================================
+Proposal to Add the IEC 60417-5009 Power Symbol to Unicode
+==========================================================
 
 [Joe Loughry](mailto:joe.loughry@stx.ox.ac.uk), originally 1st December 2013.
 
 Latest Updates
 --------------
 
-*(15th January 2014)* Corrected wrong usage of the IEEE 1621 &ldquo;sleep&rdquo;
+*(15th January 2014)*
+
+- We have a document number! It is L2/14-009.
+
+- New co-author.
+
+- Corrected wrong usage of the IEEE 1621 &ldquo;sleep&rdquo;
 symbol everywhere.
 
-*(15th Jan 2014)* In response to a reviewer's question, I added evidence of the
-symbols' usage in running text. I was able to find evidence dating as far back
-as the
+- In response to a reviewer's question, I added evidence of the symbols' usage
+in running text. I was able to find evidence dating as far back as the
 [IBM PC/XT *Guide to Operations*](http://www.retroarchive.org/dos/docs/ibm_pc_op_guide.pdf)
 from 1984.
 
-Added further notes on [copyright](#update20140115).
+- Added further notes on [copyright](#update20140115).
 
 *(14th January 2014)* The UTC agenda for the 3&mdash;6 February 2014 meeting is
 now being compiled.
@@ -33,7 +38,7 @@ The IEC 60417-5009 &ldquo;Stand-by&rdquo; Symbol
 
 On 1 December 2013, [Terence Eden](http://shkspr.mobi/blog/) posed a question to
 [Hacker News](https://news.ycombinator.com/item?id=6828102) asking why Unicode lacks
-the international symbol that appears on power buttons. After searching for a while,
+the international symbol that appears on power switches. After searching for a while,
 I learnt he was right &mdash; in fact, Unicode lacks all of the following
 symbols:<sup>[1](#ref1)</sup>
 
@@ -171,8 +176,8 @@ is ready for review and submission.
 to get on the mailing list for Unicode Technical Committee meeting announcements
 and to gain access to the member section of the web site.
 
-- I have the document submission details now (in the members section). It is
-encouraged that a representative for each proposal to the
+- I have the document submission details now (it's in the members section).
+It is encouraged that a representative for each proposal to the
 [UTC](http://unicode.org/consortium/utc.html) should attend the meeting
 and present the document. The next meeting is
 [February 3&ndash;6, 2014](http://www.unicode.org/timesens/calendar.html) at
