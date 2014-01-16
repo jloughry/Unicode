@@ -1,1 +1,1 @@
-fixed IEEE 1621 "sleep" error in two places in the proposal.
+added co-author, removed the word "button" from title, added postal addresses.

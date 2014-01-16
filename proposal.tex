@@ -39,19 +39,22 @@
 \hypersetup{pdfstartview=FitH}
 
 % Fill in some other information in the PDF header.
-\hypersetup{pdftitle=Proposal to Include IEC Power Button Symbols}
+\hypersetup{pdftitle=Proposal to Include IEC Power Symbols}
 \hypersetup{pdfauthor=Terence Eden and Joe Loughry}
 \hypersetup{pdfsubject=Unicode Character Proposal}
 \hypersetup{pdfkeywords={IEC power symbol Unicode}}
 
 \begin{document}
 
-\title{Proposal to Include IEC Power Button Symbols}
+\title{Proposal to Include IEC Power Symbols}
 
 \author{Terence Eden%
 	\thanks{Electronic address: \texttt{terence.eden@shkspr.mobi}} \and
 	Joe Loughry%
-	\thanks{Corresponding author's address (University of Oxford): \texttt{joe.loughry@stx.ox.ac.uk}}}
+	\thanks{Corresponding author's address (University of Oxford): \texttt{joe.loughry@stx.ox.ac.uk}}
+	\and
+	Bruce Nordman%
+	\thanks{Lawrence Berkeley National Laboratory: \texttt{BNordman@LBL.gov}}}
 
 \maketitle
 
@@ -88,7 +91,7 @@ for ``power'' on power controls.
 
 \noindent \cite[\S 4.3, emphasis in original]{IEEE1621}. IEEE 1621 standardises
 current practice for devices with regard to the \IEC{P} symbol and introduces
-\IEC{S} \cite{Nordman2003,Nordman2002a}.
+\IEC{S} for sleep \cite{Nordman2003,Nordman2002a}.
 
 These characters, particularly \IEC{P}, are needed for technical writing and
 are not in Unicode. The advantage of having them there would be that for the
@@ -346,7 +349,7 @@ values. They are neither combining characters nor punctuation.
 
 The five symbols included in the \emph{IECpower} TrueType font are shown in
 Table~\ref{table:symbols}. Only these symbols exist in the font; if an undefined
-character, for example `A' is called for, the result is
+character, for example `A' is called for in the font, the result is
 implementation-defined.\footnote{In \hologo{XeTeX}, for example, the result of
 `A' in \emph{IECpower} is \IEC{A}.  In OpenOffice Writer, the result is the
 letter `A' but in a san-serif typeface.}
@@ -401,7 +404,8 @@ There are, of course, many characters in Unicode already resembling circles
 (\IEC{0}), or lines (\IEC{1}), or the crescent moon (\IEC{S}). None of the existing
 characters, however, has anything semantically to do with the concepts of `power',
 `switch', `toggle', or `interrupter'. There are several occurrences of the crescent
-moon, but none showing the \IEC{S} phase. There are eleven occurrences of the word
+moon, but none showing the \IEC{S} phase; IEEE 1621 intended the symbol to be different
+from other Unicode instances of a crescent moon. There are eleven occurrences of the word
 `power' in Version 6.3.0 of the Unicode standard (Table \ref{table:power}) but none
 has anything to do with device control \cite{Unicode2013}.
 
@@ -466,7 +470,7 @@ the symbol correctly.
     \label{table:power} % label must come after caption!
 \end{table}
 
-\subsection{Sever-ability}
+\subsection{Severability}
 
 Of all the characters in Table \ref{table:symbols}, the most needed is \IEC{P}.
 We included the others in this proposal because they form a logical group. If,
@@ -477,31 +481,42 @@ however, there is any objection to inclusion of \IEC{1}, \IEC{0}, \IEC{T}, or
 
 The address for correspondence is:
 
-\medskip\noindent\begin{minipage}[t]{0.5\textwidth}
-Joe Loughry
+\begin{quote}
+	Joe Loughry \\
+	6214 S Krameria Street \\
+	Centennial, CO 80111-4243 \\
+	USA
 
-6214 South Krameria Street
+	\medskip Tel.\ +1 303 221 4380
 
-Centennial, Colorado 80111-4243
+	\medskip Email:~\texttt{joe.loughry@stx.ox.ac.uk}
+\end{quote}
 
-USA
+\noindent The other sponsors' postal addresses are:
 
-\medskip Tel.\ +1 303 221 4380
+\begin{quote}
+	Terence Eden \\
+	24 Thames View Road \\
+	Oxford, OX4 4TG \\
+	ENGLAND
 
-\medskip Email: \texttt{joe.loughry@stx.ox.ac.uk}
-\end{minipage}
-\hfill
-\noindent\begin{minipage}[t]{0.48\textwidth}
-Terence Eden
+	\medskip Email: \texttt{terence.eden@shkspr.mobi}
+\end{quote}
 
-24 Thames View Road
+\noindent and
 
-Oxford, OX4 4TG
+\begin{quote}
+	Bruce Nordman \\
+	90-4000 \\
+	1 Cyclotron Road \\
+	Lawrence Berkeley National Laboratory \\
+	Berkeley, CA 94720-8136 \\
+	USA
 
-ENGLAND
+	\medskip Tel.\ 510-486-7089
 
-\medskip Email: \texttt{terence.eden@shkspr.mobi}
-\end{minipage}
+	\medskip Email: \texttt{BNordman@LBL.gov}
+\end{quote}
 
 \section{Summary and Conclusion}
 
