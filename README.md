@@ -12,6 +12,9 @@ Latest Updates
 [IECsymbol](https://github.com/jloughry/Unicode/blob/master/iec_symbol_font.ttf?raw=true)
 everywhere.
 
+- TrueType font files in Windows need to have the 'execute' permission set in UNIX (0755)
+or they aren't recognised as a valid font file.
+
 *(15th January 2014)*
 
 - We have a document number! It is L2/14-009.

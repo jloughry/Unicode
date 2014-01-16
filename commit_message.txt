@@ -1,1 +1,1 @@
-change name of TrueType font to IECsymbol (the file name is iec_symbol_font.ttf)
+add suggested collation order; add note about permissions on font files to README.[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D to proposal; add note about permissions on font files to README.
