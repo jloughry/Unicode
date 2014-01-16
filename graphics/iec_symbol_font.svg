@@ -15,7 +15,7 @@
    id="svg5496"
    sodipodi:version="0.32"
    inkscape:version="0.48.2 r9819"
-   sodipodi:docname="iec.svg"
+   sodipodi:docname="iec_symbol_font.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape">
   <metadata
      id="metadata5594">
@@ -67,11 +67,11 @@
        id="perspective3931" />
     <font
        horiz-adv-x="1024"
-       id="IECpower"
+       id="IECsymbol"
        inkscape:label="font 1">
       <font-face
          units-per-em="1024"
-         id="IEC power symbols"
+         id="IEC symbols"
          font-family="IEC Unicode" />
       <missing-glyph
          d="M0,0h1000v1024h-1000z"

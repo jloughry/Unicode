@@ -30,7 +30,7 @@
 \usepackage{authblk}
 
 % Use \IEC{x} to display a symbol in the new font.
-\newcommand{\IEC}[1]{{\fontspec{IECpower}#1}}
+\newcommand{\IEC}[1]{{\fontspec{IECsymbol}#1}}
 
 % Tell Adobe Acrobat Reader not to display the bookmarks pane.
 \hypersetup{pdfpagemode=UseNone}
@@ -40,9 +40,9 @@
 
 % Fill in some other information in the PDF header.
 \hypersetup{pdftitle=Proposal to Include IEC Power Symbols}
-\hypersetup{pdfauthor=Terence Eden and Joe Loughry}
+\hypersetup{pdfauthor=Terence Eden and Joe Loughry and Bruce Nordman}
 \hypersetup{pdfsubject=Unicode Character Proposal}
-\hypersetup{pdfkeywords={IEC power symbol Unicode}}
+\hypersetup{pdfkeywords={IEC power symbol Unicode font}}
 
 \begin{document}
 
@@ -68,8 +68,8 @@ Unicode. Clearly it would be useful to anyone writing technical or user
 manuals. Furthermore, for electronically published documentation, it is
 crucial for this and a few other symbols to be defined because it makes them
 searchable in plain text. In this proposal we provide a TrueType font named
-`IECpower' containing the glyphs as specified in three international standards
-together with all of the needed character properties for Unicode specification
+`IECsymbol' containing the glyphs as specified in three international standards
+together with the needed character properties for Unicode specification
 as well as evidence that the characters have been used in running text.
 \end{abstract}
 
@@ -345,13 +345,13 @@ of more than thirty examples of IEC 60417-5009 used in logo design:
 stand-alone symbols.  They are not white-space characters and have no numeric
 values. They are neither combining characters nor punctuation.
 
-\section{The \emph{IECpower} TrueType Font}
+\section{The \emph{IECsymbol} TrueType Font}
 
-The five symbols included in the \emph{IECpower} TrueType font are shown in
+The five symbols included in the \emph{IECsymbol} TrueType font are shown in
 Table~\ref{table:symbols}. Only these symbols exist in the font; if an undefined
 character, for example `A' is called for in the font, the result is
 implementation-defined.\footnote{In \hologo{XeTeX}, for example, the result of
-`A' in \emph{IECpower} is \IEC{A}.  In OpenOffice Writer, the result is the
+`A' in \emph{IECsymbol} is \IEC{A}.  In OpenOffice Writer, the result is the
 letter `A' but in a san-serif typeface.}
 
 \begin{table}[htbp]
@@ -367,15 +367,15 @@ letter `A' but in a san-serif typeface.}
 		\IEC{1} & IEC 60417-5007 & 1 & `binary one'  & Power on     \\
 		\IEC{S} & IEEE 1621      & S & `sleep'       & Sleep        \\
     \end{tabular}
-    \caption{All of the available glyphs in the \emph{IEC power} TrueType font.}
+    \caption{All of the available glyphs in the \emph{IECsymbol} TrueType font.}
     \label{table:symbols} % label must come after caption!
 \end{table}
 
-Placement of symbols in the \emph{IECpower} TrueType font was chosen
+Placement of symbols in the \emph{IECsymbol} TrueType font was chosen
 thoughtfully so as to be mnemonic: `P' for power, `S' for sleep,
 `T' for toggling power on or off, and `1' and `0' for power-on and power-off,
 respectively; these mnemonics `fail gracefully' in text should the
-\emph{IECpower} font happen to be unavailable.
+\emph{IECsymbol} font happen to be unavailable.
 
 In text with normal spacing, the \IEC{P} characters \IEC{S} look \IEC{T}
 like \IEC{1} this \IEC{0}.\footnote{The spacing around \IEC{1} in the font appears
@@ -526,7 +526,7 @@ searchable in plain text. Because they were invented by the standards body
 to be distinctive, new, and unambiguous, there is no confusion with existing
 scripts. They have been in use in running text for at least thirty years.
 The suggested character properties are simple. We provide along with this
-proposal a TrueType font called \emph{IECpower} containing the new symbols;
+proposal a TrueType font called \emph{IECsymbol} containing the new symbols;
 the TrueType font is made available with no restrictions.
 
 \bibliographystyle{plain}

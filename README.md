@@ -6,6 +6,12 @@ Proposal to Add the IEC 60417-5009 Power Symbol to Unicode
 Latest Updates
 --------------
 
+*(16th January 2014)*
+
+- Changed name of TrueType font to
+[IECsymbol](https://github.com/jloughry/Unicode/blob/master/iec_symbol_font.ttf?raw=true)
+everywhere.
+
 *(15th January 2014)*
 
 - We have a document number! It is L2/14-009.
@@ -325,7 +331,7 @@ that reason, so it would fail gracefully if the font were unavailable.
 
 In the absence of any well-defined convention for code pages in &ldquo;sparse&rdquo;
 symbol fonts, here is a proposed encoding for the
-[new font](https://github.com/jloughry/Unicode/blob/master/iec.ttf?raw=true):
+[new font](https://github.com/jloughry/Unicode/blob/master/iec_symbol_font.ttf?raw=true):
 <table>
 <tr>
 <th align="center">Code Point</th><th align="center">Symbol</th><th>Rationale</th><th>Note</th>

@@ -1,1 +1,1 @@
-add link to a more complete set of references at the end of the current proposal draft
+change name of TrueType font to IECsymbol (the file name is iec_symbol_font.ttf)
