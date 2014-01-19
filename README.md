@@ -190,10 +190,11 @@ In brief, the suggested character properties are now:
 
 <table>
 	<tr>
-		<th>Character</th><th>CP</th><th>Name</th><th>GC</th><th>CCC</th><th>BC</th><th>DT</th><th>NT</th><th>NV</th><th>BM</th><th>U1</th><th>IC</th><th>SU</th><th>SL</th><th>ST</th>
+		<th>Char</th><th>CP</th><th>NM</th><th>GC</th><th>CCC</th><th>BC</th><th>DT</th><th>NT</th><th>NV</th><th>BM</th><th>U1</th><th>IC</th><th>SU</th><th>SL</th><th>ST</th>
 	</tr>
 	<tr>
-		<td><img src="https://github.com/jloughry/Unicode/raw/master/graphics/18px-IEC5009_Standby_Symbol.svg.png" alt="IEC-5009 POWER symbol"></td><td>POWER</td><td><em>tbd</em></td><td>POWER</td><td>So</td><td>0</td><td>ON</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>N</td><td>&nbsp;</td><td>&nbsp;</td<><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+		<td align="center"><img src="https://github.com/jloughry/Unicode/raw/master/graphics/18px-IEC5009_Standby_Symbol.svg.png" alt="IEC-5009 POWER symbol"></td><td><em>tbd</em></td><td>POWER</td><td>So</td><td>0</td><td>ON</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>N</td><td>&nbsp;</td><td>&nbsp;</td<><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+		<td align="center"><img src="https://github.com/jloughry/Unicode/raw/master/graphics/18px-IEC5008_Off_Symbol.svg.png" alt="IEC-5008 POWER OFF symbol"></td><td><em>tbd</em></td><td>POWER OFF</td><td>So</td><td>0</td><td>ON</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>N</td><td>&nbsp;</td><td>&nbsp;</td<><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
 	</tr>
 </table>
 
