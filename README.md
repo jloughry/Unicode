@@ -189,11 +189,11 @@ be more descriptive, and to remove a disallowed character, in response to a
 In brief, the suggested character properties are now:
 
 <table>
-	<th>
-		<td>Character</td><td>CP</td><td>Name</td><td>GC</td><td>CCC</td><td>BC</td><td>DT/DM</td><td>NT</td><td>NV</td><td>BM</td><td>U1N</td><td>IC</td<><td>SUM</td><td>SLM</td><td>STM</td>
-	</th>
 	<tr>
-		<td><img src="https://github.com/jloughry/Unicode/raw/master/graphics/18px-IEC5009_Standby_Symbol.svg.png" alt="IEC-5009 POWER symbol"></td><td>POWER</td><td><em>TBD</em></td><td>POWER</td><td>So</td><td>0</td><td>ON</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>N</td><td>&nbsp;</td><td>&nbsp;</td<><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+		<th>Character</th><th>CP</th><th>Name</th><th>GC</th><th>CCC</th><th>BC</th><th>DT</th><th>NT</th><th>NV</th><th>BM</th><th>U1</th><th>IC</th><th>SU</th><th>SL</th><th>ST</th>
+	</tr>
+	<tr>
+		<td><img src="https://github.com/jloughry/Unicode/raw/master/graphics/18px-IEC5009_Standby_Symbol.svg.png" alt="IEC-5009 POWER symbol"></td><td>POWER</td><td><em>tbd</em></td><td>POWER</td><td>So</td><td>0</td><td>ON</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>N</td><td>&nbsp;</td><td>&nbsp;</td<><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
 	</tr>
 </table>
 

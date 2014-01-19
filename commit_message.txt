@@ -1,1 +1,1 @@
-update README with new names (in progress to check table formatting)
+fix HTML table formatting (lots of columns)
