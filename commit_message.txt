@@ -1,1 +1,1 @@
-fix width of POWER ON symbol
+corrected names in character properties to agree with Unicode standard syntax

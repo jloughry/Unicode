@@ -179,7 +179,7 @@ Draft Proposal
 The current draft proposal is always
 [here](https://github.com/jloughry/Unicode/raw/master/proposal.pdf) (PDF).
 
-#### Updates<a name="update20140119"/>
+#### Late Updates to the Proposal<a name="update20140119"/>
 
 I changed the *name* character properties of some of the proposed characters to
 be more descriptive, and to remove a disallowed character, in response to a
@@ -193,19 +193,19 @@ In brief, the suggested character properties are now:
 		<th>Char</th><th>CP</th><th>Name</th><th>GC</th><th>CC</th><th>BC</th><th>D</th><th>NT</th><th>NV</th><th>B</th><th>1</th><th>I</th><th>U</th><th>L</th><th>T</th>
 	</tr>
 	<tr>
-		<td align="center"><img src="https://github.com/jloughry/Unicode/raw/master/graphics/18px-IEC5009_Standby_Symbol.svg.png" alt="IEC-5009 POWER symbol"/></td><td><em>n</em></td><td>POWER</td><td>So</td><td>0</td><td>ON</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>N</td><td>&nbsp;</td><td>&nbsp;</td<><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+		<td align="center"><img src="https://github.com/jloughry/Unicode/raw/master/graphics/18px-IEC5009_Standby_Symbol.svg.png" alt="IEC-5009 POWER symbol"/></td><td><em>nn</em></td><td>POWER</td><td>So</td><td>0</td><td>ON</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>N</td><td>&nbsp;</td><td>&nbsp;</td<><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
 	</tr>
 	<tr>
-		<td align="center"><img src="https://github.com/jloughry/Unicode/raw/master/graphics/18px-IEC5008_Off_Symbol.svg.png" alt="IEC-5008 POWER OFF symbol"/></td><td><em>n</em></td><td>POWER OFF</td><td>So</td><td>0</td><td>ON</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>N</td><td>&nbsp;</td><td>&nbsp;</td<><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+		<td align="center"><img src="https://github.com/jloughry/Unicode/raw/master/graphics/18px-IEC5008_Off_Symbol.svg.png" alt="IEC-5008 POWER OFF symbol"/></td><td><em>nn</em></td><td>POWER OFF</td><td>So</td><td>0</td><td>ON</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>N</td><td>&nbsp;</td><td>&nbsp;</td<><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
 	</tr>
 	<tr>
-		<td align="center"><img src="https://github.com/jloughry/Unicode/raw/master/graphics/18px-Astronomical_symbol_for_the_moon.svg.png" alt="IEEE 1621 SLEEP symbol"/></td><td><em>n</em></td><td>SLEEP</td><td>So</td><td>0</td><td>ON</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>N</td><td>&nbsp;</td><td>&nbsp;</td<><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+		<td align="center"><img src="https://github.com/jloughry/Unicode/raw/master/graphics/18px-Astronomical_symbol_for_the_moon.svg.png" alt="IEEE 1621 SLEEP symbol"/></td><td><em>nn</em></td><td>SLEEP</td><td>So</td><td>0</td><td>ON</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>N</td><td>&nbsp;</td><td>&nbsp;</td<><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
 	</tr>
 	<tr>
-		<td align="center"><img src="https://github.com/jloughry/Unicode/raw/master/graphics/3px-IEC5007_On_Symbol.svg.png" alt="IEC-5007 POWER ON symbol"/></td><td><em>n</em></td><td>POWER ON</td><td>So</td><td>0</td><td>ON</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>N</td><td>&nbsp;</td><td>&nbsp;</td<><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+		<td align="center"><img src="https://github.com/jloughry/Unicode/raw/master/graphics/3px-IEC5007_On_Symbol.svg.png" alt="IEC-5007 POWER ON symbol"/></td><td><em>nn</em></td><td>POWER ON</td><td>So</td><td>0</td><td>ON</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>N</td><td>&nbsp;</td><td>&nbsp;</td<><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
 	</tr>
 	<tr>
-		<td align="center"><img src="https://github.com/jloughry/Unicode/raw/master/graphics/18px-IEC5010_On_Off_Symbol.svg.png" alt="IEC-5010 POWER ON-OFF symbol"/></td><td><em>n</em></td><td>POWER ON-OFF</td><td>So</td><td>0</td><td>ON</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>N</td><td>&nbsp;</td><td>&nbsp;</td<><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+		<td align="center"><img src="https://github.com/jloughry/Unicode/raw/master/graphics/18px-IEC5010_On_Off_Symbol.svg.png" alt="IEC-5010 POWER ON-OFF symbol"/></td><td><em>nn</em></td><td>POWER ON-OFF</td><td>So</td><td>0</td><td>ON</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>N</td><td>&nbsp;</td><td>&nbsp;</td<><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
 	</tr>
 </table>
 
