@@ -1,1 +1,1 @@
-finished table (no other way to text it besides commit)
+make column names narrower to try to fit table without horizontal scrolling
