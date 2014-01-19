@@ -1,1 +1,1 @@
-make column names narrower to try to fit table without horizontal scrolling
+fix width of POWER ON symbol
