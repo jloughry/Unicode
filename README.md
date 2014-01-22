@@ -6,8 +6,10 @@ Proposal to Add the IEC 60417-5009 Power Symbol to Unicode
 Latest Updates
 --------------
 
-*(21st January 2014)* The required *ISO/IEC JTC 1/SC 2/WG 2 PROPOSAL SUMMARY FORM
-TO ACCOMPANY SUBMISSIONS FOR ADDITIONS TO THE REPERTOIRE OF ISO/IEC 10646* is now
+*(21st January 2014)*
+
+- The required *ISO/IEC JTC 1/SC 2/WG 2 PROPOSAL SUMMARY FORM TO ACCOMPANY
+SUBMISSIONS FOR ADDITIONS TO THE REPERTOIRE OF ISO/IEC 10646* is now
 included in the [proposal](#update20140121).
 
 *(19th January 2014)*

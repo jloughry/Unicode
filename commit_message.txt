@@ -1,2 +1,1 @@
-added ISO submission form (appended to proposal)
-updated README to match.
+corrected formatting of bulleted list under 21st January 2014
