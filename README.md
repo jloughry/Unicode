@@ -6,6 +6,10 @@ Proposal to Add the IEC 60417-5009 Power Symbol to Unicode
 Latest Updates
 --------------
 
+*(21st January 2014)* The required *ISO/IEC JTC 1/SC 2/WG 2 PROPOSAL SUMMARY FORM
+TO ACCOMPANY SUBMISSIONS FOR ADDITIONS TO THE REPERTOIRE OF ISO/IEC 10646* is now
+included in the [proposal](#update20140121).
+
 *(19th January 2014)*
 
 - [Changed the *name* character properties](#update20140119) to be more descriptive.
@@ -25,7 +29,8 @@ or they aren't recognised as a valid font file.
 
 *(15th January 2014)*
 
-- We have a document number! It is L2/14-009.
+- We have a document number! It is
+[L2/14-009](http://www.unicode.org/L2/L2014/14009-power-symbol.pdf).
 
 - New co-author.
 
@@ -173,7 +178,7 @@ ISO by-laws.
 I'm not going to worry about it. The Unicode Technical Committee undoubtedly has
 thought about this before and probably knows the answer.
 
-Draft Proposal
+Draft Proposal<a name="update20140121"/>
 --------------
 
 The current draft proposal is always
@@ -213,6 +218,14 @@ In brief, the suggested character properties are now:
 
 The [proposal](https://github.com/jloughry/Unicode/raw/master/proposal.pdf)
 is ready for review and submission.
+
+#### ISO Submission Form
+
+The *ISO/IEC JTC 1/SC 2/WG 2 PROPOSAL SUMMARY FORM TO ACCOMPANY SUBMISSIONS
+FOR ADDITIONS TO THE REPERTOIRE OF ISO/IEC 10646* form will be appended to
+the proposal as soon as I get it filled out. (The proposal in the
+[Document Register](http://www.unicode.org/L2/L-curdoc.htm) on the Unicode
+Consortium web site is missing the ISO form.)
 
 #### Document Submission Notes<a name="update20140111"/>
 

@@ -29,6 +29,9 @@
 % for multiple authors with different affiliations
 \usepackage{authblk}
 
+% for including pages from a separate PDF in the output (\includepdf command).
+\usepackage{pdfpages}
+
 % Use \IEC{x} to display a symbol in the new font.
 \newcommand{\IEC}[1]{{\fontspec{IECsymbol}#1}}
 
@@ -529,6 +532,9 @@ the TrueType font is made available with no restrictions.
 
 \vfill
 {\tiny Build \input{build_counter.txt}}
+
+\newpage
+\includepdf[pages={1-2}]{ISO_submission_form/n4102-form-completed.pdf}
 
 \end{document}
 

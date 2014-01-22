@@ -1,1 +1,2 @@
-corrected names in character properties to agree with Unicode standard syntax
+added ISO submission form (appended to proposal)
+updated README to match.
