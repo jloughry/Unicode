@@ -98,19 +98,23 @@ current practice for devices with regard to the \IEC{P} symbol and introduces
 \IEC{S} for sleep \cite{Nordman2003,Nordman2002a}.
 
 These characters, particularly \IEC{P}, are needed for technical writing and
-are not in Unicode. The advantage of having them there would be that for the
-first time they would be searchable in plain text, something not possible with
-embedded graphics, which is the way the symbols have been displayed to date.
+are not in Unicode. Adding these standardised symbols to Unicode will allow for
+their semantic identification and use. For the first time they would be searchable
+in plain text, something not possible with embedded graphics, which is the way the
+symbols have been displayed to date.
 
 \section{Suitability for Inclusion}
 
 These symbols are characters according to the definition in the Glossary,
-and do not appear in the Archive of Notices of Non-Approval. They are neither
-in the Pipeline Table nor in BETA. They are all widely used on equipment and in
-documentation (Figures \ref{figure:example-of-use-Agilent}--\ref{figure:example-of-use-Ugolini}).
-It would benefit technical writers and readers if they were available in Unicode
-because it would make user manuals and other technical documentation searchable
-in plain text.
+and do not appear in the Archive of Notices of Non-Approval. As of this writing,
+they are not included in the Unicode Pipeline Table or BETA. These symbols are
+widely used on electronic equipment and thus their technical documentation
+(Figures \ref{figure:example-of-use-Agilent}--\ref{figure:example-of-use-Ugolini}).
+Semantically identifying the symbols allows for textual search and programmatic
+decision making, as well as reducing the use of binary images and single purpose
+symbol fonts in technical writing. It would benefit technical writers and readers
+if they were available in Unicode because it would make user manuals and other
+technical documentation searchable in plain text.
 
 We provide along with our proposal a TrueType font, with no restrictions on its use.
 
@@ -141,14 +145,14 @@ thirty years.
 	\label{figure:example-of-use-HP} % label must come after caption
 \end{figure}
 
-\begin{figure}[h!]
+\begin{figure}[ht]
 	\includegraphics[width=\textwidth]{graphics/IEEE1621.png}
 	\caption{Example of \IEC{1}, \IEC{S}, and \IEC{0} usage in running text from 2004,
 		in a standards document. From \cite[\S 4.5.2, p.~7]{IEEE1621}.}
 	\label{figure:example-of-use-IEEE} % label must come after caption
 \end{figure}
 
-\begin{figure}[!ht]
+\begin{figure}[ht]
 	\centering
 	\includegraphics[width=0.5\textwidth]{graphics/IBM1984.png}
 	\caption{Example of \IEC{0} and \IEC{1} usage in running text from 1984,
@@ -156,38 +160,38 @@ thirty years.
 	\label{figure:example-of-use-IBM} % label must come after caption
 \end{figure}
 
-\begin{figure}[!ht]
+\begin{figure}[ht]
 	\includegraphics[width=\textwidth]{graphics/Motorola2010.png}
 	\caption{Example of \IEC{P} usage in running text from 2010, in the installation
 		guide for a cable modem. From \cite[p.~7]{Motorola2010}.}
 	\label{figure:example-of-use-Motorola} % label must come after caption
 \end{figure}
 
-\begin{figure}[!ht]
+\begin{figure}[ht]
 	\includegraphics[width=\textwidth]{graphics/Nordman2002-0T.png}
 	\caption{Example of \IEC{0} and \IEC{T} used in running text, in a monograph
 		from 2002. From \cite[p.~4]{Nordman2002} (used by permission).}
 	\label{figure:example-of-use-Nordman-0T} % label must come after caption
 \end{figure}
 
-\begin{figure}[!ht]
+\begin{figure}[ht]
 	\centering
-	\includegraphics[width=0.7\textwidth]{graphics/Nordman2002-01TP.png}
+	\includegraphics[width=0.8\textwidth]{graphics/Nordman2002-01TP.png}
 	\caption{Example of \IEC{1}, \IEC{0}, \IEC{T}, and \IEC{P} usage in running
 		text, in a monograph from 2002. From \cite[p.~2]{Nordman2002} (used by permission).}
 	\label{figure:example-of-use-Nordman-01TP} % label must come after caption
 \end{figure}
 
-\begin{figure}[!ht]
+\begin{figure}[ht]
 	\includegraphics[width=\textwidth]{graphics/Nordman2002-S.png}
 	\caption{Example of \IEC{S} used in running text, in a monograph from 2002.
 		From \cite[p.~2]{Nordman2002} (used by permission).}
 	\label{figure:example-of-use-Nordman-S} % label must come after caption
 \end{figure}
 
-\begin{figure}[!ht]
+\begin{figure}[ht]
 	\centering
-	\includegraphics[width=0.7\textwidth]{graphics/Ugolini2013.png}
+	\includegraphics[width=0.8\textwidth]{graphics/Ugolini2013.png}
 	\caption{Example of \IEC{0} and \IEC{1} used in running text from 2013, in the
 		operator's manual for a coffee maker. From \cite[p.~18]{Ugolini2013}.}
 	\label{figure:example-of-use-Ugolini} % label must come after caption
@@ -523,7 +527,7 @@ technical writers to produce manuals in which these important symbols are
 searchable in plain text. Because they were invented by the standards body
 to be distinctive, new, and unambiguous, there is no confusion with existing
 scripts. They have been in use in running text for at least thirty years.
-The suggested character properties are simple. We provide along with this
+The suggested character properties are straightforward. We provide along with this
 proposal a TrueType font called \emph{IECsymbol} containing the new symbols;
 the TrueType font is made available with no restrictions.
 

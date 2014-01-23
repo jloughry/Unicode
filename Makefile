@@ -17,7 +17,8 @@ graphics = $(graphics_dir)/Agilent2011.png $(graphics_dir)/Apple2007.png \
 	$(graphics_dir)/HP2009.png $(graphics_dir)/IBM1984.png \
 	$(graphics_dir)/IEEE1621.png  $(graphics_dir)/Motorola2010.png \
 	$(graphics_dir)/Nordman2002-01TP.png  $(graphics_dir)/Nordman2002-0T.png \
-	$(graphics_dir)/Nordman2002-S.png $(graphics_dir)/Ugolini2013.png
+	$(graphics_dir)/Nordman2002-S.png $(graphics_dir)/Ugolini2013.png \
+	ISO_submission_form/n4102-form-completed.pdf
 
 all:: $(pdf_file)
 

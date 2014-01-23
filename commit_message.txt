@@ -1,1 +1,2 @@
-corrected formatting of bulleted list under 21st January 2014
+completed ISO submission form; added Acknowledgements section to readme; incorporated
+comments from Adam de Witt.

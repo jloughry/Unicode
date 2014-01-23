@@ -6,6 +6,10 @@ Proposal to Add the IEC 60417-5009 Power Symbol to Unicode
 Latest Updates
 --------------
 
+*(22nd January 2014)*
+
+- [Thanks](#update20140122) to everyone who's contributed!
+
 *(21st January 2014)*
 
 - The required *ISO/IEC JTC 1/SC 2/WG 2 PROPOSAL SUMMARY FORM TO ACCOMPANY
@@ -185,6 +189,21 @@ Draft Proposal<a name="update20140121"/>
 
 The current draft proposal is always
 [here](https://github.com/jloughry/Unicode/raw/master/proposal.pdf) (PDF).
+
+#### Acknowledgements<a name="update20140122"/>
+
+Thanks to everyone here for technical reviews, suggestions, improvements, and
+finding errors and omissions:
+
+- Terence Eden
+
+- Bruce Nordman
+
+- Adam De Witt
+
+- [@yuasakusa](https://twitter.com/yuasakusa)
+
+- Rick McGowan
 
 #### Late Updates to the Proposal<a name="update20140119"/>
 
