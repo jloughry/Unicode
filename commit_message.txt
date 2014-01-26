@@ -1,2 +1,1 @@
-completed ISO submission form; added Acknowledgements section to readme; incorporated
-comments from Adam de Witt.
+add echo to clean:: target

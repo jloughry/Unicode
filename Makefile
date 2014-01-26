@@ -45,6 +45,7 @@ spell::
 	aspell --lang=en_GB -t check $(source_file)
 
 clean::
+	@echo "This is \"clean\" in the local Makefile"
 	rm -f $(temporary_files)
 
 allclean: clean
