@@ -12,6 +12,8 @@ We made it onto the [agenda](http://www.unicode.org/L2/L2014/14025.htm) for the
 [3&ndash;6 February 2014 meeting](http://www.unicode.org/timesens/logistics-utc138.html)
 of the [Unicode Technical Committee](http://www.unicode.org/consortium/utc.html)!
 
+*(Previous updates are [here](#update20140129).)
+
 The IEC 60417-5009 &ldquo;Stand-by&rdquo; Symbol
 ------------------------------------------------
 
@@ -156,7 +158,7 @@ finding errors and omissions:
 
 - Rick McGowan
 
-#### Late Updates to the Proposal<a name="update20140119"/>
+#### Late Updates to the Proposal<a name="update20140119"/><a name="update20140129"/>
 
 I changed the *name* character properties of some of the proposed characters to
 be more descriptive, and to remove a disallowed character, in response to a
