@@ -1,1 +1,2 @@
-The proposal is now on the agenda! (update README)
+recovered two update entries accidentally deleted in editing; got them back from Git.
+Entries restored in README.md
