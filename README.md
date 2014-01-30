@@ -12,8 +12,8 @@ Latest Updates
 [3&ndash;6 February 2014 meeting](http://www.unicode.org/timesens/logistics-utc138.html)
 of the [Unicode Technical Committee](http://www.unicode.org/consortium/utc.html)!
 
-- The proposal being considered is
-[here](http://www.unicode.org/cgi-bin/GetMatchingDocs.pl?L2/14-009)
+- The proposal as submitted is
+[here](http://www.unicode.org/L2/L2014/14009-power-symbol.pdf)
 on the Unicode Consortium web site.
 
 *(Previous updates are [here](#update20140129).)
