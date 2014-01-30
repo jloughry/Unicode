@@ -6,60 +6,11 @@ Proposal to Add the IEC 60417-5009 Power Symbol to Unicode
 Latest Updates
 --------------
 
-*(22nd January 2014)*
+*(29th January 2014)*
 
-- [Thanks](#update20140122) to everyone who's contributed!
-
-*(21st January 2014)*
-
-- The required *ISO/IEC JTC 1/SC 2/WG 2 PROPOSAL SUMMARY FORM TO ACCOMPANY
-SUBMISSIONS FOR ADDITIONS TO THE REPERTOIRE OF ISO/IEC 10646* is now
-included in the [proposal](#update20140121).
-
-*(19th January 2014)*
-
-- [Changed the *name* character properties](#update20140119) to be more descriptive.
-
-- Removed disallowed slash from the name of the <img
-src="https://github.com/jloughry/Unicode/raw/master/graphics/18px-IEC5010_On_Off_Symbol.svg.png"
-alt="IEC-5010 POWER ON-OFF symbol"/> symbol in the proposal.
-
-*(16th January 2014)*
-
-- Changed name of TrueType font to
-[IECsymbol](https://github.com/jloughry/Unicode/blob/master/iec_symbol_font.ttf?raw=true)
-everywhere.
-
-- TrueType font files in Windows need to have the 'execute' permission set in UNIX (0755)
-or they aren't recognised as a valid font file.
-
-*(15th January 2014)*
-
-- We have a document number! It is
-[L2/14-009](http://www.unicode.org/L2/L2014/14009-power-symbol.pdf).
-
-- New co-author.
-
-- Corrected wrong usage of the IEEE 1621 &ldquo;sleep&rdquo;
-symbol everywhere.
-
-- In response to a reviewer's question, I added evidence of the symbols' usage
-in running text. I was able to find evidence dating as far back as the
-[IBM PC/XT *Guide to Operations*](http://www.retroarchive.org/dos/docs/ibm_pc_op_guide.pdf)
-from 1984.
-
-- Added further notes on [copyright](#update20140115).
-
-*(14th January 2014)* The UTC agenda for the 3&mdash;6 February 2014 meeting is
-now being compiled.
-
-*(13th January 2014)* The proposal is [ready to send](#update20140113) to UTC
-in time for the February meeting.
-
-*(11th January 2014)* [Call for agenda items](#update20140111) from the Unicode
-Technical Committee (UTC).
-
-*(7th January 2014)* [How you can help](#update20140107).
+**We made it onto the [agenda](http://www.unicode.org/L2/L2014/14025.htm)** for the
+[3&ndash;6 February 2014 meeting](http://www.unicode.org/timesens/logistics-utc138.html)
+of the [Unicode Technical Committee](http://www.unicode.org/consortium/utc.html)!
 
 The IEC 60417-5009 &ldquo;Stand-by&rdquo; Symbol
 ------------------------------------------------
@@ -234,6 +185,51 @@ In brief, the suggested character properties are now:
 		<td align="center"><img src="https://github.com/jloughry/Unicode/raw/master/graphics/18px-IEC5010_On_Off_Symbol.svg.png" alt="IEC-5010 POWER ON-OFF symbol"/></td><td><em>nn</em></td><td>POWER ON-OFF</td><td>So</td><td>0</td><td>ON</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>N</td><td>&nbsp;</td><td>&nbsp;</td<><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
 	</tr>
 </table>
+
+*(19th January 2014)*
+
+- [Changed the *name* character properties](#update20140119) to be more descriptive.
+
+- Removed disallowed slash from the name of the <img
+src="https://github.com/jloughry/Unicode/raw/master/graphics/18px-IEC5010_On_Off_Symbol.svg.png"
+alt="IEC-5010 POWER ON-OFF symbol"/> symbol in the proposal.
+
+*(16th January 2014)*
+
+- Changed name of TrueType font to
+[IECsymbol](https://github.com/jloughry/Unicode/blob/master/iec_symbol_font.ttf?raw=true)
+everywhere.
+
+- TrueType font files in Windows need to have the 'execute' permission set in UNIX (0755)
+or they aren't recognised as a valid font file.
+
+*(15th January 2014)*
+
+- We have a document number! It is
+[L2/14-009](http://www.unicode.org/L2/L2014/14009-power-symbol.pdf).
+
+- New co-author.
+
+- Corrected wrong usage of the IEEE 1621 &ldquo;sleep&rdquo;
+symbol everywhere.
+
+- In response to a reviewer's question, I added evidence of the symbols' usage
+in running text. I was able to find evidence dating as far back as the
+[IBM PC/XT *Guide to Operations*](http://www.retroarchive.org/dos/docs/ibm_pc_op_guide.pdf)
+from 1984.
+
+- Added further notes on [copyright](#update20140115).
+
+*(14th January 2014)* The UTC agenda for the 3&mdash;6 February 2014 meeting is
+now being compiled.
+
+*(13th January 2014)* The proposal is [ready to send](#update20140113) to UTC
+in time for the February meeting.
+
+*(11th January 2014)* [Call for agenda items](#update20140111) from the Unicode
+Technical Committee (UTC).
+
+*(7th January 2014)* [How you can help](#update20140107).
 
 #### Schedule for submitting the proposal<a name="update20140113"/>
 

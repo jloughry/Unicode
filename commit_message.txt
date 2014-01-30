@@ -1,1 +1,1 @@
-add echo to clean:: target
+The proposal is now on the agenda! (update README)
