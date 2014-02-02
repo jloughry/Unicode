@@ -6,6 +6,12 @@ Proposal to Add the IEC 60417-5009 Power Symbol to Unicode
 Latest Updates
 --------------
 
+<!--
+*(3rd February 2014)*
+
+- [Results of the UTC meeting](#update20140203) today:
+-->
+
 *(29th January 2014)*
 
 - We made it onto the [agenda](http://www.unicode.org/L2/L2014/14025.htm) for the
@@ -374,6 +380,11 @@ take place [3&ndash;6 February 2014](http://www.unicode.org/timesens/calendar.ht
 in San Jose, California. The next meeting after that is 6&ndash;9 May 2014.
 I want to get our proposal submitted in time to make the agenda for the February
 meeting (two weeks in advance).
+
+<!--
+### Results of the Unicode Technical Committee meeting on 3rd February 2014
+On the first day of their quarterly meeting, the Unicode Technical Committee (UTC)...
+-->
 
 ### What To Do Next
 
