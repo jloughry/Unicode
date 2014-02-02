@@ -12,6 +12,12 @@ Latest Updates
 - [Results of the UTC meeting](#update20140203) today:
 -->
 
+*(2nd February 2014)*
+
+- OpenType version of the
+[font](https://github.com/jloughry/Unicode/blob/master/iec_symbol_font.otf?raw=true)
+and some more [information](#update20140202) on how the fonts were made.
+
 *(29th January 2014)*
 
 - We made it onto the [agenda](http://www.unicode.org/L2/L2014/14025.htm) for the
@@ -391,7 +397,7 @@ On the first day of their quarterly meeting, the Unicode Technical Committee (UT
 After the proposal is submitted, I plant to submit a &ldquo;Show HN&rdquo; post
 on HN telling how it was done.
 
-Notes on Tools for Creating Fonts
+Notes on Tools for Creating Fonts<a name="update20140202"/>
 ---------------------------------
 
 There is an excellent
@@ -400,6 +406,17 @@ specifically aimed at generating icon fonts. It includes an SVG font starter fil
 instructions for using the SVG font editor built into Inkscape 0.48, recommendations
 about which on-line font converters are most reliable, and tips for editing the
 metadata and distributing the new font afterwards.
+
+Following the above recommendation, the
+[Free Online Font Converter](http://www.freefontconverter.com/) was used to generate
+[TrueType](https://github.com/jloughry/Unicode/blob/master/iec_symbol_font.ttf?raw=true)
+and
+[OpenType](https://github.com/jloughry/Unicode/blob/master/iec_symbol_font.otf?raw=true)
+fonts from the
+[SVG source file](https://github.com/jloughry/Unicode/blob/master/iec_symbol_font.svg?raw=true)
+that was made with Inkscape.
+
+### LaTeX
 
 These instructions for
 [using TrueType fonts in LaTeX](http://fachschaft.physik.uni-greifswald.de/~stitch/ttf.html)
