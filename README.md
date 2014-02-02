@@ -413,8 +413,8 @@ Following the above recommendation, the
 and
 [OpenType](https://github.com/jloughry/Unicode/blob/master/iec_symbol_font.otf?raw=true)
 fonts from the
-[SVG source file](https://github.com/jloughry/Unicode/blob/master/iec_symbol_font.svg?raw=true)
-that was made with Inkscape.
+[SVG source](https://github.com/jloughry/Unicode/blob/master/graphics/iec_symbol_font.svg?raw=true)
+file that was made with Inkscape.
 
 ### LaTeX
 
