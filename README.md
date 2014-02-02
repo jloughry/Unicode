@@ -314,15 +314,17 @@ Thanks to Adam De Witt for the idea!
 
 ### TO-DO
 
-- Circulate the draft proposal for review.
-
-- Submit proposal to the UTC.
+- Improve the metadata in the fonts to include, at minimum, licence and description
+information. These get embedded in the font file if present in the SVG source in the
+right format.
 
 - Update the [Wikipedia page](http://en.wikipedia.org/wiki/Power_symbol) as soon
 as it's official; Wikipedia admins keep
 [reverting](http://en.wikipedia.org/w/index.php?title=Power_symbol&action=history)
 changes made to the article pointing to this project. Thanks to
 [daveljonez](https://github.com/daveljonez) for pointing this out.
+
+- Write a follow-up article on HN.
 
 ### DONE
 
@@ -377,6 +379,10 @@ right now, nor in the [pipeline](http://www.unicode.org/pending/proposals.html) 
 20-December-2013; therefore, it is proper to submit a proposal at this time. Hints for
 [Submitting Successful Character and Script Proposals](http://www.unicode.org/faq/char_proposal.html)
 for submitting good proposals are being looked at.
+
+- Circulate the draft proposal for review.
+
+- Submit proposal to the UTC.
 
 ### Deadlines
 
