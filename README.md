@@ -408,7 +408,7 @@ in San Jose, California. The next meeting after that is 6&ndash;9 May 2014.
 I want to get our proposal submitted in time to make the agenda for the February
 meeting (two weeks in advance).
 
-### Results of the Unicode Technical Committee meeting on 3rd February 2014<a name="update20140203"/>
+### <a name="update20140203"/>Results of the Unicode Technical Committee meeting on 3rd February 2014
 
 On the first day of their quarterly meeting, the Unicode Technical Committee (UTC)
 reviewed our proposal first thing. There was discussion of whether some of the symbols

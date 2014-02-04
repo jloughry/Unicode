@@ -1,2 +1,2 @@
-UTC quarterly meeting (day 1) results; update TO DO list; add a direct link to the fonts
-at the top of the README page.
+interestingly, an anchor tag at the end of a line makes a link that jumps to the end of the line,
+not the beginning of the line; corrected to improve UX.
