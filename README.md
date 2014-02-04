@@ -6,17 +6,21 @@ Proposal to Add the IEC 60417-5009 Power Symbol to Unicode
 Latest Updates
 --------------
 
-<!--
 *(3rd February 2014)*
 
-- [Results of the UTC meeting](#update20140203) today:
--->
+- [Results of the UTC meeting](#update20140203) today.
 
 *(2nd February 2014)*
 
 - OpenType version of the
 [font](https://github.com/jloughry/Unicode/blob/master/iec_symbol_font.otf?raw=true)
 and some more [information](#update20140202) on how the fonts were made.
+
+Get the fonts here: 
+[TrueType](https://github.com/jloughry/Unicode/blob/master/iec_symbol_font.ttf?raw=true)
+or
+[OpenType](https://github.com/jloughry/Unicode/blob/master/iec_symbol_font.otf?raw=true)
+format.
 
 *(29th January 2014)*
 
@@ -314,9 +318,20 @@ Thanks to Adam De Witt for the idea!
 
 ### TO-DO
 
+- Fix the axial tilt of the crescent moon SLEEP symbol to match the
+[precise drawing](http://energy.lbl.gov/controls/publications/moonsymbol-brown.pdf)
+and [explanation](http://energy.lbl.gov/controls/publications/moonsymbol020621.pdf)
+of the drawing.
+
 - Improve the metadata in the fonts to include, at minimum, licence and description
 information. These get embedded in the font file if present in the SVG source in the
 right format.
+
+- Make a PostScript font to go with the
+[TrueType](https://github.com/jloughry/Unicode/blob/master/iec_symbol_font.ttf?raw=true)
+and
+[OpenType](https://github.com/jloughry/Unicode/blob/master/iec_symbol_font.otf?raw=true)
+formats.
 
 - Update the [Wikipedia page](http://en.wikipedia.org/wiki/Power_symbol) as soon
 as it's official; Wikipedia admins keep
@@ -393,10 +408,14 @@ in San Jose, California. The next meeting after that is 6&ndash;9 May 2014.
 I want to get our proposal submitted in time to make the agenda for the February
 meeting (two weeks in advance).
 
-<!--
-### Results of the Unicode Technical Committee meeting on 3rd February 2014
-On the first day of their quarterly meeting, the Unicode Technical Committee (UTC)...
--->
+### Results of the Unicode Technical Committee meeting on 3rd February 2014<a name="update20140203"/>
+
+On the first day of their quarterly meeting, the Unicode Technical Committee (UTC)
+reviewed our proposal first thing. There was discussion of whether some of the symbols
+(POWER ON and POWER OFF) ought to be &ldquo;unified&rdquo; with existing symbols such
+as the ASCII vertical bar. An *ad hoc* group discussed the unification question and
+came back later in the day with a short document or counter-proposal listing names and
+code points. The UTC is expected to vote on it tomorrow.
 
 ### What To Do Next
 

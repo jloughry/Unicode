@@ -1,2 +1,2 @@
-update TO-DO list
-,
+UTC quarterly meeting (day 1) results; update TO DO list; add a direct link to the fonts
+at the top of the README page.
