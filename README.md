@@ -8,7 +8,9 @@ Latest Updates
 
 *(4th February 2014)*<a name="update20140204"/>
 
-- The UTC voted and formally accepted the following characters and code points:
+- The UTC voted and formally accepted the following characters and code
+points:<sup>[7](#ref7), [8](#ref8)</sup>
+
 
 <table>
 	<tr><td align="center"><img src="https://github.com/jloughry/Unicode/raw/master/graphics/18px-IEC5009_Standby_Symbol.svg.png" alt="Unicode POWER SYMBOL"/></td><td>23FB</td><td>POWER SYMBOL</td></tr>
@@ -349,7 +351,7 @@ Thanks to Adam De Witt for the idea!
 - Fix the axial tilt of the crescent moon SLEEP symbol to match the
 [precise drawing](http://energy.lbl.gov/controls/publications/moonsymbol-brown.pdf)
 and [explanation](http://energy.lbl.gov/controls/publications/moonsymbol020621.pdf)
-of the drawing.
+of the drawing.<sup>[6](#ref6)</sup>
 
 - Improve the metadata in the fonts to include, at minimum, licence and description
 information. These get embedded in the font file if present in the SVG source in the
@@ -561,4 +563,16 @@ symbols for use on equipment -- Registered symbols*. ISO 7000:2012.
 5. <a name="ref5"/>The Unicode Consortium. *The Unicode Standard, Version 6.3.0*,
 (Mountain View, CA: The Unicode Consortium, 2013. ISBN 978-1-936213-08-5).
 [http://www.unicode.org/versions/Unicode6.3.0/](http://www.unicode.org/versions/Unicode6.3.0/)
+
+6. <a name="ref6"/>California Energy Commission, Public Interest Energy Research Program. *The
+Power Control User Interface Standard: Consultant Report*. Report number P500-03-012F: Lawrence
+Berkeley National Laboratory, December 2002.
+
+7. <a name="ref7"/>Michael Everson. &ldquo;Towards a proposal to encode power symbols
+in the UCS&rdquo;. Working Group Document ISO/IEC JTC/SC2/WG2 N4xxx, L2/14-059, 4th February
+2014.
+
+8. <a name="ref8"/>Ken Lunde. &ldquo;The latest on power symbols in Unicode&rdquo;. Twitter:
+[https://twitter.com/ken_lunde/status/430833714663522304](https://twitter.com/ken_lunde/status/430833714663522304)
+on 4th February 2014.
 
