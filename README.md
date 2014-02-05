@@ -6,7 +6,7 @@ Proposal to Add the IEC 60417-5009 Power Symbol to Unicode
 Latest Updates
 --------------
 
-*(4th February 2014)*
+*(4th February 2014)*<a name="update20140204"/>
 
 - The UTC voted and formally accepted the following characters and code points:
 
@@ -343,6 +343,8 @@ however you prefer.
 Thanks to Adam De Witt for the idea!
 
 ### TO-DO
+
+- Put the new [code points](#update20140204) in the font.
 
 - Fix the axial tilt of the crescent moon SLEEP symbol to match the
 [precise drawing](http://energy.lbl.gov/controls/publications/moonsymbol-brown.pdf)

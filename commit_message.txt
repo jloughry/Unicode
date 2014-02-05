@@ -1,1 +1,1 @@
-add Unicode character properties (in <pre><code> tags per HTML5 recommended usage)
+update TO-DO list
