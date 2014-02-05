@@ -23,6 +23,15 @@ Latest Updates
 	<tr><td>&nbsp;</td><td>&nbsp;</td><td>&bull; power sleep symbol</td></tr>
 </table>
 
+### Unicode Character Properties
+
+<pre><code>
+23FB;POWER SYMBOL;So;0;ON;;;;;N;;;;;
+23FC;POWER ON-OFF SYMBOL;So;0;ON;;;;;N;;;;;
+23FD;POWER ON SYMBOL;So;0;ON;;;;;N;;;;;
+1F32D;BLACK WANING CRESCENT MOON;So;0;ON;;;;;N;;;;;
+</code></pre>
+
 *(3rd February 2014)*
 
 - [Results of the UTC meeting](#update20140203) today.
