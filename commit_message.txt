@@ -1,1 +1,1 @@
-add code point table
+fix table

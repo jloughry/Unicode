@@ -12,15 +12,15 @@ Latest Updates
 
 <table>
 	<tr><td align="center"><img src="https://github.com/jloughry/Unicode/raw/master/graphics/18px-IEC5009_Standby_Symbol.svg.png" alt="Unicode POWER SYMBOL"/></td><td>23FB</td><td>POWER SYMBOL</td></tr>
-	<tr><td>&nbsp;</td><td>&nbsp;</td><td>x 2B58 <img src="https://github.com/jloughry/Unicode/raw/master/graphics/18px-IEC5008_Off_Symbol.svg.png" alt="Unicode HEAVY CIRCLE"/></td></tr>
+	<tr><td>&nbsp;</td><td>&nbsp;</td><td>x 2B58 <img src="https://github.com/jloughry/Unicode/raw/master/graphics/18px-IEC5008_Off_Symbol.svg.png" alt="Unicode HEAVY CIRCLE"/> heavy circle</td></tr>
 	<tr><td align="center"><img src="https://github.com/jloughry/Unicode/raw/master/graphics/18px-IEC5010_On_Off_Symbol.svg.png" alt="Unicode POWER ON-OFF SYMBOL"/></td><td>23FC</td><td>POWER ON-OFF SYMBOL</td></tr>
-	<tr><td align="center"><img src="https://github.com/jloughry/Unicode/raw/master/graphics/3px-IEC5007_On_Symbol.svg.png" alt="Unicode POWER ON SYMBOL"/></td><td>23FC</td><td>POWER ON SYMBOL</td></tr>
-	<tr><td align="center"><img src="https://github.com/jloughry/Unicode/raw/master/graphics/18px-IEC5008_Off_Symbol.svg.png" alt="Unicode HEAVY CIRCLE"/></td><td>23FB</td><td>HEAVY CIRCLE</td></tr>
-	<tr><td>&nbsp;</td><td>&nbsp;</td><td>x 23FB <img src="https://github.com/jloughry/Unicode/raw/master/graphics/18px-IEC5009_Standby_Symbol.svg.png" alt="Unicode POWER SYMBOL"/></td></tr>
-	<tr><td>&nbsp;</td><td>&nbsp;</td><td>>&bull; power off symbol</td></tr>
+	<tr><td align="center"><img src="https://github.com/jloughry/Unicode/raw/master/graphics/3px-IEC5007_On_Symbol.svg.png" alt="Unicode POWER ON SYMBOL"/></td><td>23FD</td><td>POWER ON SYMBOL</td></tr>
+	<tr><td align="center"><img src="https://github.com/jloughry/Unicode/raw/master/graphics/18px-IEC5008_Off_Symbol.svg.png" alt="Unicode HEAVY CIRCLE"/></td><td>2B58</td><td>HEAVY CIRCLE</td></tr>
+	<tr><td>&nbsp;</td><td>&nbsp;</td><td>x 23FB <img src="https://github.com/jloughry/Unicode/raw/master/graphics/18px-IEC5009_Standby_Symbol.svg.png" alt="Unicode POWER SYMBOL"/> power symbol</td></tr>
+	<tr><td>&nbsp;</td><td>&nbsp;</td><td>&bull; power off symbol</td></tr>
 	<tr><td align="center"><img src="https://github.com/jloughry/Unicode/raw/master/graphics/18px-Astronomical_symbol_for_the_moon.svg.png" alt="Unicode BLACK WANING CRESCENT MOON"/></td><td>1F32D</td><td>BLACK WANING CRESCENT MOON</td></tr>
-	<tr><td>&nbsp;</td><td>&nbsp;</td><td>x 23FB <img src="https://github.com/jloughry/Unicode/raw/master/graphics/18px-IEC5009_Standby_Symbol.svg.png" alt="Unicode POWER SYMBOL"/></td></tr>
-	<tr><td>&nbsp;</td><td>&nbsp;</td><td>>&bull; power sleep symbol</td></tr>
+	<tr><td>&nbsp;</td><td>&nbsp;</td><td>x 23FB <img src="https://github.com/jloughry/Unicode/raw/master/graphics/18px-IEC5009_Standby_Symbol.svg.png" alt="Unicode POWER SYMBOL"/> power symbol</td></tr>
+	<tr><td>&nbsp;</td><td>&nbsp;</td><td>&bull; power sleep symbol</td></tr>
 </table>
 
 *(3rd February 2014)*
