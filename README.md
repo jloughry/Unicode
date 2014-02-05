@@ -567,10 +567,12 @@ symbols for use on equipment -- Registered symbols*. ISO 7000:2012.
 6. <a name="ref6"/>California Energy Commission, Public Interest Energy Research Program. *The
 Power Control User Interface Standard: Consultant Report*. Report number P500-03-012F: Lawrence
 Berkeley National Laboratory, December 2002.
+[http://energy.lbl.gov/controls/publications/P500-03-012F.pdf](http://energy.lbl.gov/controls/publications/P500-03-012F.pdf)
 
 7. <a name="ref7"/>Michael Everson. &ldquo;Towards a proposal to encode power symbols
 in the UCS&rdquo;. Working Group Document ISO/IEC JTC/SC2/WG2 N4xxx, L2/14-059, 4th February
 2014.
+[http://www.unicode.org/L2/L2014/14059-power.pdf](http://www.unicode.org/L2/L2014/14059-power.pdf)
 
 8. <a name="ref8"/>Ken Lunde. &ldquo;The latest on power symbols in Unicode&rdquo;. Twitter:
 [https://twitter.com/ken_lunde/status/430833714663522304](https://twitter.com/ken_lunde/status/430833714663522304)
