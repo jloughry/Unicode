@@ -1,1 +1,1 @@
-add URLs to references
+extensive updates to README; commit so I can test it under GitHub flavoured Markdown

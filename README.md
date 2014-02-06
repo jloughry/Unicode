@@ -6,11 +6,29 @@ Proposal to Add the IEC 60417-5009 Power Symbol to Unicode
 Latest Updates
 --------------
 
+*(6th February 2014)*
+
+- [Notes on Constructing the BLACK WANING CRESCENT MOON](#update20140206) with compass
+and straightedge.
+
+*(5th February 2014)*
+
+- <a name="update20140205"/>New fonts with Unicode characters:
+[Unicode_IEC_symbol_font.ttf](https://github.com/jloughry/Unicode/blob/master/Unicode_IEC_symbol_font.ttf?raw=true) (TrueType) and
+[Unicode_IEC_symbol_font.otf](https://github.com/jloughry/Unicode/blob/master/Unicode_IEC_symbol_font.otf?raw=true) (OpenType).
+
+- See the updated
+[proposal](https://github.com/jloughry/Unicode/raw/master/proposal.pdf)
+(in Table 6 on page 7 of the PDF file) for instructions on how to type the new characters.
+
+- The <img src="https://github.com/jloughry/Unicode/raw/master/graphics/18px-Unicode_POWER_SLEEP_SYMBOL.svg.png" alt="Unicode POWER SLEEP SYMBOL"/> (POWER SLEEP SYMBOL) character now exhibits the correct phase of the moon.
+
+- Updated [TO-DO](#TO-DO) list for wish-list items like `&power;`.
+
 *(4th February 2014)*<a name="update20140204"/>
 
 - The UTC voted and formally accepted the following characters and code
 points:<sup>[7](#ref7), [8](#ref8)</sup>
-
 
 <table>
 	<tr><td align="center"><img src="https://github.com/jloughry/Unicode/raw/master/graphics/18px-IEC5009_Standby_Symbol.svg.png" alt="Unicode POWER SYMBOL"/></td><td>23FB</td><td>POWER SYMBOL</td></tr>
@@ -20,7 +38,7 @@ points:<sup>[7](#ref7), [8](#ref8)</sup>
 	<tr><td align="center"><img src="https://github.com/jloughry/Unicode/raw/master/graphics/18px-IEC5008_Off_Symbol.svg.png" alt="Unicode HEAVY CIRCLE"/></td><td>2B58</td><td>HEAVY CIRCLE</td></tr>
 	<tr><td>&nbsp;</td><td>&nbsp;</td><td>x 23FB <img src="https://github.com/jloughry/Unicode/raw/master/graphics/18px-IEC5009_Standby_Symbol.svg.png" alt="Unicode POWER SYMBOL"/> power symbol</td></tr>
 	<tr><td>&nbsp;</td><td>&nbsp;</td><td>&bull; power off symbol</td></tr>
-	<tr><td align="center"><img src="https://github.com/jloughry/Unicode/raw/master/graphics/18px-Astronomical_symbol_for_the_moon.svg.png" alt="Unicode BLACK WANING CRESCENT MOON"/></td><td>1F32D</td><td>BLACK WANING CRESCENT MOON</td></tr>
+	<tr><td align="center"><img src="https://github.com/jloughry/Unicode/raw/master/graphics/18px-Unicode_POWER_SLEEP_SYMBOL.svg.png" alt="Unicode BLACK WANING CRESCENT MOON"/></td><td>1F32D</td><td>BLACK WANING CRESCENT MOON</td></tr>
 	<tr><td>&nbsp;</td><td>&nbsp;</td><td>x 23FB <img src="https://github.com/jloughry/Unicode/raw/master/graphics/18px-IEC5009_Standby_Symbol.svg.png" alt="Unicode POWER SYMBOL"/> power symbol</td></tr>
 	<tr><td>&nbsp;</td><td>&nbsp;</td><td>&bull; power sleep symbol</td></tr>
 </table>
@@ -41,13 +59,13 @@ points:<sup>[7](#ref7), [8](#ref8)</sup>
 *(2nd February 2014)*
 
 - OpenType version of the
-[font](https://github.com/jloughry/Unicode/blob/master/iec_symbol_font.otf?raw=true)
+[old font](https://github.com/jloughry/Unicode/blob/master/iec_symbol_font.otf?raw=true)
 and some more [information](#update20140202) on how the fonts were made.
 
 Get the fonts here: 
-[TrueType](https://github.com/jloughry/Unicode/blob/master/iec_symbol_font.ttf?raw=true)
+[TrueType](https://github.com/jloughry/Unicode/blob/master/Unicode_IEC_symbol_font.ttf?raw=true)
 or
-[OpenType](https://github.com/jloughry/Unicode/blob/master/iec_symbol_font.otf?raw=true)
+[OpenType](https://github.com/jloughry/Unicode/blob/master/Unicode_IEC_symbol_font.otf?raw=true)
 format.
 
 *(29th January 2014)*
@@ -98,7 +116,7 @@ src="https://github.com/jloughry/Unicode/raw/master/graphics/100px-IEC5010_On_Of
 alt="IEC-5010 On/OFF (push-push) symbol"></a></td>
 <td align="center"><a
 href="http://en.wikipedia.org/wiki/File:Astronomical_symbol_for_the_moon.svg"><img
-src="https://github.com/jloughry/Unicode/raw/master/graphics/100px-Astronomical_symbol_for_the_moon.png"
+src="https://github.com/jloughry/Unicode/raw/master/graphics/100px-Unicode_POWER_SLEEP_SYMBOL.svg.png"
 alt="IEEE 1621 Sleep symbol"></a></td>
 </tr>
 <tr>
@@ -112,8 +130,11 @@ alt="IEEE 1621 Sleep symbol"></a></td>
 </table>
 
 Source of the above images: [Wikipedia](http://en.wikipedia.org/wiki/Power_symbol).
-The symbols were drawn by Wikipedia users [klork](http://commons.wikimedia.org/wiki/User:Klork)
-and [DarkEvil](http://commons.wikimedia.org/wiki/User:DarkEvil).
+The first four symbols were drawn by Wikipedia users
+[klork](http://commons.wikimedia.org/wiki/User:Klork) and
+[DarkEvil](http://commons.wikimedia.org/wiki/User:DarkEvil);
+the moon was made specifically for this purpose from the specifications in the
+[precise drawing](http://energy.lbl.gov/controls/publications/moonsymbol-brown.pdf).
 
 Clearly these would be useful to anyone writing technical or user manuals. In fact, for
 electronically publishing documentation, it is crucial to have symbols defined in
@@ -213,28 +234,36 @@ be more descriptive, and to remove a disallowed character, in response to a
 [Twitter note](https://twitter.com/yuasakusa/status/424666695626530816) from
 [@yuasakusa](https://twitter.com/yuasakusa)&mdash;thanks!
 
-In brief, the suggested character properties are now:
+In brief, the suggested character properties are now (with names and code points from UTC #138):
 
-<table>
+<a name="code-points"/><table>
 	<tr>
-		<th>Char</th><th>CP</th><th>Name</th><th>GC</th><th>CC</th><th>BC</th><th>D</th><th>NT</th><th>NV</th><th>B</th><th>1</th><th>I</th><th>U</th><th>L</th><th>T</th>
+		<th>Char</th><th>CP</th><th>Unicode Name</th><th>GC</th><th>CC</th><th>BC</th><th>D</th><th>NT</th><th>NV</th><th>B</th><th>1</th><th>I</th><th>U</th><th>L</th><th>T</th>
 	</tr>
 	<tr>
-		<td align="center"><img src="https://github.com/jloughry/Unicode/raw/master/graphics/18px-IEC5009_Standby_Symbol.svg.png" alt="IEC-5009 POWER symbol"/></td><td><em>nn</em></td><td>POWER</td><td>So</td><td>0</td><td>ON</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>N</td><td>&nbsp;</td><td>&nbsp;</td<><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+		<td align="center"><img src="https://github.com/jloughry/Unicode/raw/master/graphics/18px-IEC5009_Standby_Symbol.svg.png" alt="IEC-5009 POWER symbol"/></td><td>23FB</td><td>POWER SYMBOL<sup>[*](#note-star)</sup></td><td>So</td><td>0</td><td>ON</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>N</td><td>&nbsp;</td><td>&nbsp;</td<><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
 	</tr>
 	<tr>
-		<td align="center"><img src="https://github.com/jloughry/Unicode/raw/master/graphics/18px-IEC5008_Off_Symbol.svg.png" alt="IEC-5008 POWER OFF symbol"/></td><td><em>nn</em></td><td>POWER OFF</td><td>So</td><td>0</td><td>ON</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>N</td><td>&nbsp;</td><td>&nbsp;</td<><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+		<td align="center"><img src="https://github.com/jloughry/Unicode/raw/master/graphics/18px-IEC5008_Off_Symbol.svg.png" alt="IEC-5008 POWER OFF symbol"/></td><td>2B58</td><td>HEAVY CIRCLE<sup>[&dagger;](#note-dagger)</sup></td><td>So</td><td>0</td><td>ON</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>N</td><td>&nbsp;</td><td>&nbsp;</td<><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
 	</tr>
 	<tr>
-		<td align="center"><img src="https://github.com/jloughry/Unicode/raw/master/graphics/18px-Astronomical_symbol_for_the_moon.svg.png" alt="IEEE 1621 SLEEP symbol"/></td><td><em>nn</em></td><td>SLEEP</td><td>So</td><td>0</td><td>ON</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>N</td><td>&nbsp;</td><td>&nbsp;</td<><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+		<td align="center"><img src="https://github.com/jloughry/Unicode/raw/master/graphics/18px-Unicode_POWER_SLEEP_SYMBOL.svg.png" alt="IEEE 1621 SLEEP symbol"/></td><td>1F32D</td><td>BLACK WANING<br/>CRESCENT MOON<sup>[&Dagger;](#note-double-dagger)</sup></td><td>So</td><td>0</td><td>ON</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>N</td><td>&nbsp;</td><td>&nbsp;</td<><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
 	</tr>
 	<tr>
-		<td align="center"><img src="https://github.com/jloughry/Unicode/raw/master/graphics/3px-IEC5007_On_Symbol.svg.png" alt="IEC-5007 POWER ON symbol"/></td><td><em>nn</em></td><td>POWER ON</td><td>So</td><td>0</td><td>ON</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>N</td><td>&nbsp;</td><td>&nbsp;</td<><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+		<td align="center"><img src="https://github.com/jloughry/Unicode/raw/master/graphics/3px-IEC5007_On_Symbol.svg.png" alt="IEC-5007 POWER ON symbol"/></td><td>23FD</td><td>POWER ON SYMBOL</td><td>So</td><td>0</td><td>ON</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>N</td><td>&nbsp;</td><td>&nbsp;</td<><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
 	</tr>
 	<tr>
-		<td align="center"><img src="https://github.com/jloughry/Unicode/raw/master/graphics/18px-IEC5010_On_Off_Symbol.svg.png" alt="IEC-5010 POWER ON-OFF symbol"/></td><td><em>nn</em></td><td>POWER ON-OFF</td><td>So</td><td>0</td><td>ON</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>N</td><td>&nbsp;</td><td>&nbsp;</td<><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+		<td align="center"><img src="https://github.com/jloughry/Unicode/raw/master/graphics/18px-IEC5010_On_Off_Symbol.svg.png" alt="IEC-5010 POWER ON-OFF symbol"/></td><td>23FC</td><td>POWER ON-OFF<br/>SYMBOL</td><td>So</td><td>0</td><td>ON</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>N</td><td>&nbsp;</td><td>&nbsp;</td<><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
 	</tr>
 </table>
+
+<b>Notes:</b>
+
+<a name="note-star"/><sup>*</sup>This character is cross referenced to <img src="https://github.com/jloughry/Unicode/raw/master/graphics/18px-IEC5008_Off_Symbol.svg.png" alt="Unicode HEAVY CIRCLE"/>.
+
+<a name="note-dagger"/><sup>&dagger;</sup>This character is aliased to POWER OFF SYMBOL and cross referenced to <img src="https://github.com/jloughry/Unicode/raw/master/graphics/18px-IEC5009_Standby_Symbol.svg.png" alt="Unicode POWER SYMBOL"/>.
+
+<a name="note-double-dagger"/><sup>&Dagger;</sup>This character is aliased to POWER SLEEP SYMBOL and cross referenced to <img src="https://github.com/jloughry/Unicode/raw/master/graphics/18px-IEC5009_Standby_Symbol.svg.png" alt="Unicode POWER SYMBOL"/>.
 
 *(22nd January 2014)*
 
@@ -256,8 +285,8 @@ alt="IEC-5010 POWER ON-OFF symbol"/> symbol in the proposal.
 
 *(16th January 2014)*
 
-- Changed name of TrueType font to
-[IECsymbol](https://github.com/jloughry/Unicode/blob/master/iec_symbol_font.ttf?raw=true)
+- Changed name of the TrueType font to
+[IECsymbol](https://github.com/jloughry/Unicode/blob/master/Unicode_IEC_symbol_font.ttf?raw=true)
 everywhere.
 
 - TrueType font files in Windows need to have the 'execute' permission set in UNIX (0755)
@@ -344,23 +373,21 @@ however you prefer.
 
 Thanks to Adam De Witt for the idea!
 
-### TO-DO
+### TO-DO<a name="TO-DO"/>
 
-- Put the new [code points](#update20140204) in the font.
+- Get the [World Wide Web Consortium (W3C)](www.w3c.org) to define HTML named character
+entities like `&power;` for the new symbols to make them easier to type in HTML and XML.
 
-- Fix the axial tilt of the crescent moon SLEEP symbol to match the
-[precise drawing](http://energy.lbl.gov/controls/publications/moonsymbol-brown.pdf)
-and [explanation](http://energy.lbl.gov/controls/publications/moonsymbol020621.pdf)
-of the drawing.<sup>[6](#ref6)</sup>
+- Document the compass-and-straightedge construction of the Unicode POWER SLEEP SYMBOL.
 
 - Improve the metadata in the fonts to include, at minimum, licence and description
 information. These get embedded in the font file if present in the SVG source in the
 right format.
 
 - Make a PostScript font to go with the
-[TrueType](https://github.com/jloughry/Unicode/blob/master/iec_symbol_font.ttf?raw=true)
+[TrueType](https://github.com/jloughry/Unicode/blob/master/Unicode_IEC_symbol_font.ttf?raw=true)
 and
-[OpenType](https://github.com/jloughry/Unicode/blob/master/iec_symbol_font.otf?raw=true)
+[OpenType](https://github.com/jloughry/Unicode/blob/master/Unicode_IEC_symbol_font.otf?raw=true)
 formats.
 
 - Update the [Wikipedia page](http://en.wikipedia.org/wiki/Power_symbol) as soon
@@ -369,7 +396,7 @@ as it's official; Wikipedia admins keep
 changes made to the article pointing to this project. Thanks to
 [daveljonez](https://github.com/daveljonez) for pointing this out.
 
-- Write a follow-up article on HN.
+- Write a follow-up article for HN.
 
 ### DONE
 
@@ -429,6 +456,13 @@ for submitting good proposals are being looked at.
 
 - Submit proposal to the UTC.
 
+- Put the new [code points](#update20140204) in the font.
+
+- Fix the axial tilt of the crescent moon SLEEP symbol to match the
+[precise drawing](http://energy.lbl.gov/controls/publications/moonsymbol-brown.pdf)
+and [explanation](http://energy.lbl.gov/controls/publications/moonsymbol020621.pdf)
+of the drawing.<sup>[6](#ref6)</sup>
+
 ### Deadlines
 
 The calendar has been updated; the next quarterly meeting of the
@@ -464,11 +498,11 @@ metadata and distributing the new font afterwards.
 
 Following the above recommendation, the
 [Free Online Font Converter](http://www.freefontconverter.com/) was used to generate
-[TrueType](https://github.com/jloughry/Unicode/blob/master/iec_symbol_font.ttf?raw=true)
+[TrueType](https://github.com/jloughry/Unicode/blob/master/Unicode_IEC_symbol_font.ttf?raw=true)
 and
-[OpenType](https://github.com/jloughry/Unicode/blob/master/iec_symbol_font.otf?raw=true)
+[OpenType](https://github.com/jloughry/Unicode/blob/master/Unicode_IEC_symbol_font.otf?raw=true)
 fonts from the
-[SVG source](https://github.com/jloughry/Unicode/blob/master/graphics/iec_symbol_font.svg?raw=true)
+[SVG source](https://github.com/jloughry/Unicode/blob/master/graphics/Unicode_IEC_symbol_font.svg?raw=true)
 file that was made with Inkscape.
 
 ### LaTeX
@@ -482,6 +516,9 @@ and is available in MiKTeX 2.9.
 
 Notes on Encoding
 -----------------
+
+<em><b>Note:</b> This section is obsolete; the [new fonts](#update20140205) have
+[Unicode code points](#code-points) and should be used now.</em>
 
 When designing a new font of symbols where there is no pre-existing ordering to use, what is the
 best way to define the encoding? There are practical and aesthetic reasons for doing it
@@ -501,7 +538,7 @@ that reason, so it would fail gracefully if the font were unavailable.
 
 In the absence of any well-defined convention for code pages in &ldquo;sparse&rdquo;
 symbol fonts, here is a proposed encoding for the
-[new font](https://github.com/jloughry/Unicode/blob/master/iec_symbol_font.ttf?raw=true):
+[old font](https://github.com/jloughry/Unicode/blob/master/iec_symbol_font.ttf?raw=true):
 <table>
 <tr>
 <th align="center">Code Point</th><th align="center">Symbol</th><th>Rationale</th><th>Note</th>
@@ -511,7 +548,7 @@ src="https://github.com/jloughry/Unicode/raw/master/graphics/18px-IEC5009_Standb
 alt="IEC-5009 symbol"></td><td>&ldquo;power&rdquo;</td><td align="center"><a
 href="#note1">1</a></td></tr>
 <tr><td align="center">S</td><td align="center"><img
-src="https://github.com/jloughry/Unicode/raw/master/graphics/18px-Astronomical_symbol_for_the_moon.svg.png"
+src="https://github.com/jloughry/Unicode/raw/master/graphics/18px-Unicode_POWER_SLEEP_SYMBOL.svg.png"
 alt="IEEE 1621 sleep symbol"></td><td>&ldquo;sleep&rdquo;</td><td>&nbsp;</td></tr>
 <tr><td align="center">T</td><td align="center"><img
 src="https://github.com/jloughry/Unicode/raw/master/graphics/18px-IEC5010_On_Off_Symbol.svg.png"
@@ -534,11 +571,33 @@ and to use the
 ![moon](https://github.com/jloughry/Unicode/raw/master/graphics/18px-Astronomical_symbol_for_the_moon.svg.png)
 symbol to mean &ldquo;sleep&rdquo;.
 
-### Notes on XeTeX
+Notes on XeTeX
+--------------
 
 XeTeX in the current version of MiKTeX has a bug that causes a harmless message
 during compilation, `** WARNING ** Couldn't open font map file "kanjix.map"`. To
 avoid it, place an empty file called `kanjix.map` in the current directory.
+
+<a name="update20140206"/>Notes on Constructing the BLACK WANING CRESCENT MOON
+------------------------------------------------------------------------------
+
+To construct the symbol, first construct a line with a perpendicular. Call their intersection
+the <em>origin</em>. Draw a circle of radius <i>r</i> centred on the origin. Draw a larger
+circle centred on a point on the horizontal line 0.75<i>r</i> to the right of the origin and
+passing through a point 0.5<i>r</i> to the left of the origin. The desired crescent is the
+area of the smaller circle outside the larger circle. Rotate the crescent about the centre of
+the smaller circle anti-clockwise 23.44 degrees to match the axial tilt of Earth.
+
+Analytically, for the purpose of drawing things with a computer, the location of the horns of
+the crescent moon are nontrivial to calculate, <em>i.e.</em> as an angle from the centre of
+the larger circle to the horns in radians. A much more straightforward way to construct the
+crescent moon given the usual computer drawing tools is to draw two full circles centred on
+the same horizontal line, a smaller one filled with black and a larger one atop it filled
+with background colour. In some drawing programmes, like Inkscape, it is possible to subtract
+the large circle from the small circle, thereby immediately yielding the desired crescent.
+
+In either case, rotate the crescent 23.44 degrees anti-clockwise around the centre of the
+smaller (black filled) circle to complete the drawing.
 
 References
 ----------
