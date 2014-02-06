@@ -115,7 +115,7 @@ href="http://en.wikipedia.org/wiki/File:IEC5010_On_Off_Symbol.svg"><img
 src="https://github.com/jloughry/Unicode/raw/master/graphics/100px-IEC5010_On_Off_Symbol.png"
 alt="IEC-5010 On/OFF (push-push) symbol"></a></td>
 <td align="center"><a
-href="http://en.wikipedia.org/wiki/File:Astronomical_symbol_for_the_moon.svg"><img
+href="https://github.com/jloughry/Unicode/raw/master/graphics/Unicode_1F32D_BLACK_WANING_CRESCENT_MOON.svg"><img
 src="https://github.com/jloughry/Unicode/raw/master/graphics/100px-Unicode_POWER_SLEEP_SYMBOL.svg.png"
 alt="IEEE 1621 Sleep symbol"></a></td>
 </tr>
@@ -375,10 +375,8 @@ Thanks to Adam De Witt for the idea!
 
 ### TO-DO<a name="TO-DO"/>
 
-- Get the [World Wide Web Consortium (W3C)](www.w3c.org) to define HTML named character
-entities like `&power;` for the new symbols to make them easier to type in HTML and XML.
-
-- Document the compass-and-straightedge construction of the Unicode POWER SLEEP SYMBOL.
+- Get the [World Wide Web Consortium (W3C)](http://www.w3c.org) to define HTML named character
+entities such as `&power;` for the new symbols to make them easier to type in HTML and XML.
 
 - Improve the metadata in the fonts to include, at minimum, licence and description
 information. These get embedded in the font file if present in the SVG source in the
@@ -462,6 +460,8 @@ for submitting good proposals are being looked at.
 [precise drawing](http://energy.lbl.gov/controls/publications/moonsymbol-brown.pdf)
 and [explanation](http://energy.lbl.gov/controls/publications/moonsymbol020621.pdf)
 of the drawing.<sup>[6](#ref6)</sup>
+
+- Document the compass-and-straightedge construction of the Unicode POWER SLEEP SYMBOL.
 
 ### Deadlines
 
@@ -568,7 +568,7 @@ accordance with the recommendation in IEEE 1621:2004 to use the
 ![IEC-5009](https://github.com/jloughry/Unicode/raw/master/graphics/18px-IEC5009_Standby_Symbol.svg.png)
 symbol to mean &ldquo;power&rdquo; as everyone in the world except IEC and ISO thinks it means,
 and to use the
-![moon](https://github.com/jloughry/Unicode/raw/master/graphics/18px-Astronomical_symbol_for_the_moon.svg.png)
+![moon](https://github.com/jloughry/Unicode/raw/master/graphics/18px-Unicode_POWER_SLEEP_SYMBOL.svg.png)
 symbol to mean &ldquo;sleep&rdquo;.
 
 Notes on XeTeX

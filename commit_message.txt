@@ -1,1 +1,1 @@
-extensive updates to README; commit so I can test it under GitHub flavoured Markdown
+not bad; only a couple of broken links---fixed
