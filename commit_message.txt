@@ -1,1 +1,2 @@
-not bad; only a couple of broken links---fixed
+updated proposal according to revision notes; defined shortcuts for typing the Unicode characters
+in LaTeX more easily; fixed some of the awkward page breaks.
