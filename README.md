@@ -11,6 +11,9 @@ Latest Updates
 - [Notes on Constructing the BLACK WANING CRESCENT MOON](#update20140206) with compass
 and straightedge.
 
+- Updated [proposal](https://github.com/jloughry/Unicode/raw/master/proposal.pdf)
+according to revision notes from UTC #138.
+
 *(5th February 2014)*
 
 - <a name="update20140205"/>New fonts with Unicode characters:
