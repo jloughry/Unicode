@@ -326,15 +326,12 @@ Technical Committee (UTC).
 #### Schedule for submitting the proposal<a name="update20140113"/>
 
 The [proposal](https://github.com/jloughry/Unicode/raw/master/proposal.pdf)
-is ready for review and submission.
+was submitted and approved by UTC #138.
 
 #### ISO Submission Form
 
 The *ISO/IEC JTC 1/SC 2/WG 2 PROPOSAL SUMMARY FORM TO ACCOMPANY SUBMISSIONS
-FOR ADDITIONS TO THE REPERTOIRE OF ISO/IEC 10646* form will be appended to
-the proposal as soon as I get it filled out. (The proposal in the
-[Document Register](http://www.unicode.org/L2/L-curdoc.htm) on the Unicode
-Consortium web site is missing the ISO form.)
+FOR ADDITIONS TO THE REPERTOIRE OF ISO/IEC 10646* form is appended to the proposal.
 
 #### Document Submission Notes<a name="update20140111"/>
 
