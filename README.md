@@ -6,6 +6,10 @@ Proposal to Add the IEC 60417-5009 Power Symbol to Unicode
 Latest Updates
 --------------
 
+*(7th February 2014)*
+
+- Here is a [diagram](#update20140207) of the compass and straightedge construction.
+
 *(6th February 2014)*
 
 - [Notes on Constructing the BLACK WANING CRESCENT MOON](#update20140206) with compass
@@ -590,7 +594,7 @@ of the origin.  The desired crescent is the area of the smaller circle outside t
 Rotate the crescent about the centre of the smaller circle anti-clockwise 23.44&deg; to
 match the axial tilt of Earth.
 
-<img
+<a name="update20140207"/><img
 src="https://github.com/jloughry/Unicode/raw/master/graphics/construction_of_the_crescent_moon.png"
 alt="compass and straightedge construction of the BLACK WANING CRESCENT MOON"/>
 

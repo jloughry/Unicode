@@ -1,1 +1,1 @@
-move diagram
+make diagram larger; add an update entry pointing to it.
