@@ -590,6 +590,10 @@ of the origin.  The desired crescent is the area of the smaller circle outside t
 Rotate the crescent about the centre of the smaller circle anti-clockwise 23.44&deg; to
 match the axial tilt of Earth.
 
+<img
+src="https://github.com/jloughry/Unicode/raw/master/graphics/construction_of_the_crescent_moon.png"
+alt="compass and straightedge construction of the BLACK WANING CRESCENT MOON"/>
+
 Analytically, for the purpose of drawing things with a computer, the angle of the arc of the
 larger circle between the horns of the crescent is nontrivial to calculate; a much more
 straightforward way to construct the crescent given the usual computer drawing tools is to
@@ -601,10 +605,6 @@ the large circle from the small circle, thereby immediately yielding the desired
 
 In either case, fill the crescent with black and rotate it 23.44&deg; anti-clockwise
 around the centre of the smaller circle to complete the drawing.
-
-<img
-src="https://github.com/jloughry/Unicode/raw/master/graphics/construction_of_the_crescent_moon.png"
-alt="compass and straightedge construction of the BLACK WANING CRESCENT MOON"/>
 
 References
 ----------
