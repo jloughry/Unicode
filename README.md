@@ -585,27 +585,29 @@ avoid it, place an empty file called `kanjix.map` in the current directory.
 <a name="update20140206"/>Notes on Constructing the BLACK WANING CRESCENT MOON
 ------------------------------------------------------------------------------
 
-To construct the symbol, first construct a line with a perpendicular. Call their intersection
-the origin. Draw a circle of radius <i>r</i> centred on the origin. Draw a larger circle
-centred on the horizontal line to the right of the origin with radius 5<i>r</i>/4 and passing
-through a point <i>r</i>/2 to the left of the origin. Both circles should intersect the vertical
-line at the same points. The centre of the large circle should wind up 3<i>r</i>/4 to the right
-of the origin.  The desired crescent is the area of the smaller circle outside the larger circle.
-Rotate the crescent about the centre of the smaller circle anti-clockwise 23.44&deg; to
-match the axial tilt of Earth.
+To construct the symbol, first construct a line with a perpendicular. Call their
+intersection the origin. Draw a circle of radius <i>r</i> centred on the origin.
+Draw a larger circle centred on the horizontal line to the right of the origin
+with radius 5<i>r</i>/4 and passing through a point <i>r</i>/2 to the left of the
+origin. Both circles should intersect the vertical line through the origin at the
+same two points. The centre of the large circle should be 3<i>r</i>/4 to the
+right of the origin. The desired crescent is the area of the smaller circle
+outside the larger circle. Rotate the crescent about the centre of the smaller
+circle anti-clockwise 23.44&deg; to match the axial tilt of Earth.
 
 <a name="update20140207"/><img
 src="https://github.com/jloughry/Unicode/raw/master/graphics/construction_of_the_crescent_moon.png"
 alt="compass and straightedge construction of the BLACK WANING CRESCENT MOON"/>
 
-Analytically, for the purpose of drawing things with a computer, the angle of the arc of the
-larger circle between the horns of the crescent is nontrivial to calculate; a much more
-straightforward way to construct the crescent given the usual computer drawing tools is to
-draw two complete circles centred on a horizontal line, the smaller circle centred on the
-origin with radius <i>r</i> and the larger circle centred on the same horizontal line at 3<i>r</i>/4
-to the right of the origin with radius 5<i>r</i>/4. Fill the smaller circle with black and the
-larger circle, atop it, with background colour. Some drawing programmes allow you to subtract
-the large circle from the small circle, thereby immediately yielding the desired crescent shape.
+Analytically, for the purpose of drawing things with a computer, the angle of the arc
+of the larger circle between the horns of the crescent is nontrivial to calculate; a
+much more straightforward way to construct the crescent given the usual computer
+drawing tools is to draw two complete circles centred on a horizontal line, the
+smaller circle centred on the origin with radius <i>r</i> and the larger circle
+centred on the same horizontal line at 3<i>r</i>/4 to the right of the origin with
+radius 5<i>r</i>/4. Fill the smaller circle with black and the larger circle, atop
+it, with background colour. Some drawing programmes allow you to subtract the large
+circle from the small circle, thereby immediately yielding the desired crescent shape.
 
 In either case, fill the crescent with black and rotate it 23.44&deg; anti-clockwise
 around the centre of the smaller circle to complete the drawing.

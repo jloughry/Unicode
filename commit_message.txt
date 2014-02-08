@@ -1,1 +1,1 @@
-fix italicised math variables in formulae. I hate markdown.
+improve the text of the construction
