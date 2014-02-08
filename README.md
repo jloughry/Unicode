@@ -607,7 +607,7 @@ smaller circle centred on the origin with radius <i>r</i> and the larger circle
 centred on the same horizontal line at 3<i>r</i>/4 to the right of the origin with
 radius 5<i>r</i>/4. Fill the smaller circle with black and the larger circle, atop
 it, with background colour. Some drawing programmes allow you to subtract the large
-circle from the small circle, thereby immediately yielding the desired crescent shape.
+circle from the small circle, thereby yielding immediately the desired crescent shape.
 
 In either case, fill the crescent with black and rotate it 23.44&deg; anti-clockwise
 around the centre of the smaller circle to complete the drawing.
