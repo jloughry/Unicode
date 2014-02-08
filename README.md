@@ -582,22 +582,29 @@ avoid it, place an empty file called `kanjix.map` in the current directory.
 ------------------------------------------------------------------------------
 
 To construct the symbol, first construct a line with a perpendicular. Call their intersection
-the <em>origin</em>. Draw a circle of radius <i>r</i> centred on the origin. Draw a larger
-circle centred on a point on the horizontal line 0.75<i>r</i> to the right of the origin and
-passing through a point 0.5<i>r</i> to the left of the origin. The desired crescent is the
-area of the smaller circle outside the larger circle. Rotate the crescent about the centre of
-the smaller circle anti-clockwise 23.44 degrees to match the axial tilt of Earth.
+the origin. Draw a circle of radius *r* centred on the origin. Draw a larger circle
+centred on the horizontal line to the right of the origin with radius 5*r*/4 and passing
+through a point *r*/2 to the left of the origin. Both cicles should intersect the vertical
+line at the same points. The centre of the large circle should wind up 3*r*/4 to the right
+of the origin.  The desired crescent is the area of the smaller circle outside the larger circle.
+Rotate the crescent about the centre of the smaller circle anti-clockwise 23.44&deg; to
+match the axial tilt of Earth.
 
-Analytically, for the purpose of drawing things with a computer, the location of the horns of
-the crescent moon are nontrivial to calculate, <em>i.e.</em> as an angle from the centre of
-the larger circle to the horns in radians. A much more straightforward way to construct the
-crescent moon given the usual computer drawing tools is to draw two full circles centred on
-the same horizontal line, a smaller one filled with black and a larger one atop it filled
-with background colour. In some drawing programmes, like Inkscape, it is possible to subtract
-the large circle from the small circle, thereby immediately yielding the desired crescent.
+Analytically, for the purpose of drawing things with a computer, the angle of the arc of the
+larger circle between the horns of the crescent is nontrivial to calculate; a much more
+straightforward way to construct the crescent given the usual computer drawing tools is to
+draw two complete circles centred on a horizontal line, the smaller circle centered on the
+origin with radius *r* and the larger circle centered on the same horizontal line at 3*r*/4
+to the right of the origin with radius 5*r*/4. Fill the smaller circle with black and the
+larger circle, atop it, with background colour. Some drawing programmes allow you to subtract
+the large circle from the small circle, thereby immediately yielding the desired crescent shape.
 
-In either case, rotate the crescent 23.44 degrees anti-clockwise around the centre of the
-smaller (black filled) circle to complete the drawing.
+In either case, fill the crescent with black and rotate it 23.44&deg; anti-clockwise
+around the centre of the smaller circle to complete the drawing.
+
+<img
+src="https://github.com/jloughry/Unicode/raw/master/graphics/construction_of_the_crescent_moon.png"
+alt="compass and straightedge construction of the BLACK WANING CRESCENT MOON"/>
 
 References
 ----------
