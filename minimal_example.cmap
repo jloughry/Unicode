@@ -1,0 +1,49 @@
+%!PS-Adobe-3.0 Resource-CMap
+%%DocumentNeededResources: ProcSet (CIDInit)
+%%IncludeResource: ProcSet (CIDInit)
+%%BeginResource: CMap (UniJIS-UCS2-H)
+%%Title: (UniJIS-UCS2-H Adobe Japan1 2)
+%%Version: 1.000
+%%EndComments
+
+/CIDInit /ProcSet findresource begin
+
+12 dict begin
+
+begincmap
+
+/CIDSystemInfo 3 dict dup begin
+	/Registry (Adobe) def
+	/Ordering (Japan1) def
+	/Supplement 2 def
+end def
+
+/CMapName /UniJIS-UCS2-H def
+
+/CMapVersion 1.000 def
+/CMapType 1 def
+
+/XUID [1 10 25356] def
+
+/WMode 0 def
+
+1 begincodespacerange
+	<0000> <D7FF>
+	<E000> <FFFF>
+endcodespacerange
+
+1 beginnotdefrange
+<0000> <001f> 1
+endnotdefrange
+
+1 begincidrange
+<4e00> <4e00> 1200
+endcidrange
+endcmap
+CMapName currentdict /CMap defineresource pop
+end
+end
+
+%%EndResource
+%%EOF
+

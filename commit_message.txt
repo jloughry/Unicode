@@ -1,1 +1,3 @@
-wordsmithing
+improved the compass and straightedge construction by simplifying unnecessary circles; added
+PostScript Type 0 font; added note and reference to CMap file to hook up code points to the
+PostScript font.

@@ -3,8 +3,19 @@ Proposal to Add the IEC 60417-5009 Power Symbol to Unicode
 
 [Joe Loughry](mailto:joe.loughry@stx.ox.ac.uk), originally 1st December 2013.
 
+Get the Fonts Here
+------------------
+
+[Unicode_IEC_symbol_font.ttf](https://github.com/jloughry/Unicode/blob/master/Unicode_IEC_symbol_font.ttf?raw=true) (TrueType),
+[Unicode_IEC_symbol_font.otf](https://github.com/jloughry/Unicode/blob/master/Unicode_IEC_symbol_font.otf?raw=true) (OpenType),
+[Unicode_IEC_symbol_font.ps](https://github.com/jloughry/Unicode/blob/master/Unicode_IEC_symbol_font.ps?raw=true) (PostScript Type 0 font&mdash;CMap file coming soon).
+
 Latest Updates
 --------------
+
+*(8th February 2014)*
+
+- Working on a [CMap file](#ref9) for the Postscript Type 0 font.
 
 *(7th February 2014)*
 
@@ -383,14 +394,7 @@ Thanks to Adam De Witt for the idea!
 entities such as `&power;` for the new symbols to make them easier to type in HTML and XML.
 
 - Improve the metadata in the fonts to include, at minimum, licence and description
-information. These get embedded in the font file if present in the SVG source in the
-right format.
-
-- Make a PostScript font to go with the
-[TrueType](https://github.com/jloughry/Unicode/blob/master/Unicode_IEC_symbol_font.ttf?raw=true)
-and
-[OpenType](https://github.com/jloughry/Unicode/blob/master/Unicode_IEC_symbol_font.otf?raw=true)
-formats.
+information. These get embedded in the font file if present in the SVG source code.
 
 - Update the [Wikipedia page](http://en.wikipedia.org/wiki/Power_symbol) as soon
 as it's official; Wikipedia admins keep
@@ -466,6 +470,8 @@ and [explanation](http://energy.lbl.gov/controls/publications/moonsymbol020621.p
 of the drawing.<sup>[6](#ref6)</sup>
 
 - Document the compass-and-straightedge construction of the Unicode POWER SLEEP SYMBOL.
+
+- Make a PostScript font and CMAP file.
 
 ### Deadlines
 
@@ -649,4 +655,7 @@ in the UCS&rdquo;. Working Group Document ISO/IEC JTC/SC2/WG2 N4xxx, L2/14-059, 
 8. <a name="ref8"/>Ken Lunde. &ldquo;The latest on power symbols in Unicode&rdquo;. Twitter:
 [https://twitter.com/ken_lunde/status/430833714663522304](https://twitter.com/ken_lunde/status/430833714663522304)
 on 4th February 2014.
+
+9. <a name="ref9"/>Adobe Systems Incorporated. *Building CMap Files for CID-Keyed Fonts*.
+Technical Note #5099, 14 October 1998.
 
