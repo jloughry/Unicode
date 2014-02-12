@@ -1,1 +1,1 @@
-missed a closing tag in <table>
+verify test results in table

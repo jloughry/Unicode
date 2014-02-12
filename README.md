@@ -642,7 +642,7 @@ Web Browser Test Results<a name="update20140212"/>
 		<th><img src="graphics/18px-Unicode_BLACK_WANING_CRESCENT_MOON.png"
 			alt="Unicode BLACK WANING CRESCENT MOON"/></th>
 	</tr>
-	<tr><td>Firefox</td><td>26.0</td><td>Windows XP Professional SP 3</td>
+	<tr><td>Firefox</td><td>26.0</td><td>Windows XP Professional Service Pack 3</td>
 		<td><img src="graphics/green_check.png" alt="check"/></td>
 		<td><img src="graphics/green_check.png" alt="check"/></td>
 		<td><img src="graphics/green_check.png" alt="check"/></td>
@@ -670,7 +670,7 @@ Web Browser Test Results<a name="update20140212"/>
 		<td><img src="graphics/green_check.png" alt="check"/></td>
 		<td><img src="graphics/green_check.png" alt="check"/></td>
 	</tr>
-	<tr><td>Chrome</td><td>32.0.1700.107 m</td><td>Windows XP Professional SP 3</td>
+	<tr><td>Chrome</td><td>32.0.1700.107 m</td><td>Windows XP Professional Service Pack 3</td>
 		<td><img src="graphics/red_x.png" alt="red X"/><sup>&dagger;</sup></td>
 		<td><img src="graphics/red_x.png" alt="red X"/><sup>&dagger;</sup></td>
 		<td><img src="graphics/red_x.png" alt="red X"/><sup>&dagger;</sup></td>
@@ -682,9 +682,9 @@ Web Browser Test Results<a name="update20140212"/>
 		<td><img src="graphics/green_check.png" alt="check"/></td>
 		<td><img src="graphics/green_check.png" alt="check"/></td>
 		<td><img src="graphics/green_check.png" alt="check"/></td>
-		<td><img src="graphics/red_x.png" alt="red X"/></td><sup>&dagger;</sup></td>
+		<td><img src="graphics/red_x.png" alt="red X"/><sup>&dagger;</sup></td>
 	</tr>
-	tr><td>Safari</td><td>5.1.7 (7534.57.2)</td><td>Windows XP Professional SP 3</td>
+	tr><td>Safari</td><td>5.1.7 (7534.57.2)</td><td>Windows XP Professional Service Pack 3</td>
 		<td><img src="graphics/red_x.png" alt="red X"/><sup>&dagger;</sup></td>
 		<td><img src="graphics/red_x.png" alt="red X"/><sup>&dagger;</sup></td>
 		<td><img src="graphics/red_x.png" alt="red X"/><sup>&dagger;</sup></td>
@@ -703,7 +703,7 @@ Web Browser Test Results<a name="update20140212"/>
 		<td><img src="graphics/green_check.png" alt="check"/></td>
 		<td><img src="graphics/green_check.png" alt="check"/></td>
 		<td><img src="graphics/green_check.png" alt="check"/></td>
-		<td><img src="graphics/red_x.png" alt="red X"/></td><sup>&dagger;</sup></td>
+		<td><img src="graphics/red_x.png" alt="red X"/><sup>&dagger;</sup></td>
 	</tr>
 	<tr><td>Safari</td><td>7.0.1 (9537.73.11)</td><td>Mac OS X 10.9.1 (Intel)</td>
 		<td><img src="graphics/green_check.png" alt="check"/></td>
