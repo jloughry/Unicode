@@ -629,18 +629,86 @@ Web Browser Test Results<a name="update20140212"/>
 ------------------------
 
 <table>
-	<tr><th>Application</th><th>Version</th><th>Platform</th><th>Results</th></tr>
-	<tr><td>Firefox</td><td>26.0</td><td>Windows XP Professional SP 3</td><td>OK</td></tr>
-	<tr><td>Firefox</td><td>26.0</td><td>Mac OS X 10.6.8 (Intel)</td><td>SLEEP appears as a
-		box with numbers in it; all others display OK</td></tr>
-	<tr><td>Firefox</td><td>27.0</td><td>Mac OS X 10.6.8 (Intel)</td><td>SLEEP appears as a
-		box with numbers in it; all others display OK</td></tr>
-	<tr><td>Chrome</td><td>32.0.1700.107 m</td><td>Windows XP Professional SP 3</td><td>empty
-		boxes</td></tr>
-	<tr><td>Safari</td><td>5.1.7 (7534.57.2)</td><td>Windows XP Professional SP 3</td><td>empty
-		boxes</td></tr>
-	<tr><td>Safari</td><td>5.1.10 (6534.59.10)</td><td>Mac OX X 10.6.8 (Intel)</td><td>SLEEP
-		appears as an empty box; all others display OK</td></tr>
+	<tr><th>Application</th><th>Version</th><th>Platform</th><th colspan="5">Results</th></tr>
+	<tr><th
+		colspan="3">&nbsp;</th><th>2bf3</th><th>23fc</th><th>23fd</th><th>2b58</th><th>1f32d</th></tr>
+	<tr><td>Firefox</td><td>26.0</td><td>Windows XP Professional SP 3</td>
+		<td><img src="graphics/green_check.png" alt="check"/></td>
+		<td><img src="graphics/green_check.png" alt="check"/></td>
+		<td><img src="graphics/green_check.png" alt="check"/></td>
+		<td><img src="graphics/green_check.png" alt="check"/></td>
+		<td><img src="graphics/green_check.png" alt="check"/></td>
+	</tr>
+	<tr><td>Firefox</td><td>26.0</td><td>Mac OS X 10.6.8 (Intel)</td>
+		<td><img src="graphics/green_check.png" alt="check"/></td>
+		<td><img src="graphics/green_check.png" alt="check"/></td>
+		<td><img src="graphics/green_check.png" alt="check"/></td>
+		<td><img src="graphics/green_check.png" alt="check"/></td>
+		<td><img src="graphics/box_with_numbers.png" alt="small box with numbers in it"/></td>
+	</tr>
+	<tr><td>Firefox</td><td>27.0</td><td>Mac OS X 10.6.8 (Intel)</td>
+		<td><img src="graphics/green_check.png" alt="check"/></td>
+		<td><img src="graphics/green_check.png" alt="check"/></td>
+		<td><img src="graphics/green_check.png" alt="check"/></td>
+		<td><img src="graphics/green_check.png" alt="check"/></td>
+		<td><img src="graphics/box_with_numbers.png" alt="small box with numbers in it"/></td>
+	</tr>
+	<tr><td>Firefox</td><td>27.0</td><td>Mac OS X 10.9.1 (Intel)</td>
+		<td><img src="graphics/green_check.png" alt="check"/></td>
+		<td><img src="graphics/green_check.png" alt="check"/></td>
+		<td><img src="graphics/green_check.png" alt="check"/></td>
+		<td><img src="graphics/green_check.png" alt="check"/></td>
+		<td><img src="graphics/green_check.png" alt="check"/></td>
+	</tr>
+	<tr><td>Chrome</td><td>32.0.1700.107 m</td><td>Windows XP Professional SP 3</td>
+		<td><img src="graphics/empty_box.png" alt="empty box"/></td>
+		<td><img src="graphics/empty_box.png" alt="empty box"/></td>
+		<td><img src="graphics/empty_box.png" alt="empty box"/></td>
+		<td><img src="graphics/empty_box.png" alt="empty box"/></td>
+		<td><img src="graphics/empty_box.png" alt="empty box"/></td>
+	</tr>
+	<tr><td>Chrome</td><td>32.0.1700.107</td><td>Mac OS X 10.7.5 (Intel)</td>
+		<td><img src="graphics/green_check.png" alt="check"/></td>
+		<td><img src="graphics/green_check.png" alt="check"/></td>
+		<td><img src="graphics/green_check.png" alt="check"/></td>
+		<td><img src="graphics/green_check.png" alt="check"/></td>
+		<td><img src="graphics/empty_box.png" alt="empty box"/></td>
+	</tr>
+	tr><td>Safari</td><td>5.1.7 (7534.57.2)</td><td>Windows XP Professional SP 3</td>
+		<td><img src="graphics/empty_box.png" alt="empty box"/></td>
+		<td><img src="graphics/empty_box.png" alt="empty box"/></td>
+		<td><img src="graphics/empty_box.png" alt="empty box"/></td>
+		<td><img src="graphics/empty_box.png" alt="empty box"/></td>
+		<td><img src="graphics/empty_box.png" alt="empty box"/></td>
+	</tr>
+	<tr><td>Safari</td><td>5.1.10 (6534.59.10)</td><td>Mac OX X 10.6.8 (Intel)</td>
+		<td><img src="graphics/green_check.png" alt="check"/></td>
+		<td><img src="graphics/green_check.png" alt="check"/></td>
+		<td><img src="graphics/green_check.png" alt="check"/></td>
+		<td><img src="graphics/green_check.png" alt="check"/></td>
+		<td><img src="graphics/empty_box.png" alt="empty box"/></td>
+	</tr>
+	<tr><td>Safari</td><td>6.1.1 (7537.73.11)</td><td>Mac OS X 10.7.5 (Intel)</td>
+		<td><img src="graphics/green_check.png" alt="check"/></td>
+		<td><img src="graphics/green_check.png" alt="check"/></td>
+		<td><img src="graphics/green_check.png" alt="check"/></td>
+		<td><img src="graphics/green_check.png" alt="check"/></td>
+		<td><img src="graphics/empty_box.png" alt="empty box"/></td>
+	</tr>
+	<tr><td>Safari</td><td>7.0.1 (9537.73.11)</td><td>Mac OS X 10.9.1 (Intel)</td>
+		<td><img src="graphics/green_check.png" alt="check"/></td>
+		<td><img src="graphics/green_check.png" alt="check"/></td>
+		<td><img src="graphics/green_check.png" alt="check"/></td>
+		<td><img src="graphics/green_check.png" alt="check"/></td>
+		<td><img src="graphics/green_check.png" alt="check"/></td>
+	</tr>
+	<tr><td>Sea Monkey</td><td>2.24</td><td>Mac OS X 10.7.5 (Intel)</td>
+		<td><img src="graphics/green_check.png" alt="check"/></td>
+		<td><img src="graphics/green_check.png" alt="check"/></td>
+		<td><img src="graphics/green_check.png" alt="check"/></td>
+		<td><img src="graphics/green_check.png" alt="check"/></td>
+		<td><img src="graphics/box_with_numbers.png" alt="box with numbers in it"/></td>
+	</tr>
 </table>
 
 ### Compatibility Test
