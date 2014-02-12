@@ -1,1 +1,1 @@
-see how graphics look in the table instead of text
+use footnotes instead of text to explain red X marks
