@@ -1,1 +1,1 @@
-use footnotes instead of text to explain red X marks
+missed a closing tag in <table>
