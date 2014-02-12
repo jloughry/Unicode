@@ -1,1 +1,1 @@
-added browser compatibility test and results table
+fix formatting in HTML table

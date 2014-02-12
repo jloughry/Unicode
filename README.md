@@ -630,11 +630,11 @@ Web Browser Test Results
 
 <table>
 	<tr><th>Application</th><th>Version</th><th>Platform</th><th>Results</th></tr>
-	<tr><td>Firefox</td><td></td>26.0</td><td>Windows XP Professional SP 3</td><td>OK</td></tr>
-	<tr><td>Chrome</td><td></td>32.0.1700.107 m</td><td>Windows XP Professional SP 3</td><td>empty
-boxes</td></tr>
-	<tr><td>Safari</td><td></td>5.1.7 (7534.57.2)</td><td>Windows XP Professional SP 3</td><td>empty
-boxes</td></tr>
+	<tr><td>Firefox</td><td>26.0</td><td>Windows XP Professional SP 3</td><td>OK</td></tr>
+	<tr><td>Chrome</td><td>32.0.1700.107 m</td><td>Windows XP Professional SP 3</td><td>empty
+		boxes</td></tr>
+	<tr><td>Safari</td><td>5.1.7 (7534.57.2)</td><td>Windows XP Professional SP 3</td><td>empty
+		boxes</td></tr>
 </table>
 
 ### Compatibility Test
