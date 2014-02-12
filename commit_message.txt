@@ -1,3 +1,1 @@
-improved the compass and straightedge construction by simplifying unnecessary circles; added
-PostScript Type 0 font; added note and reference to CMap file to hook up code points to the
-PostScript font.
+test font in web browser by inserting some HTML numeric entities into README.md

@@ -1,4 +1,4 @@
-Proposal to Add the IEC 60417-5009 Power Symbol to Unicode
+Proposal to Add the &#x23FB; IEC 60417-5009 Power Symbol to Unicode
 ==========================================================
 
 [Joe Loughry](mailto:joe.loughry@stx.ox.ac.uk), originally 1st December 2013.
@@ -10,8 +10,13 @@ Get the Fonts Here
 [Unicode_IEC_symbol_font.otf](https://github.com/jloughry/Unicode/blob/master/Unicode_IEC_symbol_font.otf?raw=true) (OpenType),
 [Unicode_IEC_symbol_font.ps](https://github.com/jloughry/Unicode/blob/master/Unicode_IEC_symbol_font.ps?raw=true) (PostScript Type 0 font&mdash;CMap file coming soon).
 
+If you have the font installed, &#x23FB; the &#x23FC; characters &#x23FD; should
+&#x2B58; appear &#x1F32D; here. (This may not work in all web browsers.)
+
 Latest Updates
 --------------
+
+*(12th February 2014)* Testing use of new font in web browsers.
 
 *(8th February 2014)*
 
