@@ -1,1 +1,1 @@
-test font in web browser by inserting some HTML numeric entities into README.md
+added browser compatibility test and results table

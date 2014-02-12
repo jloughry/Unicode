@@ -10,13 +10,15 @@ Get the Fonts Here
 [Unicode_IEC_symbol_font.otf](https://github.com/jloughry/Unicode/blob/master/Unicode_IEC_symbol_font.otf?raw=true) (OpenType),
 [Unicode_IEC_symbol_font.ps](https://github.com/jloughry/Unicode/blob/master/Unicode_IEC_symbol_font.ps?raw=true) (PostScript Type 0 font&mdash;CMap file coming soon).
 
-If you have the font installed, &#x23FB; the &#x23FC; characters &#x23FD; should
-&#x2B58; appear &#x1F32D; here. (This may not work in all web browsers.)
+If you have the font installed, the &#x23FB; characters &#x23FC; should &#x23FD; appear
+&#x2B58; here &#x1F32D;. (This may not work in all web browsers.)
 
 Latest Updates
 --------------
 
-*(12th February 2014)* Testing use of new font in web browsers.
+*(12th February 2014)*
+
+- [Test page](#update20140212) for web browsers.
 
 *(8th February 2014)*
 
@@ -622,6 +624,28 @@ circle from the small circle, thereby yielding immediately the desired crescent 
 
 In either case, fill the crescent with black and rotate it 23.44&deg; anti-clockwise
 around the centre of the smaller circle to complete the drawing.
+
+Web Browser Test Results
+------------------------
+
+<table>
+	<tr><th>Application</th><th>Version</th><th>Platform</th><th>Results</th></tr>
+	<tr><td>Firefox</td><td></td>26.0</td><td>Windows XP Professional SP 3</td><td>OK</td></tr>
+	<tr><td>Chrome</td><td></td>32.0.1700.107 m</td><td>Windows XP Professional SP 3</td><td>empty
+boxes</td></tr>
+	<tr><td>Safari</td><td></td>5.1.7 (7534.57.2)</td><td>Windows XP Professional SP 3</td><td>empty
+boxes</td></tr>
+</table>
+
+### Compatibility Test
+
+Here are the new characters displayed directly: can you see all of them?
+
+- &#x23FB; POWER SYMBOL
+- &#x23FC; POWER ON-OFF SYMBOL
+- &#x23FD; POWER ON SYMBOL
+- &#x2B58; HEAVY CIRCLE
+- &#x1F32D; BLACK WANING CRESCENT MOON
 
 References
 ----------
