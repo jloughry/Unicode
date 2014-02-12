@@ -1,1 +1,1 @@
-more browser results; add graphics to table of results
+see how graphics look in the table instead of text

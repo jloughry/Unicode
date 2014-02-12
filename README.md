@@ -630,8 +630,18 @@ Web Browser Test Results<a name="update20140212"/>
 
 <table>
 	<tr><th>Application</th><th>Version</th><th>Platform</th><th colspan="5">Results</th></tr>
-	<tr><th
-		colspan="3">&nbsp;</th><th>2bf3</th><th>23fc</th><th>23fd</th><th>2b58</th><th>1f32d</th></tr>
+	<tr><th colspan="3">&nbsp;</th>
+		<th><img src="graphics/18px-Unicode_POWER_SYMBOL.png"
+			alt="Unicode POWER SYMBOL"/></th>
+		<th><img src="graphics/18px-Unicode_POWER_ON-OFF_SYMBOL.png"
+			alt="Unicode POWER ON-OFF SYMBOL"/></th>
+		<th><img src="graphics/18px-Unicode_POWER_ON_SYMBOL.png"
+			alt="Unicode POWER ON SYMBOL"/></th>
+		<th><img src="graphics/18px-Unicode_HEAVY_CIRCLE.png"
+			alt="Unicode HEAVY CIRCLE"/></th>
+		<th><img src="graphics/18px-Unicode_BLACK_WANING_CRESCENT_MOON.png"
+			alt="Unicode BLACK WANING CRESCENT MOON"/></th>
+	</tr>
 	<tr><td>Firefox</td><td>26.0</td><td>Windows XP Professional SP 3</td>
 		<td><img src="graphics/green_check.png" alt="check"/></td>
 		<td><img src="graphics/green_check.png" alt="check"/></td>
@@ -644,7 +654,8 @@ Web Browser Test Results<a name="update20140212"/>
 		<td><img src="graphics/green_check.png" alt="check"/></td>
 		<td><img src="graphics/green_check.png" alt="check"/></td>
 		<td><img src="graphics/green_check.png" alt="check"/></td>
-		<td><img src="graphics/box_with_numbers.png" alt="small box with numbers in it"/></td>
+		<td><img src="graphics/red_x.png" alt="red X"/>
+			(<img src="graphics/box_with_numbers.png" alt="small box with numbers in it"/>)</td>
 	</tr>
 	<tr><td>Firefox</td><td>27.0</td><td>Mac OS X 10.6.8 (Intel)</td>
 		<td><img src="graphics/green_check.png" alt="check"/></td>
