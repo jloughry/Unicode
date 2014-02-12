@@ -637,7 +637,7 @@ Web Browser Test Results
 		boxes</td></tr>
 </table>
 
-### Compatibility Test
+### Compatibility Test<a name="update20140212"/>
 
 Here are the new characters displayed directly: can you see all of them?
 
