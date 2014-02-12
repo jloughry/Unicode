@@ -625,27 +625,33 @@ circle from the small circle, thereby yielding immediately the desired crescent 
 In either case, fill the crescent with black and rotate it 23.44&deg; anti-clockwise
 around the centre of the smaller circle to complete the drawing.
 
-Web Browser Test Results
+Web Browser Test Results<a name="update20140212"/>
 ------------------------
 
 <table>
 	<tr><th>Application</th><th>Version</th><th>Platform</th><th>Results</th></tr>
 	<tr><td>Firefox</td><td>26.0</td><td>Windows XP Professional SP 3</td><td>OK</td></tr>
+	<tr><td>Firefox</td><td>26.0</td><td>Mac OS X 10.6.8 (Intel)</td><td>SLEEP appears as a
+		box with numbers in it; all others display OK</td></tr>
+	<tr><td>Firefox</td><td>27.0</td><td>Mac OS X 10.6.8 (Intel)</td><td>SLEEP appears as a
+		box with numbers in it; all others display OK</td></tr>
 	<tr><td>Chrome</td><td>32.0.1700.107 m</td><td>Windows XP Professional SP 3</td><td>empty
 		boxes</td></tr>
 	<tr><td>Safari</td><td>5.1.7 (7534.57.2)</td><td>Windows XP Professional SP 3</td><td>empty
 		boxes</td></tr>
+	<tr><td>Safari</td><td>5.1.10 (6534.59.10)</td><td>Mac OX X 10.6.8 (Intel)</td><td>SLEEP
+		appears as an empty box; all others display OK</td></tr>
 </table>
 
-### Compatibility Test<a name="update20140212"/>
+### Compatibility Test
 
 Here are the new characters displayed directly: can you see all of them?
 
 - &#x23FB; POWER SYMBOL
 - &#x23FC; POWER ON-OFF SYMBOL
 - &#x23FD; POWER ON SYMBOL
-- &#x2B58; HEAVY CIRCLE
-- &#x1F32D; BLACK WANING CRESCENT MOON
+- &#x2B58; HEAVY CIRCLE (POWER OFF)
+- &#x1F32D; BLACK WANING CRESCENT MOON (SLEEP)
 
 References
 ----------
