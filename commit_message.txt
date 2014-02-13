@@ -1,2 +1,1 @@
-black_box.png is not working for some reason; re-write the graphics file and try again. The file
-does have the right permissions and the HTML is correct.
+fix http paths in graphics files

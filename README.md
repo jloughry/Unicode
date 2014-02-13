@@ -648,123 +648,270 @@ uses font embedding in HTML and should work on more browsers.
 <table>
 	<tr><th>Application</th><th>Version</th><th>Platform</th><th colspan="5">Results</th></tr>
 	<tr><th colspan="3">&nbsp;</th>
-		<th><img src="graphics/18px-Unicode_POWER_SYMBOL.png"
+		<th><img
+			src="https://github.com/jloughry/Unicode/raw/master/graphics/18px-Unicode_POWER_SYMBOL.png"
 			alt="Unicode POWER SYMBOL"/></th>
-		<th><img src="graphics/18px-Unicode_POWER_ON-OFF_SYMBOL.png"
+		<th><img
+			src="https://github.com/jloughry/Unicode/raw/master/graphics/18px-Unicode_POWER_ON-OFF_SYMBOL.png"
 			alt="Unicode POWER ON-OFF SYMBOL"/></th>
-		<th><img src="graphics/3px-Unicode_POWER_ON_SYMBOL.png"
+		<th><img
+			src="https://github.com/jloughry/Unicode/raw/master/graphics/3px-Unicode_POWER_ON_SYMBOL.png"
 			alt="Unicode POWER ON SYMBOL"/></th>
-		<th><img src="graphics/18px-Unicode_HEAVY_CIRCLE.png"
+		<th><img
+			src="https://github.com/jloughry/Unicode/raw/master/graphics/18px-Unicode_HEAVY_CIRCLE.png"
 			alt="Unicode HEAVY CIRCLE"/></th>
-		<th><img src="graphics/18px-Unicode_BLACK_WANING_CRESCENT_MOON.png"
+		<th><img
+			src="https://github.com/jloughry/Unicode/raw/master/graphics/18px-Unicode_BLACK_WANING_CRESCENT_MOON.png"
 			alt="Unicode BLACK WANING CRESCENT MOON"/></th>
 	</tr>
 	<tr><td>Firefox</td><td>26.0</td><td>Windows XP Professional Service Pack 3</td>
-		<td><img src="graphics/green_check.png" alt="check"/></td>
-		<td><img src="graphics/green_check.png" alt="check"/></td>
-		<td><img src="graphics/green_check.png" alt="check"/></td>
-		<td><img src="graphics/green_check.png" alt="check"/></td>
-		<td><img src="graphics/green_check.png" alt="check"/></td>
+		<td><img
+			src="https://github.com/jloughry/Unicode/raw/master/graphics/green_check.png"
+			alt="green check mark"/></td>
+		<td><img
+			src="https://github.com/jloughry/Unicode/raw/master/graphics/green_check.png"
+			alt="green check mark"/></td>
+		<td><img
+			src="https://github.com/jloughry/Unicode/raw/master/graphics/green_check.png"
+			alt="green check mark"/></td>
+		<td><img
+			src="https://github.com/jloughry/Unicode/raw/master/graphics/green_check.png"
+			alt="green check mark"/></td>
+		<td><img
+			src="https://github.com/jloughry/Unicode/raw/master/graphics/green_check.png"
+			alt="green check mark"/></td>
 	</tr>
 	<tr><td>Firefox</td><td>26.0</td><td>Mac OS X 10.6.8 (Intel)</td>
-		<td><img src="graphics/green_check.png" alt="check"/></td>
-		<td><img src="graphics/green_check.png" alt="check"/></td>
-		<td><img src="graphics/green_check.png" alt="check"/></td>
-		<td><img src="graphics/green_check.png" alt="check"/></td>
-		<td><img src="graphics/red_x.png" alt="red X"/><sup>*</sup></td>
+		<td><img
+			src="https://github.com/jloughry/Unicode/raw/master/graphics/green_check.png"
+			alt="green check mark"/></td>
+		<td><img
+			src="https://github.com/jloughry/Unicode/raw/master/graphics/green_check.png"
+			alt="green check mark"/></td>
+		<td><img
+			src="https://github.com/jloughry/Unicode/raw/master/graphics/green_check.png"
+			alt="green check mark"/></td>
+		<td><img
+			src="https://github.com/jloughry/Unicode/raw/master/graphics/green_check.png"
+			alt="green check mark"/></td>
+		<td><img
+			src="https://github.com/jloughry/Unicode/raw/master/graphics/red_x.png"
+			alt="red X"/><sup>*</sup></td>
 	</tr>
 	<tr><td>Firefox</td><td>27.0</td><td>Mac OS X 10.6.8 (Intel)</td>
-		<td><img src="graphics/green_check.png" alt="check"/></td>
-		<td><img src="graphics/green_check.png" alt="check"/></td>
-		<td><img src="graphics/green_check.png" alt="check"/></td>
-		<td><img src="graphics/green_check.png" alt="check"/></td>
-		<td><img src="graphics/red_x.png" alt="red X"/><sup>*</sup></td>
+		<td><img
+			src="https://github.com/jloughry/Unicode/raw/master/graphics/green_check.png"
+			alt="green check mark"/></td>
+		<td><img
+			src="https://github.com/jloughry/Unicode/raw/master/graphics/green_check.png"
+			alt="green check mark"/></td>
+		<td><img
+			src="https://github.com/jloughry/Unicode/raw/master/graphics/green_check.png"
+			alt="green check mark"/></td>
+		<td><img
+			src="https://github.com/jloughry/Unicode/raw/master/graphics/green_check.png"
+			alt="green check mark"/></td>
+		<td><img
+			src="https://github.com/jloughry/Unicode/raw/master/graphics/red_x.png"
+			alt="red X"/><sup>*</sup></td>
 	</tr>
 	<tr><td>Firefox</td><td>27.0</td><td>Mac OS X 10.9.1 (Intel)</td>
-		<td><img src="graphics/green_check.png" alt="check"/></td>
-		<td><img src="graphics/green_check.png" alt="check"/></td>
-		<td><img src="graphics/green_check.png" alt="check"/></td>
-		<td><img src="graphics/green_check.png" alt="check"/></td>
-		<td><img src="graphics/green_check.png" alt="check"/></td>
+		<td><img
+			src="https://github.com/jloughry/Unicode/raw/master/graphics/green_check.png"
+			alt="green check mark"/></td>
+		<td><img
+			src="https://github.com/jloughry/Unicode/raw/master/graphics/green_check.png"
+			alt="green check mark"/></td>
+		<td><img
+			src="https://github.com/jloughry/Unicode/raw/master/graphics/green_check.png"
+			alt="green check mark"/></td>
+		<td><img
+			src="https://github.com/jloughry/Unicode/raw/master/graphics/green_check.png"
+			alt="green check mark"/></td>
+		<td><img
+			src="https://github.com/jloughry/Unicode/raw/master/graphics/green_check.png"
+			alt="green check mark"/></td>
 	</tr>
 	<tr><td>Chrome <sup>&sect;</sup></td><td>32.0.1700.107 m</td><td>Windows XP Professional
 		Service Pack 3</td>
-		<td><img src="graphics/red_x.png" alt="red X"/><sup>&dagger;</sup></td>
-		<td><img src="graphics/red_x.png" alt="red X"/><sup>&dagger;</sup></td>
-		<td><img src="graphics/red_x.png" alt="red X"/><sup>&dagger;</sup></td>
-		<td><img src="graphics/red_x.png" alt="red X"/><sup>&dagger;</sup></td>
-		<td><img src="graphics/red_x.png" alt="red X"/><sup>&dagger;</sup></td>
+		<td><img
+			src="https://github.com/jloughry/Unicode/raw/master/graphics/red_x.png"
+			alt="red X"/><sup>&dagger;</sup></td>
+		<td><img
+			src="https://github.com/jloughry/Unicode/raw/master/graphics/red_x.png"
+			alt="red X"/><sup>&dagger;</sup></td>
+		<td><img
+			src="https://github.com/jloughry/Unicode/raw/master/graphics/red_x.png"
+			alt="red X"/><sup>&dagger;</sup></td>
+		<td><img
+			src="https://github.com/jloughry/Unicode/raw/master/graphics/red_x.png"
+			alt="red X"/><sup>&dagger;</sup></td>
+		<td><img
+			src="https://github.com/jloughry/Unicode/raw/master/graphics/red_x.png"
+			alt="red X"/><sup>&dagger;</sup></td>
 	</tr>
 	<tr><td colspan="3" align="center">(Chrome with font embedding in CSS)</td>
-		<td><img src="graphics/green_check.png" alt="check"/></td>
-		<td><img src="graphics/green_check.png" alt="check"/></td>
-		<td><img src="graphics/green_check.png" alt="check"/></td>
-		<td><img src="graphics/green_check.png" alt="check"/></td>
-		<td><img src="graphics/green_check.png" alt="check"/></td>
+		<td><img
+			src="https://github.com/jloughry/Unicode/raw/master/graphics/green_check.png"
+			alt="green check mark"/></td>
+		<td><img
+			src="https://github.com/jloughry/Unicode/raw/master/graphics/green_check.png"
+			alt="green check mark"/></td>
+		<td><img
+			src="https://github.com/jloughry/Unicode/raw/master/graphics/green_check.png"
+			alt="green check mark"/></td>
+		<td><img
+			src="https://github.com/jloughry/Unicode/raw/master/graphics/green_check.png"
+			alt="green check mark"/></td>
+		<td><img
+			src="https://github.com/jloughry/Unicode/raw/master/graphics/green_check.png"
+			alt="green check mark"/></td>
 	</tr>
 	<tr><td>Chrome</td><td>32.0.1700.107</td><td>Mac OS X 10.7.5 (Intel)</td>
-		<td><img src="graphics/green_check.png" alt="check"/></td>
-		<td><img src="graphics/green_check.png" alt="check"/></td>
-		<td><img src="graphics/green_check.png" alt="check"/></td>
-		<td><img src="graphics/green_check.png" alt="check"/></td>
-		<td><img src="graphics/red_x.png" alt="red X"/><sup>&dagger;</sup></td>
+		<td><img
+			src="https://github.com/jloughry/Unicode/raw/master/graphics/green_check.png"
+			alt="green check mark"/></td>
+		<td><img
+			src="https://github.com/jloughry/Unicode/raw/master/graphics/green_check.png"
+			alt="green check mark"/></td>
+		<td><img
+			src="https://github.com/jloughry/Unicode/raw/master/graphics/green_check.png"
+			alt="green check mark"/></td>
+		<td><img
+			src="https://github.com/jloughry/Unicode/raw/master/graphics/green_check.png"
+			alt="green check mark"/></td>
+		<td><img
+			src="https://github.com/jloughry/Unicode/raw/master/graphics/red_x.png"
+			alt="red X"/><sup>&dagger;</sup></td>
 	</tr>
 	<tr><td>Safari <sup>&#x2225;</sup></td><td>5.1.7 (7534.57.2)</td><td>Windows XP Professional
 		Service Pack 3</td>
-		<td><img src="graphics/red_x.png" alt="red X"/><sup>&dagger;</sup></td>
-		<td><img src="graphics/red_x.png" alt="red X"/><sup>&dagger;</sup></td>
-		<td><img src="graphics/red_x.png" alt="red X"/><sup>&dagger;</sup></td>
-		<td><img src="graphics/red_x.png" alt="red X"/><sup>&dagger;</sup></td>
-		<td><img src="graphics/red_x.png" alt="red X"/><sup>&dagger;</sup></td>
+		<td><img
+			src="https://github.com/jloughry/Unicode/raw/master/graphics/red_x.png"
+			alt="red X"/><sup>&dagger;</sup></td>
+		<td><img
+			src="https://github.com/jloughry/Unicode/raw/master/graphics/red_x.png"
+			alt="red X"/><sup>&dagger;</sup></td>
+		<td><img
+			src="https://github.com/jloughry/Unicode/raw/master/graphics/red_x.png"
+			alt="red X"/><sup>&dagger;</sup></td>
+		<td><img
+			src="https://github.com/jloughry/Unicode/raw/master/graphics/red_x.png"
+			alt="red X"/><sup>&dagger;</sup></td>
+		<td><img
+			src="https://github.com/jloughry/Unicode/raw/master/graphics/red_x.png"
+			alt="red X"/><sup>&dagger;</sup></td>
 	</tr>
 	<tr><td colspan="3" align="center">(Safari with font embedding in CSS)</td>
-		<td><img src="graphics/green_check.png" alt="check"/></td>
-		<td><img src="graphics/green_check.png" alt="check"/></td>
-		<td><img src="graphics/green_check.png" alt="check"/></td>
-		<td><img src="graphics/green_check.png" alt="check"/></td>
-		<td><img src="graphics/red_x.png" alt="red X"/><sup>&para;</sup></td>
+		<td><img
+			src="https://github.com/jloughry/Unicode/raw/master/graphics/green_check.png"
+			alt="green check mark"/></td>
+		<td><img
+			src="https://github.com/jloughry/Unicode/raw/master/graphics/green_check.png"
+			alt="green check mark"/></td>
+		<td><img
+			src="https://github.com/jloughry/Unicode/raw/master/graphics/green_check.png"
+			alt="green check mark"/></td>
+		<td><img
+			src="https://github.com/jloughry/Unicode/raw/master/graphics/green_check.png"
+			alt="green check mark"/></td>
+		<td><img
+			src="https://github.com/jloughry/Unicode/raw/master/graphics/red_x.png"
+			alt="red X"/><sup>&para;</sup></td>
 	</tr>
 	<tr><td>Safari</td><td>5.1.10 (6534.59.10)</td><td>Mac OX X 10.6.8 (Intel)</td>
-		<td><img src="graphics/green_check.png" alt="check"/></td>
-		<td><img src="graphics/green_check.png" alt="check"/></td>
-		<td><img src="graphics/green_check.png" alt="check"/></td>
-		<td><img src="graphics/green_check.png" alt="check"/></td>
-		<td><img src="graphics/red_x.png" alt="red X"/><sup>&dagger;</sup></td>
+		<td><img
+			src="https://github.com/jloughry/Unicode/raw/master/graphics/green_check.png"
+			alt="green check mark"/></td>
+		<td><img
+			src="https://github.com/jloughry/Unicode/raw/master/graphics/green_check.png"
+			alt="green check mark"/></td>
+		<td><img
+			src="https://github.com/jloughry/Unicode/raw/master/graphics/green_check.png"
+			alt="green check mark"/></td>
+		<td><img
+			src="https://github.com/jloughry/Unicode/raw/master/graphics/green_check.png"
+			alt="green check mark"/></td>
+		<td><img
+			src="https://github.com/jloughry/Unicode/raw/master/graphics/red_x.png"
+			alt="red X"/><sup>&dagger;</sup></td>
 	</tr>
 	<tr><td>Safari</td><td>6.1.1 (7537.73.11)</td><td>Mac OS X 10.7.5 (Intel)</td>
-		<td><img src="graphics/green_check.png" alt="check"/></td>
-		<td><img src="graphics/green_check.png" alt="check"/></td>
-		<td><img src="graphics/green_check.png" alt="check"/></td>
-		<td><img src="graphics/green_check.png" alt="check"/></td>
-		<td><img src="graphics/red_x.png" alt="red X"/><sup>&dagger;</sup></td>
+		<td><img
+			src="https://github.com/jloughry/Unicode/raw/master/graphics/green_check.png"
+			alt="green check mark"/></td>
+		<td><img
+			src="https://github.com/jloughry/Unicode/raw/master/graphics/green_check.png"
+			alt="green check mark"/></td>
+		<td><img
+			src="https://github.com/jloughry/Unicode/raw/master/graphics/green_check.png"
+			alt="green check mark"/></td>
+		<td><img
+			src="https://github.com/jloughry/Unicode/raw/master/graphics/green_check.png"
+			alt="green check mark"/></td>
+		<td><img
+			src="https://github.com/jloughry/Unicode/raw/master/graphics/red_x.png"
+			alt="red X"/><sup>&dagger;</sup></td>
 	</tr>
 	<tr><td>Safari</td><td>7.0.1 (9537.73.11)</td><td>Mac OS X 10.9.1 (Intel)</td>
-		<td><img src="graphics/green_check.png" alt="check"/></td>
-		<td><img src="graphics/green_check.png" alt="check"/></td>
-		<td><img src="graphics/green_check.png" alt="check"/></td>
-		<td><img src="graphics/green_check.png" alt="check"/></td>
-		<td><img src="graphics/green_check.png" alt="check"/></td>
+		<td><img
+			src="https://github.com/jloughry/Unicode/raw/master/graphics/green_check.png"
+			alt="green check mark"/></td>
+		<td><img
+			src="https://github.com/jloughry/Unicode/raw/master/graphics/green_check.png"
+			alt="green check mark"/></td>
+		<td><img
+			src="https://github.com/jloughry/Unicode/raw/master/graphics/green_check.png"
+			alt="green check mark"/></td>
+		<td><img
+			src="https://github.com/jloughry/Unicode/raw/master/graphics/green_check.png"
+			alt="green check mark"/></td>
+		<td><img
+			src="https://github.com/jloughry/Unicode/raw/master/graphics/green_check.png"
+			alt="green check mark"/></td>
 	</tr>
 	<tr><td>Safari <sup>&sect;</sup></td><td>7.0.4 (11B554a)</td><td>iPad</td>
-		<td><img src="graphics/green_check.png" alt="check"/></td>
-		<td><img src="graphics/green_check.png" alt="check"/></td>
-		<td><img src="graphics/green_check.png" alt="check"/></td>
-		<td><img src="graphics/green_check.png" alt="check"/></td>
-		<td><img src="graphics/green_check.png" alt="check"/></td>
+		<td><img
+			src="https://github.com/jloughry/Unicode/raw/master/graphics/green_check.png"
+			alt="green check mark"/></td>
+		<td><img
+			src="https://github.com/jloughry/Unicode/raw/master/graphics/green_check.png"
+			alt="green check mark"/></td>
+		<td><img
+			src="https://github.com/jloughry/Unicode/raw/master/graphics/green_check.png"
+			alt="green check mark"/></td>
+		<td><img
+			src="https://github.com/jloughry/Unicode/raw/master/graphics/green_check.png"
+			alt="green check mark"/></td>
+		<td><img
+			src="https://github.com/jloughry/Unicode/raw/master/graphics/green_check.png"
+			alt="green check mark"/></td>
 	</tr>
 	<tr><td>Sea Monkey</td><td>2.24</td><td>Mac OS X 10.7.5 (Intel)</td>
-		<td><img src="graphics/green_check.png" alt="check"/></td>
-		<td><img src="graphics/green_check.png" alt="check"/></td>
-		<td><img src="graphics/green_check.png" alt="check"/></td>
-		<td><img src="graphics/green_check.png" alt="check"/></td>
-		<td><img src="graphics/red_x.png" alt="red X"/><sup>*</sup></td>
+		<td><img
+			src="https://github.com/jloughry/Unicode/raw/master/graphics/green_check.png"
+			alt="green check mark"/></td>
+		<td><img
+			src="https://github.com/jloughry/Unicode/raw/master/graphics/green_check.png"
+			alt="green check mark"/></td>
+		<td><img
+			src="https://github.com/jloughry/Unicode/raw/master/graphics/green_check.png"
+			alt="green check mark"/></td>
+		<td><img
+			src="https://github.com/jloughry/Unicode/raw/master/graphics/green_check.png"
+			alt="green check mark"/></td>
+		<td><img
+			src="https://github.com/jloughry/Unicode/raw/master/graphics/red_x.png"
+			alt="red X"/><sup>*</sup></td>
 	</tr>
 </table>
 
-<sup>\*</sup> Displays a small box with hexadecimal numbers in it like this:&nbsp;
-	<img src="graphics/box_with_numbers.png" alt="small box with numbers in it"/>.
+<sup>\*</sup> Displays a small box with hexadecimal numbers in it like this:&nbsp; <img
+	src="https://github.com/jloughry/Unicode/raw/master/graphics/box_with_numbers.png"
+	alt="small box with numbers in it"/>.
 <br/>
-<sup>&dagger;</sup> Displays an empty box like this: <img src="graphics/empty_box.png"
+<sup>&dagger;</sup> Displays an empty box like this: <img
+	src="https://github.com/jloughry/Unicode/raw/master/graphics/empty_box.png"
 	alt="empty box"/>.
 <br/>
 <sup>&Dagger;</sup> See <a
@@ -777,8 +924,9 @@ for more information on Unicode support in Chrome under Windows.
 <sup>&#x2225;</sup> Partial support (everything but BLACK WANING CRESCENT MOON works) using
 [font embedding in CSS](#font-embedding-test).
 <br/>
-<sup>&para;</sup> Displays a black box like this: <img src="graphics/black_box.png"
-alt="black box"/>.
+<sup>&para;</sup> Displays a black box like this: <img
+	src="https://github.com/jloughry/Unicode/raw/master/graphics/black_box.png"
+	alt="black box"/>.
 
 References
 ----------
