@@ -1,1 +1,2 @@
-moved browser tests up, followed by test results
+add new footnote; Safari, on the CSS (embedded font) test page, displays a black box for the
+BLACK WANING CRESCENT MOON

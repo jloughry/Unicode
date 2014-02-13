@@ -709,7 +709,7 @@ uses font embedding in HTML and should work on more browsers.
 		<td><img src="graphics/green_check.png" alt="check"/></td>
 		<td><img src="graphics/red_x.png" alt="red X"/><sup>&dagger;</sup></td>
 	</tr>
-	<tr><td>Safari <sup>**</sup></td><td>5.1.7 (7534.57.2)</td><td>Windows XP Professional
+	<tr><td>Safari <sup>&#x2225;</sup></td><td>5.1.7 (7534.57.2)</td><td>Windows XP Professional
 		Service Pack 3</td>
 		<td><img src="graphics/red_x.png" alt="red X"/><sup>&dagger;</sup></td>
 		<td><img src="graphics/red_x.png" alt="red X"/><sup>&dagger;</sup></td>
@@ -722,7 +722,7 @@ uses font embedding in HTML and should work on more browsers.
 		<td><img src="graphics/green_check.png" alt="check"/></td>
 		<td><img src="graphics/green_check.png" alt="check"/></td>
 		<td><img src="graphics/green_check.png" alt="check"/></td>
-		<td><img src="graphics/red_x.png" alt="red X"/><sup>&dagger;</sup></td>
+		<td><img src="graphics/red_x.png" alt="red X"/><sup>&para;</sup></td>
 	</tr>
 	<tr><td>Safari</td><td>5.1.10 (6534.59.10)</td><td>Mac OX X 10.6.8 (Intel)</td>
 		<td><img src="graphics/green_check.png" alt="check"/></td>
@@ -774,8 +774,10 @@ for more information on Unicode support in Chrome under Windows.
 <sup>&sect;</sup> Full support on these devices (everything works correctly) using
 [font embedding in CSS](#font-embedding-test).
 <br/>
-<sup>\*\*</sup> Partial support (everything but BLACK WANING CRESCENT MOON works) using
+<sup>&#x2225;</sup> Partial support (everything but BLACK WANING CRESCENT MOON works) using
 [font embedding in CSS](#font-embedding-test).
+<br/>
+<sup>&para;</sup> Displays a black box like this: <img src="graphics/black_box.png" alt="black box"/>
 
 References
 ----------
