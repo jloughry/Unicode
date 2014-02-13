@@ -625,8 +625,25 @@ circle from the small circle, thereby yielding immediately the desired crescent 
 In either case, fill the crescent with black and rotate it 23.44&deg; anti-clockwise
 around the centre of the smaller circle to complete the drawing.
 
-Web Browser Test Results<a name="update20140212"/>
-------------------------
+Web Browser Testing<a name="update20140212"/>
+-------------------
+
+### Straight Compatibility Test
+
+Here are the new characters displayed without using HTML font embedding: can you see all of them?
+
+- &#x23FB; POWER SYMBOL
+- &#x23FC; POWER ON-OFF SYMBOL
+- &#x23FD; POWER ON SYMBOL
+- &#x2B58; HEAVY CIRCLE (POWER OFF)
+- &#x1F32D; BLACK WANING CRESCENT MOON (SLEEP)
+
+### <a name="font-embedding-test"/>HTML Font Embedding Test
+
+[This page](http://call-with-current-continuation.com/unicode_font_test_page.html)
+uses font embedding in HTML and should work on more browsers.
+
+### Test Results
 
 <table>
 	<tr><th>Application</th><th>Version</th><th>Platform</th><th colspan="5">Results</th></tr>
@@ -757,23 +774,8 @@ for more information on Unicode support in Chrome under Windows.
 <sup>&sect;</sup> Full support on these devices (everything works correctly) using
 [font embedding in CSS](#font-embedding-test).
 <br/>
-<sup>\*\*</sup> Partial support (everything but BLACK WANING CRESCENT MOON works correctly) using
+<sup>\*\*</sup> Partial support (everything but BLACK WANING CRESCENT MOON works) using
 [font embedding in CSS](#font-embedding-test).
-
-### Straight Compatibility Test
-
-Here are the new characters displayed without using HTML font embedding: can you see all of them?
-
-- &#x23FB; POWER SYMBOL
-- &#x23FC; POWER ON-OFF SYMBOL
-- &#x23FD; POWER ON SYMBOL
-- &#x2B58; HEAVY CIRCLE (POWER OFF)
-- &#x1F32D; BLACK WANING CRESCENT MOON (SLEEP)
-
-### <a name="font-embedding-test"/>HTML Font Embedding Test
-
-[This page](http://call-with-current-continuation.com/unicode_font_test_page.html)
-uses font embedding in HTML and should work on more browsers.
 
 References
 ----------
