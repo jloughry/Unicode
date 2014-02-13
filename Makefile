@@ -6,6 +6,7 @@ source_file = $(target).tex
 pdf_file = $(target).pdf
 ps_file = $(target).ps
 submission_name = power_symbol_proposal.pdf
+css_font_embedding_test_page = ../jloughry.github.io/unicode_font_test_page.html
 
 latex_cmd = xelatex
 
@@ -40,6 +41,9 @@ proposal:
 	vi $(source_file)
 
 vi: proposal
+
+css:
+	(cd ../jloughry.github.io && make unicode)
 
 spell::
 	aspell --lang=en_GB -t check $(source_file)

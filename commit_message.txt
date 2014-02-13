@@ -1,2 +1,1 @@
-add new footnote; Safari, on the CSS (embedded font) test page, displays a black box for the
-BLACK WANING CRESCENT MOON
+improved CSS font embedding test page and updated Makefile to make the test page easier to edit
