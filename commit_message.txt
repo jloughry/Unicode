@@ -1,1 +1,1 @@
-added iPad test results
+added row to browser test table for Chrome with font embedding

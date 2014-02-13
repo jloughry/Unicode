@@ -678,6 +678,13 @@ Web Browser Test Results<a name="update20140212"/>
 		<td><img src="graphics/red_x.png" alt="red X"/><sup>&dagger;</sup></td>
 		<td><img src="graphics/red_x.png" alt="red X"/><sup>&dagger;</sup></td>
 	</tr>
+	<tr><td colspan="3">using font embedding in CSS</td>
+		<td><img src="graphics/green_check.png" alt="check"/></td>
+		<td><img src="graphics/green_check.png" alt="check"/></td>
+		<td><img src="graphics/green_check.png" alt="check"/></td>
+		<td><img src="graphics/green_check.png" alt="check"/></td>
+		<td><img src="graphics/green_check.png" alt="check"/></td>
+	</tr>
 	<tr><td>Chrome</td><td>32.0.1700.107</td><td>Mac OS X 10.7.5 (Intel)</td>
 		<td><img src="graphics/green_check.png" alt="check"/></td>
 		<td><img src="graphics/green_check.png" alt="check"/></td>
