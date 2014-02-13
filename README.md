@@ -685,7 +685,7 @@ Web Browser Test Results<a name="update20140212"/>
 		<td><img src="graphics/green_check.png" alt="check"/></td>
 		<td><img src="graphics/red_x.png" alt="red X"/><sup>&dagger;</sup></td>
 	</tr>
-	<tr><td>Safari <sup>**</sup></td><td>5.1.7 (7534.57.2)</td><td>Windows XP Professional
+	<tr><td>Safari <sup>\*\*</sup></td><td>5.1.7 (7534.57.2)</td><td>Windows XP Professional
 		Service Pack 3</td>
 		<td><img src="graphics/red_x.png" alt="red X"/><sup>&dagger;</sup></td>
 		<td><img src="graphics/red_x.png" alt="red X"/><sup>&dagger;</sup></td>
@@ -723,7 +723,7 @@ Web Browser Test Results<a name="update20140212"/>
 	</tr>
 </table>
 
-<sup>*</sup> Displays a small box with hexadecimal numbers in it like this:&nbsp;
+<sup>\*</sup> Displays a small box with hexadecimal numbers in it like this:&nbsp;
 	<img src="graphics/box_with_numbers.png" alt="small box with numbers in it"/>
 <br/>
 <sup>&dagger;</sup> Displays an empty box like this: <img src="graphics/empty_box.png"
@@ -735,7 +735,7 @@ for more information on Unicode support in Chrome under Windows.
 <br/>
 <sup>&sect;</sup> Full support (works correctly) using [font embedding in CSS](#font-embedding-test).
 <br/>
-<sup>**</sup> Partial support (all but BLACK WANING CRESCENT MOON work correctly) using
+<sup>\*\*</sup> Partial support (all but BLACK WANING CRESCENT MOON work correctly) using
 [font embedding in CSS](#font-embedding-test).
 
 ### Straight Compatibility Test
