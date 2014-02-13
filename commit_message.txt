@@ -1,1 +1,1 @@
-provide a link to the unicode_font_test_page.html file for testing font embedding in HTML
+add footnotes to compatibility table for CSS font embedding support under Safari and Chrome

@@ -670,7 +670,8 @@ Web Browser Test Results<a name="update20140212"/>
 		<td><img src="graphics/green_check.png" alt="check"/></td>
 		<td><img src="graphics/green_check.png" alt="check"/></td>
 	</tr>
-	<tr><td>Chrome</td><td>32.0.1700.107 m</td><td>Windows XP Professional Service Pack 3</td>
+	<tr><td>Chrome<sup>&sect;</sup></td><td>32.0.1700.107 m</td><td>Windows XP Professional
+		Service Pack 3</td>
 		<td><img src="graphics/red_x.png" alt="red X"/><sup>&dagger;</sup></td>
 		<td><img src="graphics/red_x.png" alt="red X"/><sup>&dagger;</sup></td>
 		<td><img src="graphics/red_x.png" alt="red X"/><sup>&dagger;</sup></td>
@@ -684,7 +685,8 @@ Web Browser Test Results<a name="update20140212"/>
 		<td><img src="graphics/green_check.png" alt="check"/></td>
 		<td><img src="graphics/red_x.png" alt="red X"/><sup>&dagger;</sup></td>
 	</tr>
-	<tr><td>Safari</td><td>5.1.7 (7534.57.2)</td><td>Windows XP Professional Service Pack 3</td>
+	<tr><td>Safari<sup>**</sup></td><td>5.1.7 (7534.57.2)</td><td>Windows XP Professional
+		Service Pack 3</td>
 		<td><img src="graphics/red_x.png" alt="red X"/><sup>&dagger;</sup></td>
 		<td><img src="graphics/red_x.png" alt="red X"/><sup>&dagger;</sup></td>
 		<td><img src="graphics/red_x.png" alt="red X"/><sup>&dagger;</sup></td>
@@ -730,6 +732,10 @@ Web Browser Test Results<a name="update20140212"/>
 <sup>&Dagger;</sup> See <a
 href="http://gschoppe.com/blog/fixing-unicode-support-in-google-chrome/">http://gschoppe.com/blog/fixing-unicode-support-in-google-chrome/</a>
 for more information on Unicode support in Chrome under Windows.
+<sup>&sect;</sup> Full support (works correctly) using [font embedding in CSS](#font-embedding-test).
+<br/>
+<sup>**</sup> Partial support (all but BLACK WANING CRESCENT MOON work correctly) using
+[font embedding in CSS](#font-embedding-test).
 
 ### Straight Compatibility Test
 
@@ -741,7 +747,7 @@ Here are the new characters displayed without using HTML font embedding: can you
 - &#x2B58; HEAVY CIRCLE (POWER OFF)
 - &#x1F32D; BLACK WANING CRESCENT MOON (SLEEP)
 
-### HTML Font Embedding Test
+### <a name="font-embedding-text">HTML Font Embedding Test
 
 [This page](https://github.com/jloughry/Unicode/raw/master/unicode_font_test_page.html?raw=true)
 uses font embedding in HTML and should work on more browsers.
