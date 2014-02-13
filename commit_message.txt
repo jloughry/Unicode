@@ -1,1 +1,1 @@
-added row to browser test table for Chrome with font embedding
+added a row to table for Safari on Windows with font embedding in CSS

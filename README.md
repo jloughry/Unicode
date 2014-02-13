@@ -678,7 +678,7 @@ Web Browser Test Results<a name="update20140212"/>
 		<td><img src="graphics/red_x.png" alt="red X"/><sup>&dagger;</sup></td>
 		<td><img src="graphics/red_x.png" alt="red X"/><sup>&dagger;</sup></td>
 	</tr>
-	<tr><td colspan="3">using font embedding in CSS</td>
+	<tr><td colspan="3" align="center">(Chrome with font embedding in CSS)</td>
 		<td><img src="graphics/green_check.png" alt="check"/></td>
 		<td><img src="graphics/green_check.png" alt="check"/></td>
 		<td><img src="graphics/green_check.png" alt="check"/></td>
@@ -698,6 +698,13 @@ Web Browser Test Results<a name="update20140212"/>
 		<td><img src="graphics/red_x.png" alt="red X"/><sup>&dagger;</sup></td>
 		<td><img src="graphics/red_x.png" alt="red X"/><sup>&dagger;</sup></td>
 		<td><img src="graphics/red_x.png" alt="red X"/><sup>&dagger;</sup></td>
+		<td><img src="graphics/red_x.png" alt="red X"/><sup>&dagger;</sup></td>
+	</tr>
+	<tr><td colspan="3" align="center">(Safari with font embedding in CSS)</td>
+		<td><img src="graphics/green_check.png" alt="check"/></td>
+		<td><img src="graphics/green_check.png" alt="check"/></td>
+		<td><img src="graphics/green_check.png" alt="check"/></td>
+		<td><img src="graphics/green_check.png" alt="check"/></td>
 		<td><img src="graphics/red_x.png" alt="red X"/><sup>&dagger;</sup></td>
 	</tr>
 	<tr><td>Safari</td><td>5.1.10 (6534.59.10)</td><td>Mac OX X 10.6.8 (Intel)</td>
