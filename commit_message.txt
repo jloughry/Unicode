@@ -1,1 +1,1 @@
-add footnotes to compatibility table for CSS font embedding support under Safari and Chrome
+fix broken link; I hate Markdown
