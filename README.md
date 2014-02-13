@@ -684,7 +684,7 @@ Web Browser Test Results<a name="update20140212"/>
 		<td><img src="graphics/green_check.png" alt="check"/></td>
 		<td><img src="graphics/red_x.png" alt="red X"/><sup>&dagger;</sup></td>
 	</tr>
-	tr><td>Safari</td><td>5.1.7 (7534.57.2)</td><td>Windows XP Professional Service Pack 3</td>
+	<tr><td>Safari</td><td>5.1.7 (7534.57.2)</td><td>Windows XP Professional Service Pack 3</td>
 		<td><img src="graphics/red_x.png" alt="red X"/><sup>&dagger;</sup></td>
 		<td><img src="graphics/red_x.png" alt="red X"/><sup>&dagger;</sup></td>
 		<td><img src="graphics/red_x.png" alt="red X"/><sup>&dagger;</sup></td>
@@ -721,12 +721,32 @@ Web Browser Test Results<a name="update20140212"/>
 	</tr>
 </table>
 
-<sup>*</sup>Displays a small box with hexadecimal numbers in it like this:&bnsp;
+<sup>*</sup> Displays a small box with hexadecimal numbers in it like this:&nbsp;
 	<img src="graphics/box_with_numbers.png" alt="small box with numbers in it"/>
 <br/>
-<sup>&dagger;</sup>Displays an empty box like this: <img src="graphics/empty_box.png" alt="empty box"/>
+<sup>&dagger;</sup> Displays an empty box like this: <img src="graphics/empty_box.png"
+	alt="empty box"/>
+<br/>
+<sup>&Dagger;</sup> See <a
+href="http://gschoppe.com/blog/fixing-unicode-support-in-google-chrome/">http://gschoppe.com/blog/fixing-unicode-support-in-google-chrome/</a>
+for more information on Unicode support in Chrome under Windows.
 
 ### Compatibility Test
+
+<style type="text/css">
+@font-face {
+    font-family: "IEC Unicode Symbols";
+    src: url(https://github.com/jloughry/Unicode/blob/master/Unicode_IEC_symbol_font.ttf?raw=true)
+		format("truetype");
+}
+p.customfont { 
+    font-family: "IEC Unicode Symbols", Verdana, Tahoma;
+}
+</style>
+<p class="customfont">
+If font embedding is working, the &#x23FB; characters &#x23FC; should &#x23FD; appear
+&#x2B58; here &#x1F32D;.
+</p>
 
 Here are the new characters displayed directly: can you see all of them?
 

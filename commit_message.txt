@@ -1,1 +1,1 @@
-verify test results in table
+test font embedding (trying to get them to display in Chrome and on the iPad)
