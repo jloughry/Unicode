@@ -733,21 +733,6 @@ for more information on Unicode support in Chrome under Windows.
 
 ### Compatibility Test
 
-<style type="text/css">
-@font-face {
-    font-family: "IEC Unicode Symbols";
-    src: url(https://github.com/jloughry/Unicode/blob/master/Unicode_IEC_symbol_font.ttf?raw=true)
-		format("truetype");
-}
-p.customfont { 
-    font-family: "IEC Unicode Symbols", Verdana, Tahoma;
-}
-</style>
-<p class="customfont">
-If font embedding is working, the &#x23FB; characters &#x23FC; should &#x23FD; appear
-&#x2B58; here &#x1F32D;.
-</p>
-
 Here are the new characters displayed directly: can you see all of them?
 
 - &#x23FB; POWER SYMBOL

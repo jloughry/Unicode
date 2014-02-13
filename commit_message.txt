@@ -1,1 +1,1 @@
-test font embedding (trying to get them to display in Chrome and on the iPad)
+<style> font embedding doesn't work in Markdown, but it does work in plain HTML
