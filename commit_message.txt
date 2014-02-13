@@ -1,1 +1,1 @@
-fix escaped asterisks in footnote mark (I hate Markdown)
+added iPad test results

@@ -714,6 +714,13 @@ Web Browser Test Results<a name="update20140212"/>
 		<td><img src="graphics/green_check.png" alt="check"/></td>
 		<td><img src="graphics/green_check.png" alt="check"/></td>
 	</tr>
+	<tr><td>Safari <sup>&sect;</sup></td><td>7.0.4 (11B554a)</td><td>iPad</td>
+		<td><img src="graphics/green_check.png" alt="check"/></td>
+		<td><img src="graphics/green_check.png" alt="check"/></td>
+		<td><img src="graphics/green_check.png" alt="check"/></td>
+		<td><img src="graphics/green_check.png" alt="check"/></td>
+		<td><img src="graphics/green_check.png" alt="check"/></td>
+	</tr>
 	<tr><td>Sea Monkey</td><td>2.24</td><td>Mac OS X 10.7.5 (Intel)</td>
 		<td><img src="graphics/green_check.png" alt="check"/></td>
 		<td><img src="graphics/green_check.png" alt="check"/></td>
@@ -733,10 +740,10 @@ Web Browser Test Results<a name="update20140212"/>
 href="http://gschoppe.com/blog/fixing-unicode-support-in-google-chrome/">http://gschoppe.com/blog/fixing-unicode-support-in-google-chrome/</a>
 for more information on Unicode support in Chrome under Windows.
 <br/>
-<sup>&sect;</sup> Full support in Chrome (everything works correctly) using
+<sup>&sect;</sup> Full support on these devices (everything works correctly) using
 [font embedding in CSS](#font-embedding-test).
 <br/>
-<sup>\*\*</sup> Partial support in Safari (all but BLACK WANING CRESCENT MOON work correctly) using
+<sup>\*\*</sup> Partial support (everything but BLACK WANING CRESCENT MOON works correctly) using
 [font embedding in CSS](#font-embedding-test).
 
 ### Straight Compatibility Test
