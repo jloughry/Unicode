@@ -1,1 +1,1 @@
-<style> font embedding doesn't work in Markdown, but it does work in plain HTML
+provide a link to the unicode_font_test_page.html file for testing font embedding in HTML

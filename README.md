@@ -731,15 +731,20 @@ Web Browser Test Results<a name="update20140212"/>
 href="http://gschoppe.com/blog/fixing-unicode-support-in-google-chrome/">http://gschoppe.com/blog/fixing-unicode-support-in-google-chrome/</a>
 for more information on Unicode support in Chrome under Windows.
 
-### Compatibility Test
+### Straight Compatibility Test
 
-Here are the new characters displayed directly: can you see all of them?
+Here are the new characters displayed without using HTML font embedding: can you see all of them?
 
 - &#x23FB; POWER SYMBOL
 - &#x23FC; POWER ON-OFF SYMBOL
 - &#x23FD; POWER ON SYMBOL
 - &#x2B58; HEAVY CIRCLE (POWER OFF)
 - &#x1F32D; BLACK WANING CRESCENT MOON (SLEEP)
+
+### HTML Font Embedding Test
+
+[This page](https://github.com/jloughry/Unicode/raw/master/unicode_font_test_page.html?raw=true)
+uses font embedding in HTML and should work on more browsers.
 
 References
 ----------
