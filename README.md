@@ -762,10 +762,10 @@ uses font embedding in HTML and should work on more browsers.
 </table>
 
 <sup>\*</sup> Displays a small box with hexadecimal numbers in it like this:&nbsp;
-	<img src="graphics/box_with_numbers.png" alt="small box with numbers in it"/>
+	<img src="graphics/box_with_numbers.png" alt="small box with numbers in it"/>.
 <br/>
 <sup>&dagger;</sup> Displays an empty box like this: <img src="graphics/empty_box.png"
-	alt="empty box"/>
+	alt="empty box"/>.
 <br/>
 <sup>&Dagger;</sup> See <a
 href="http://gschoppe.com/blog/fixing-unicode-support-in-google-chrome/">http://gschoppe.com/blog/fixing-unicode-support-in-google-chrome/</a>
@@ -777,7 +777,8 @@ for more information on Unicode support in Chrome under Windows.
 <sup>&#x2225;</sup> Partial support (everything but BLACK WANING CRESCENT MOON works) using
 [font embedding in CSS](#font-embedding-test).
 <br/>
-<sup>&para;</sup> Displays a black box like this: <img src="graphics/black_box.png" alt="black box"/>
+<sup>&para;</sup> Displays a black box like this: <img src="graphics/black_box.png"
+alt="black box"/>.
 
 References
 ----------
