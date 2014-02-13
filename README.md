@@ -750,7 +750,7 @@ Here are the new characters displayed without using HTML font embedding: can you
 
 ### <a name="font-embedding-test"/>HTML Font Embedding Test
 
-[This page](https://github.com/jloughry/Unicode/raw/master/unicode_font_test_page.html?raw=true)
+[This page](http://call-with-current-continuation.com/unicode_font_test_page.html)
 uses font embedding in HTML and should work on more browsers.
 
 References
