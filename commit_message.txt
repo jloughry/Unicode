@@ -1,1 +1,1 @@
-add lessons learnt
+fix broken image link and expand lessons learnt

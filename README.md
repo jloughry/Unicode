@@ -18,18 +18,23 @@ It's time to start thinking about how to explain this to [HN](https://news.ycomb
 1. **Attestations are everything.** Committee members need to evidence *that the characters
 are already in common use* in running text before a proposal will be accepted.
 
-2. Successful proposals cover every angle and possible objection before they're raised in
+2. Successful proposals **cover every angle and possible objection** before they're raised in
 committee.
 
-3. It is possible to do in a reasonable amount of time (about two months, start to finish,
+3. It is possible to do in a **reasonable amount of time** (about two months, start to finish,
 in our case).
 
-4. Some artistic drawing talent may be helpful.
+4. Some **artistic drawing talent** may be helpful.
 
-5. See our [proposal]() for a successful example.
+5. **Friends on the web** are an invaluable resource; they appear out of nowhere, provide
+free technical reviewing services, volunteer their time, and lend a hand. We couldn't
+have done it without them.
+
+See our [successful proposal](https://github.com/jloughry/Unicode/raw/master/proposal.pdf)
+and use it as a model for your own.
 
 <hr/>
-<sup>*</sup These symbols:
+<sup>*</sup> These symbols:
 <img src="https://github.com/jloughry/Unicode/raw/master/graphics/18px-Unicode_POWER_SYMBOL.png" alt="Unicode POWER SYMBOL"/>,
 <img src="https://github.com/jloughry/Unicode/raw/master/graphics/18px-Unicode_POWER_ON-OFF_SYMBOL.png" alt="Unicode POWER ON-OFF SYMBOL"/>,
 <img src="https://github.com/jloughry/Unicode/raw/master/graphics/3px-Unicode_POWER_ON_SYMBOL.png" alt="Unicode POWER ON SYMBOL"/>,
