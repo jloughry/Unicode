@@ -1,1 +1,1 @@
-improve presentation if the reader doesn't have the font installed yet
+add lessons learnt

@@ -6,18 +6,36 @@ Proposal to Add the &#x23FB; IEC 60417-5009 Power Symbol to Unicode
 Success!
 --------
 
-The 235B &#x23FB;, 23FC &#x23FC;, 23FD &#x23FD;, 2B58 &#x2B58;, and 1F32D &#x1F32D; characters
-(these symbols,
-<img src="https://github.com/jloughry/Unicode/raw/master/graphics/18px-Unicode_POWER_SYMBOL.png" alt="Unicode POWER SYMBOL"/>,
-<img src="https://github.com/jloughry/Unicode/raw/master/graphics/18px-Unicode_POWER_ON-OFF_SYMBOL.png" alt="Unicode POWER ON-OFF SYMBOL"/>,
-<img src="https://github.com/jloughry/Unicode/raw/master/graphics/3px-Unicode_POWER_ON_SYMBOL.png" alt="Unicode POWER ON SYMBOL"/>,
-<img src="https://github.com/jloughry/Unicode/raw/master/graphics/18px-Unicode_HEAVY_CIRCLE.png" alt="Unicode HEAVY CIRCLE"/>, and
-<img src="https://github.com/jloughry/Unicode/raw/master/graphics/18px-Unicode_BLACK_WANING_CRESCENT_MOON.png" alt="Unicode BLACK WANING CRESCENT MOON"/>
-if you don't have the font and can't see them yet) now appear in the Unicode
+The 235B &#x23FB;, 23FC &#x23FC;, 23FD &#x23FD;, 2B58 &#x2B58;, and 1F32D &#x1F32D;
+characters<sup>*</sup> now appear in the Unicode
 [Pipeline Table](http://www.unicode.org/alloc/Pipeline.html) with the status of
 &ldquo;Accepted&rdquo; (and still at the beginning of the ISO process).
 
 It's time to start thinking about how to explain this to [HN](https://news.ycombinator.com/).
+
+### Lessons learnt:
+
+1. **Attestations are everything.** Committee members need to evidence *that the characters
+are already in common use* in running text before a proposal will be accepted.
+
+2. Successful proposals cover every angle and possible objection before they're raised in
+committee.
+
+3. It is possible to do in a reasonable amount of time (about two months, start to finish,
+in our case).
+
+4. Some artistic drawing talent may be helpful.
+
+5. See our [proposal]() for a successful example.
+
+<hr/>
+<sup>*</sup These symbols:
+<img src="https://github.com/jloughry/Unicode/raw/master/graphics/18px-Unicode_POWER_SYMBOL.png" alt="Unicode POWER SYMBOL"/>,
+<img src="https://github.com/jloughry/Unicode/raw/master/graphics/18px-Unicode_POWER_ON-OFF_SYMBOL.png" alt="Unicode POWER ON-OFF SYMBOL"/>,
+<img src="https://github.com/jloughry/Unicode/raw/master/graphics/3px-Unicode_POWER_ON_SYMBOL.png" alt="Unicode POWER ON SYMBOL"/>,
+<img src="https://github.com/jloughry/Unicode/raw/master/graphics/18px-Unicode_HEAVY_CIRCLE.png" alt="Unicode HEAVY CIRCLE"/>, and
+<img src="https://github.com/jloughry/Unicode/raw/master/graphics/18px-Unicode_BLACK_WANING_CRESCENT_MOON.png" alt="Unicode BLACK WANING CRESCENT MOON"/>,
+if you don't have the font and can't see them yet.
 
 Get the Fonts Here
 ------------------
