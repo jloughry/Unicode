@@ -926,7 +926,7 @@ for more information on Unicode support in Chrome under Windows.
 <br/>
 <sup>&para;</sup> Safari displays a black box for BLACK WANING CRESCENT MOON, like this: <img
 	src="https://github.com/jloughry/Unicode/raw/master/graphics/black_box.png"/>.
-	alt="black square"/>
+	alt="black box"/>
 
 End of footnotes.
 
