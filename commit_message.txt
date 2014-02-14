@@ -1,1 +1,1 @@
-news update: the characters appear in the Unicode Pipeline
+improve presentation if the reader doesn't have the font installed yet
