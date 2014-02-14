@@ -925,8 +925,8 @@ for more information on Unicode support in Chrome under Windows.
 [font embedding in CSS](#font-embedding-test).
 <br/>
 <sup>&para;</sup> Safari displays a black box for BLACK WANING CRESCENT MOON, like this: <img
-	alt="black square"
-	src="https://github.com/jloughry/Unicode/raw/master/graphics/black_square.png"/>.
+	src="https://github.com/jloughry/Unicode/raw/master/graphics/black_box.png"/>.
+	alt="black square"/>
 
 End of footnotes.
 
