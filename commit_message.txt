@@ -1,1 +1,1 @@
-The test was inconclusive and I don't want to spam more commits over it; it's working now
+news update: the characters appear in the Unicode Pipeline

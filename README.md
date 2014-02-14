@@ -3,6 +3,29 @@ Proposal to Add the &#x23FB; IEC 60417-5009 Power Symbol to Unicode
 
 [Joe Loughry](mailto:joe.loughry@stx.ox.ac.uk), originally 1st December 2013.
 
+Success!
+--------
+
+The 235B &#x23FB; (<img
+src="https://github.com/jloughry/Unicode/raw/master/graphics/18px-Unicode_POWER_SYMBOL.png"
+alt="Unicode POWER SYMBOL"/>),
+23FC &#x23FC; (<img
+src="https://github.com/jloughry/Unicode/raw/master/graphics/18px-Unicode_POWER_ON-OFF_SYMBOL.png"
+alt="Unicode POWER ON-OFF SYMBOL"/>),
+23FD &#x23FD; (<img
+src="https://github.com/jloughry/Unicode/raw/master/graphics/3px-Unicode_POWER_ON_SYMBOL.png"
+alt="Unicode POWER ON SYMBOL"/>),
+2B58 &#x2B58; (<img
+src="https://github.com/jloughry/Unicode/raw/master/graphics/18px-Unicode_HEAVY_CIRCLE.png"
+alt="Unicode HEAVY CIRCLE"/>), and
+1F32D &#x1F32D; (<img
+src="https://github.com/jloughry/Unicode/raw/master/graphics/18px-Unicode_BLACK_WANING_CRESCENT_MOON.png"
+alt="Unicode BLACK WANING CRESCENT MOON"/>) characters now appear in the Unicode
+[Pipeline Table](http://www.unicode.org/alloc/Pipeline.html) with the status of
+&ldquo;Accepted&rdquo; (and still at the beginning of the ISO process).
+
+It's time to start thinking about how to explain this to [HN](https://news.ycombinator.com/).
+
 Get the Fonts Here
 ------------------
 
@@ -15,6 +38,13 @@ If you have the font installed, the &#x23FB; characters &#x23FC; should &#x23FD;
 
 Latest Updates
 --------------
+
+*(14th February 2014)*
+
+- The new characters appear in the
+[Pipeline Table](http://www.unicode.org/alloc/Pipeline.html).
+
+- Starting a write-up for [Hacker News](https://news.ycombinator.com/) (not published yet).
 
 *(12th February 2014)*
 
