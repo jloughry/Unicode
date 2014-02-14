@@ -1,1 +1,1 @@
-fix http paths in graphics files
+trying to debug one <img> tag that won't display.

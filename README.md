@@ -925,8 +925,10 @@ for more information on Unicode support in Chrome under Windows.
 [font embedding in CSS](#font-embedding-test).
 <br/>
 <sup>&para;</sup> Displays a black box like this: <img
-	src="https://github.com/jloughry/Unicode/raw/master/graphics/black_box.png"
-	alt="black box"/>.
+	alt="black box"
+	src="https://github.com/jloughry/Unicode/raw/master/graphics/black_box.png"/>.
+
+End of footnotes.
 
 References
 ----------
