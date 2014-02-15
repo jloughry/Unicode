@@ -37,11 +37,27 @@ start to finish, in our case).
 
 4. Some [**artistic drawing talent**](#update20140206) may be helpful.
 
-5. **Friends on the web** are an invaluable resource; sometimes they appear out of nowhere,
+5. The right tool for font design is surprisingly important. A custom font is needed early
+in the process because it's needed to write the proposal, but design the font from the beginning
+to employ arbitrary Unicode code points, because you won't know until late in the process what
+the actual code points will be. Chose a range in the
+[Private Use Area](http://en.wikipedia.org/wiki/Private_Use_Areas) (E000 to F8FF) as a placeholder
+until the UTC suggests real code points. This is a way of ensuring that you don't get wrapped up
+in a font design tool that doesn't support Unicode&mdash;especially code points above
+FFFF&mdash;which lots of programmes still don't support correctly. (See
+[Notes on Tools for Creating Fonts](#update20140202) below for more information on free font
+design tools that work.) Choose a font file format&mdash;SVG is good&mdash;that can handle metadata
+so it's possible to embed the font licence and designer's contact information in the font file.
+*The glyphs that will be standardised, that all subsequent font designers will follow, will be
+defined by the final font you submit.* But official font submission happens later in the process;
+our proposal has been formally accepted and we haven't been asked for the official font yet,
+so we still have an opportunity to [fine-tune](#update20140205) the glyphs before then.
+
+6. **Friends on the web** are an invaluable resource; sometimes they appear out of nowhere,
 provide free technical reviewing services, volunteer their time, and lend a hand. We couldn't
 have done it without them.
 
-6. See our [successful proposal](https://github.com/jloughry/Unicode/raw/master/proposal.pdf)
+7. See our [successful proposal](https://github.com/jloughry/Unicode/raw/master/proposal.pdf)
 here and use it as a model for your own.
 
 <a name="success-footnotes"/>
