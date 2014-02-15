@@ -130,7 +130,7 @@ according to revision notes from UTC #138.
 - <a name="phase-of-the-moon"/>The <img
 src="https://github.com/jloughry/Unicode/raw/master/graphics/18px-Unicode_POWER_SLEEP_SYMBOL.svg.png"
 alt="Unicode POWER SLEEP SYMBOL"/> (POWER SLEEP SYMBOL) character now exhibits the
-[correct phase of the moon](#20140206).
+[correct phase of the moon](#update20140206).
 
 - Updated [TO-DO](#TO-DO) list for wish-list items like `&power;`.
 
