@@ -1,1 +1,1 @@
-added lessons learnt about font design tools
+add note on wasted work (mnemonically encoding characters in first font)

@@ -40,11 +40,11 @@ start to finish, in our case).
 5. The right tool for font design is surprisingly important. A custom font is needed early
 in the process because it's needed to write the proposal, but design the font from the beginning
 to employ arbitrary Unicode code points, because you won't know until late in the process what
-the actual code points will be. Chose a range in the
-[Private Use Area](http://en.wikipedia.org/wiki/Private_Use_Areas) (E000 to F8FF) as a placeholder
-until the UTC suggests real code points. This is a way of ensuring that you don't get wrapped up
-in a font design tool that doesn't support Unicode&mdash;especially code points above
-FFFF&mdash;which lots of programmes still don't support correctly. (See
+the actual code points will be. [All this work](#notes-on-encoding) was wasted; instead, choose
+a range in the [Private Use Area](http://en.wikipedia.org/wiki/Private_Use_Areas) (E000 to F8FF)
+as a placeholder until the UTC suggests real code points. This is a way of ensuring that you
+don't get wrapped up in a font design tool that doesn't support Unicode&mdash;especially code
+points above FFFF&mdash;which lots of programmes still don't support correctly. (See
 [Notes on Tools for Creating Fonts](#update20140202) below for more information on free font
 design tools that work.) Choose a font file format&mdash;SVG is good&mdash;that can handle metadata
 so it's possible to embed the font licence and designer's contact information in the font file.
@@ -612,7 +612,7 @@ are straightforward, but a better method is to use
 which has built-in support for TrueType fonts already installed in the OS,
 and is available in MiKTeX 2.9.
 
-Notes on Encoding
+Notes on Encoding<a name="notes-on-encoding"/>
 -----------------
 
 <em><b>Note:</b> This section is obsolete; the [new fonts](#update20140205) have
