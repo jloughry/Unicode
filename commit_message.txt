@@ -1,1 +1,1 @@
-link the compass and straightedge construction to phase of the moon
+make a new anchor closer to the source of phase-of-the-moon and link to it directly
