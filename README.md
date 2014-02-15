@@ -7,7 +7,7 @@ Success!
 --------
 
 The 23FB &#x23FB;, 23FC &#x23FC;, 23FD &#x23FD;, 2B58 &#x2B58;, and 1F32D &#x1F32D;
-characters<sup>[*](#success-footnote)</sup> now appear in the Unicode
+characters<sup>[*](#success-footnotes)</sup> now appear in the Unicode
 [Pipeline Table](http://www.unicode.org/alloc/Pipeline.html) with the status of
 &ldquo;Accepted&rdquo; (although they are still at the beginning of the ISO standard process).
 They can be used now, and designed into [fonts](#fonts), and they'll be in the next revision
@@ -15,35 +15,43 @@ of Unicode after 7.0.
 
 It's time to start thinking about how to explain this to [HN](https://news.ycombinator.com/).
 
-### Lessons learnt:
+### Lessons learnt from a successful proposal:
 
 1. **Attestations are everything.** Committee members need to see evidence *that the characters
 are already in common use* in running text before a proposal will be accepted. The more
-attestations you provide, the better.
+attestations you provide, the better. Attestations are usually photographs or scans showing the
+occurrence of the proposed characters in print. We managed to find attestations dating back to
+1984; some proposals have them going back centuries
+or millennia.<sup>[&dagger;](#success-footnotes)</sup>
 
-2. Successful proposals **cover every angle and anticipated objection** before they're raised in
-committee.
+2. Successful proposals **cover every angle and anticipated objection** before those objections
+can be raised in committee. Our proposal took the risk of pointing out disagreement and ambiguities
+around the usage of some of the characters, especially &#x23FB;; this was probably one of the
+strengths of our argument.
 
-3. It is possible to do this in a **reasonable amount of time** (around two months, start to finish,
-in our case).
+3. It is possible to do this in a **reasonable amount of time** (around two months, from
+start to finish, in our case).
 
 4. Some [**artistic drawing talent**](#update20140206) may be helpful.
 
-5. **Friends on the web** are an invaluable resource; they appear out of nowhere, provide
-free technical reviewing services, volunteer their time, and lend a hand. We couldn't
+5. **Friends on the web** are an invaluable resource; sometimes they appear out of nowhere,
+provide free technical reviewing services, volunteer their time, and lend a hand. We couldn't
 have done it without them.
 
 6. See our [successful proposal](https://github.com/jloughry/Unicode/raw/master/proposal.pdf)
-and use it as a model for your own.
+here and use it as a model for your own.
 
-<hr/>
-<sup>*<a name="success-footnote"/></sup> These symbols, by the way:
+<hr/><a name="success-footnotes"/>
+<sup>*</sup> These symbols, by the way:
 <img src="https://github.com/jloughry/Unicode/raw/master/graphics/18px-Unicode_POWER_SYMBOL.png" alt="Unicode POWER SYMBOL"/>,
 <img src="https://github.com/jloughry/Unicode/raw/master/graphics/18px-Unicode_POWER_ON-OFF_SYMBOL.png" alt="Unicode POWER ON-OFF SYMBOL"/>,
 <img src="https://github.com/jloughry/Unicode/raw/master/graphics/3px-Unicode_POWER_ON_SYMBOL.png" alt="Unicode POWER ON SYMBOL"/>,
 <img src="https://github.com/jloughry/Unicode/raw/master/graphics/18px-Unicode_HEAVY_CIRCLE.png" alt="Unicode HEAVY CIRCLE"/>, and
 <img src="https://github.com/jloughry/Unicode/raw/master/graphics/18px-Unicode_BLACK_WANING_CRESCENT_MOON.png" alt="Unicode BLACK WANING CRESCENT MOON"/>,
 if you don't have the [font](#fonts) and can't see them yet.
+
+<sup>&dagger;</sup> &#x23FD; and &#x2B58; were found in the first IBM PC operating manual
+on page 1-11, but are believed to have been in use in the late nineteen-seventies.
 
 Get the Fonts Here<a name="fonts"/>
 ------------------
