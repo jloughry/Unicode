@@ -41,7 +41,8 @@ have done it without them.
 6. See our [successful proposal](https://github.com/jloughry/Unicode/raw/master/proposal.pdf)
 here and use it as a model for your own.
 
-<hr/><a name="success-footnotes"/>
+<a name="success-footnotes"/>
+<hr/>
 <sup>*</sup> These symbols, by the way:
 <img src="https://github.com/jloughry/Unicode/raw/master/graphics/18px-Unicode_POWER_SYMBOL.png" alt="Unicode POWER SYMBOL"/>,
 <img src="https://github.com/jloughry/Unicode/raw/master/graphics/18px-Unicode_POWER_ON-OFF_SYMBOL.png" alt="Unicode POWER ON-OFF SYMBOL"/>,
