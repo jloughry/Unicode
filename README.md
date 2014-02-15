@@ -6,51 +6,58 @@ Proposal to Add the &#x23FB; IEC 60417-5009 Power Symbol to Unicode
 Success!
 --------
 
-The 235B &#x23FB;, 23FC &#x23FC;, 23FD &#x23FD;, 2B58 &#x2B58;, and 1F32D &#x1F32D;
-characters<sup>*</sup> now appear in the Unicode
+The 23FB &#x23FB;, 23FC &#x23FC;, 23FD &#x23FD;, 2B58 &#x2B58;, and 1F32D &#x1F32D;
+characters<sup>[*](#success-footnote)</sup> now appear in the Unicode
 [Pipeline Table](http://www.unicode.org/alloc/Pipeline.html) with the status of
-&ldquo;Accepted&rdquo; (and still at the beginning of the ISO process).
+&ldquo;Accepted&rdquo; (although they are still at the beginning of the ISO standard process).
+They can be used now, and designed into [fonts](#fonts), and they'll be in the next revision
+of Unicode after 7.0.
 
 It's time to start thinking about how to explain this to [HN](https://news.ycombinator.com/).
 
 ### Lessons learnt:
 
-1. **Attestations are everything.** Committee members need to evidence *that the characters
-are already in common use* in running text before a proposal will be accepted.
+1. **Attestations are everything.** Committee members need to see evidence *that the characters
+are already in common use* in running text before a proposal will be accepted. The more
+attestations you provide, the better.
 
-2. Successful proposals **cover every angle and possible objection** before they're raised in
+2. Successful proposals **cover every angle and anticipated objection** before they're raised in
 committee.
 
-3. It is possible to do in a **reasonable amount of time** (about two months, start to finish,
+3. It is possible to do this in a **reasonable amount of time** (around two months, start to finish,
 in our case).
 
-4. Some **artistic drawing talent** may be helpful.
+4. Some [**artistic drawing talent**](#update20140206) may be helpful.
 
 5. **Friends on the web** are an invaluable resource; they appear out of nowhere, provide
 free technical reviewing services, volunteer their time, and lend a hand. We couldn't
 have done it without them.
 
-See our [successful proposal](https://github.com/jloughry/Unicode/raw/master/proposal.pdf)
+6. See our [successful proposal](https://github.com/jloughry/Unicode/raw/master/proposal.pdf)
 and use it as a model for your own.
 
 <hr/>
-<sup>*</sup> These symbols:
+<sup>*<a name="success-footnote"/></sup> These symbols, by the way:
 <img src="https://github.com/jloughry/Unicode/raw/master/graphics/18px-Unicode_POWER_SYMBOL.png" alt="Unicode POWER SYMBOL"/>,
 <img src="https://github.com/jloughry/Unicode/raw/master/graphics/18px-Unicode_POWER_ON-OFF_SYMBOL.png" alt="Unicode POWER ON-OFF SYMBOL"/>,
 <img src="https://github.com/jloughry/Unicode/raw/master/graphics/3px-Unicode_POWER_ON_SYMBOL.png" alt="Unicode POWER ON SYMBOL"/>,
 <img src="https://github.com/jloughry/Unicode/raw/master/graphics/18px-Unicode_HEAVY_CIRCLE.png" alt="Unicode HEAVY CIRCLE"/>, and
 <img src="https://github.com/jloughry/Unicode/raw/master/graphics/18px-Unicode_BLACK_WANING_CRESCENT_MOON.png" alt="Unicode BLACK WANING CRESCENT MOON"/>,
-if you don't have the font and can't see them yet.
+if you don't have the [font](#fonts) and can't see them yet.
 
-Get the Fonts Here
+Get the Fonts Here<a name="fonts"/>
 ------------------
 
 [Unicode_IEC_symbol_font.ttf](https://github.com/jloughry/Unicode/blob/master/Unicode_IEC_symbol_font.ttf?raw=true) (TrueType),
 [Unicode_IEC_symbol_font.otf](https://github.com/jloughry/Unicode/blob/master/Unicode_IEC_symbol_font.otf?raw=true) (OpenType),
-[Unicode_IEC_symbol_font.ps](https://github.com/jloughry/Unicode/blob/master/Unicode_IEC_symbol_font.ps?raw=true) (PostScript Type 0 font&mdash;CMap file coming soon).
+[Unicode_IEC_symbol_font.ps](https://github.com/jloughry/Unicode/blob/master/Unicode_IEC_symbol_font.ps?raw=true)
+(PostScript Type 0 font&mdash;a CMap file for it will be coming soon).
 
 If you have the font installed, the &#x23FB; characters &#x23FC; should &#x23FD; appear
-&#x2B58; here &#x1F32D;. (This may not work in all web browsers.)
+&#x2B58; inline &#x1F32D; here. (This may not work in all web browsers.) See the
+[Web Browser Testing](#update20140212) section, especially the
+[HTML Font Embedding Test](#font-embedding-test) page below for a more thorough test
+of your web browser's support for Unicode fonts.
 
 Latest Updates
 --------------

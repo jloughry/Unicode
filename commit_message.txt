@@ -1,1 +1,1 @@
-fix broken image link and expand lessons learnt
+improve lessons-learnt; add more links to fonts
