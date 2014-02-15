@@ -51,7 +51,7 @@ so it's possible to embed the font licence and designer's contact information in
 *The glyphs that will be standardised, that all subsequent font designers will follow, will be
 defined by the final font you submit.* But official font submission happens later in the process;
 our proposal has been formally accepted and we haven't been asked for the official font yet,
-so we still have an opportunity to [fine-tune](#update20140205) the glyphs before then.
+so we still have an opportunity to [fine-tune](#phase-of-the-moon) the glyphs before then.
 
 6. **Friends on the web** are an invaluable resource; sometimes they appear out of nowhere,
 provide free technical reviewing services, volunteer their time, and lend a hand. We couldn't

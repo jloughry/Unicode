@@ -1,1 +1,1 @@
-make a new anchor closer to the source of phase-of-the-moon and link to it directly
+fix the target of the previous link; I hate Markdown
