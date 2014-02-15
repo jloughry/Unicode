@@ -1,1 +1,2 @@
-move <a> before <hr/> to get the desired effect on jump
+improve spacing around footnote mark
+,

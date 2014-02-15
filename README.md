@@ -51,7 +51,7 @@ here and use it as a model for your own.
 <img src="https://github.com/jloughry/Unicode/raw/master/graphics/18px-Unicode_BLACK_WANING_CRESCENT_MOON.png" alt="Unicode BLACK WANING CRESCENT MOON"/>,
 if you don't have the [font](#fonts) and can't see them yet.
 
-<sup>&dagger;</sup> &#x23FD; and &#x2B58; were found in the first IBM PC operating manual
+<sup>&dagger;</sup>&#x23FD; and &#x2B58; were found in the first IBM PC operating manual
 on page 1-11, but are believed to have been in use in the late nineteen-seventies.
 
 Get the Fonts Here<a name="fonts"/>
