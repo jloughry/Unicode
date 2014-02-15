@@ -1,1 +1,1 @@
-add note on wasted work (mnemonically encoding characters in first font)
+wordsmithing

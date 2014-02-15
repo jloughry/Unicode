@@ -37,13 +37,13 @@ start to finish, in our case).
 
 4. Some [**artistic drawing talent**](#update20140206) may be helpful.
 
-5. The right tool for font design is surprisingly important. A custom font is needed early
-in the process because it's needed to write the proposal, but design the font from the beginning
-to employ arbitrary Unicode code points, because you won't know until late in the process what
-the actual code points will be. [All this work](#notes-on-encoding) was wasted; instead, choose
+5. The right tool for font design is surprisingly important. A custom font is needed early in
+the process because it's needed to write the proposal, but design the font from the beginning to
+employ arbitrary Unicode code points, because you won't know until late in the process what the
+actual code points will be. [All this work was wasted](#notes-on-encoding); to avoid that, choose
 a range in the [Private Use Area](http://en.wikipedia.org/wiki/Private_Use_Areas) (E000 to F8FF)
-as a placeholder until the UTC suggests real code points. This is a way of ensuring that you
-don't get wrapped up in a font design tool that doesn't support Unicode&mdash;especially code
+to serve as a placeholder until the UTC suggests real code points. This is a way of ensuring that
+you don't get wrapped up in a font design tool that doesn't support Unicode&mdash;especially code
 points above FFFF&mdash;which lots of programmes still don't support correctly. (See
 [Notes on Tools for Creating Fonts](#update20140202) below for more information on free font
 design tools that work.) Choose a font file format&mdash;SVG is good&mdash;that can handle metadata
