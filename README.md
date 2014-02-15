@@ -3,6 +3,9 @@ Proposal to Add the &#x23FB; IEC 60417-5009 Power Symbol to Unicode
 
 [Joe Loughry](mailto:joe.loughry@stx.ox.ac.uk), originally 1st December 2013.
 
+<br/>
+*Sincere thanks to the Unicode Technical Committee and UTC #138!*
+
 Success!
 --------
 
