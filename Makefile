@@ -51,6 +51,7 @@ spell::
 clean::
 	@echo "This is \"clean\" in the local Makefile"
 	rm -f $(temporary_files)
+	rm -f proposal.tex.bak
 
 allclean: clean
 	rm -f $(pdf_file) $(submission_name)
