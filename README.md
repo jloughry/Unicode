@@ -86,7 +86,7 @@ if you don't have the [font](#fonts) and can't see them yet.
 <sup>&dagger;</sup>&#x23FD; and &#x2B58; were found in the first IBM PC operating manual
 on page 1-11, but are believed to have been in use in the late nineteen-seventies.
 
-<sup>&Dagger;</sup> [Extracting fonts from a PDF file as usable font files](http://stackoverflow.com/questions/3488042/how-can-i-extract-embedded-fonts-from-a-pdf-as-valid-font-files) can be done,
+<sup>&Dagger;</sup>&nbsp; [Extracting fonts from a PDF file in the form of usable font files](http://stackoverflow.com/questions/3488042/how-can-i-extract-embedded-fonts-from-a-pdf-as-valid-font-files) can be done,
 but it's not very easy.
 
 Get the Fonts Here<a name="fonts"/>

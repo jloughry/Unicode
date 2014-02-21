@@ -1,1 +1,2 @@
-fix broken <sup> tag in footnote
+fix space after footnote marker
+,
