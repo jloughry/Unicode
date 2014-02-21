@@ -1,1 +1,1 @@
-fix multi-paragraph items in numbered list; I hate Markdown
+fix broken <sup> tag in footnote
