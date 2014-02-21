@@ -1,1 +1,1 @@
-address the lessons learnt specifically to HN readers
+fix multi-paragraph items in numbered list; I hate Markdown

@@ -41,11 +41,11 @@ a new font.
 5. [**Provide your font**](#fonts) along with the proposal, preferably through a clickable
 link in the PDF of the proposal, even though the
 [instructions for submission](http://www.unicode.org/pending/proposals.html) don't ask
-for it. During the UTC meeting when your proposal is considered, it's likely that subcommittee
-members will need to write a quick proposal in support of your proposal (that's how it's done)
-and it'll help them if your font is to hand when they need it.
-
-They can't just extract the font from the PDF of your proposal, like we thought they would.
+for it. During the UTC meeting when your proposal is considered, it's likely that
+subcommittee members will need to write a quick proposal in support of your proposal
+(that's how it's done) and it'll help them if your font is to hand when they need it.
+They can't just extract the font from the PDF of your proposal, as we thought they
+would.<sup>[&Dagger;](#success-footnotes)</sup>
 
 6. The right tool for font design is surprisingly important. A custom font is needed early
 in the process because it's needed to write the proposal, but you should design the font
@@ -59,18 +59,18 @@ points above FFFF&mdash;which lots of programmes still don't support correctly. 
 [Notes on Tools for Creating Fonts](#update20140202) below for more information on free font
 design tools that work.
 
-Choose a font file format&mdash;SVG is good&mdash;that can handle metadata
+7. Choose a font file format&mdash;SVG is good&mdash;that can handle metadata
 so it's possible to embed the font licence and designer's contact information in the font file.
 *The glyphs that will be standardised, that all subsequent font designers will follow, will be
 defined by the final font you submit.* Official font submission happens later in the process;
 our proposal has been formally accepted and we haven't been asked for the official font yet,
 so we still have an opportunity to [fine-tune](#phase-of-the-moon) the glyphs before then.
 
-7. **Friends on the web** are an invaluable resource; sometimes they appear out of nowhere,
+8. **Friends on the web** are an invaluable resource; sometimes they appear out of nowhere,
 provide free technical reviewing services, volunteer their time, and lend a hand. We couldn't
 have done it without them.
 
-8. See our [successful proposal](https://github.com/jloughry/Unicode/raw/master/proposal.pdf)
+9. See our [successful proposal](https://github.com/jloughry/Unicode/raw/master/proposal.pdf)
 here and **use it as a model for your own.**
 
 <a name="success-footnotes"/>
@@ -85,6 +85,9 @@ if you don't have the [font](#fonts) and can't see them yet.
 
 <sup>&dagger;</sup>&#x23FD; and &#x2B58; were found in the first IBM PC operating manual
 on page 1-11, but are believed to have been in use in the late nineteen-seventies.
+
+<sup&Dagger;</sup> [Extracting fonts from a PDF file as usable font files](http://stackoverflow.com/questions/3488042/how-can-i-extract-embedded-fonts-from-a-pdf-as-valid-font-files) can be done,
+but it's not very easy.
 
 Get the Fonts Here<a name="fonts"/>
 ------------------
