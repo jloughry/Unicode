@@ -18,13 +18,13 @@ of Unicode after 7.0.
 
 It's time to start thinking about how to explain this to [HN](https://news.ycombinator.com/).
 
-### Lessons learnt from a successful proposal:
+### Lessons learnt from a successful proposal:<a name="update20140221"/>
 
-1. **Attestations are everything.** Committee members need to see evidence *that the characters
+1. **Attestations are everything.** Committee members need to see *evidence that the characters
 are already in common use* in running text before a proposal will be accepted. The more
 attestations you provide, the better. Attestations are usually photographs or scans showing the
 occurrence of the proposed characters in print. We managed to find attestations dating back to
-1984; some proposals have them going back centuries
+1984; some proposals for scripts of historical interest have attestations going back centuries
 or millennia.<sup>[&dagger;](#success-footnotes)</sup>
 
 2. Successful proposals **cover every angle and anticipated objection** before those objections
@@ -35,30 +35,43 @@ strengths of our argument.
 3. It is possible to do this in a **reasonable amount of time** (around two months, from
 start to finish, in our case).
 
-4. Some [**artistic drawing talent**](#update20140206) may be helpful.
+4. Some [**artistic drawing talent**](#update20140206) may be helpful. You'll need to make
+a new font.
 
-5. The right tool for font design is surprisingly important. A custom font is needed early in
-the process because it's needed to write the proposal, but design the font from the beginning to
-employ arbitrary Unicode code points, because you won't know until late in the process what the
-actual code points will be. [All this work was wasted](#notes-on-encoding); to avoid that, choose
-a range in the [Private Use Area](http://en.wikipedia.org/wiki/Private_Use_Areas) (E000 to F8FF)
-to serve as a placeholder until the UTC suggests real code points. This is a way of ensuring that
+5. [**Provide your font**](#fonts) along with the proposal, preferably through a clickable
+link in the PDF of the proposal, even though the
+[instructions for submission](http://www.unicode.org/pending/proposals.html) don't ask
+for it. During the UTC meeting when your proposal is considered, it's likely that subcommittee
+members will need to write a quick proposal in support of your proposal (that's how it's done)
+and it'll help them if your font is to hand when they need it.
+
+They can't just extract the font from the PDF of your proposal, like we thought they would.
+
+6. The right tool for font design is surprisingly important. A custom font is needed early
+in the process because it's needed to write the proposal, but you should design the font
+from the beginning to employ arbitrary Unicode code points, because you won't know until
+late in the process what the actual code points will be.
+[**Some of our work was wasted**](#notes-on-encoding); to avoid that, choose a range in
+the [Unicode Private Use Area](http://en.wikipedia.org/wiki/Private_Use_Areas) (E000 to F8FF)
+to serve as a placeholder until the UTC suggests real code points. This ensures that
 you don't get wrapped up in a font design tool that doesn't support Unicode&mdash;especially code
-points above FFFF&mdash;which lots of programmes still don't support correctly. (See
+points above FFFF&mdash;which lots of programmes still don't support correctly. See
 [Notes on Tools for Creating Fonts](#update20140202) below for more information on free font
-design tools that work.) Choose a font file format&mdash;SVG is good&mdash;that can handle metadata
+design tools that work.
+
+Choose a font file format&mdash;SVG is good&mdash;that can handle metadata
 so it's possible to embed the font licence and designer's contact information in the font file.
 *The glyphs that will be standardised, that all subsequent font designers will follow, will be
-defined by the final font you submit.* But official font submission happens later in the process;
+defined by the final font you submit.* Official font submission happens later in the process;
 our proposal has been formally accepted and we haven't been asked for the official font yet,
 so we still have an opportunity to [fine-tune](#phase-of-the-moon) the glyphs before then.
 
-6. **Friends on the web** are an invaluable resource; sometimes they appear out of nowhere,
+7. **Friends on the web** are an invaluable resource; sometimes they appear out of nowhere,
 provide free technical reviewing services, volunteer their time, and lend a hand. We couldn't
 have done it without them.
 
-7. See our [successful proposal](https://github.com/jloughry/Unicode/raw/master/proposal.pdf)
-here and use it as a model for your own.
+8. See our [successful proposal](https://github.com/jloughry/Unicode/raw/master/proposal.pdf)
+here and **use it as a model for your own.**
 
 <a name="success-footnotes"/>
 <hr/>
@@ -96,6 +109,7 @@ Latest Updates
 [Pipeline Table](http://www.unicode.org/alloc/Pipeline.html).
 
 - Starting a write-up for [Hacker News](https://news.ycombinator.com/) (not published yet).
+See [my advice to HN readers](#update20140221) in progress.
 
 *(12th February 2014)*
 

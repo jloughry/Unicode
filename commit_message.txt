@@ -1,6 +1,1 @@
-added parametric construction of the crescent moon; it turned out not to be such a great
-useful thing, because the coordinate space has centre at 300,300 so all the parameters ended
-up translated that much, but it was interesting to verify that the proportions r/2, 3r/4,
-and 5r/4 did in fact work out parametrically. I thought it would be interesting to look at
-the SVG in XML, and it was, but it was a bit wordier than I'd hoped, and not suited to
-pasting into my notes as an exhibit after all.
+address the lessons learnt specifically to HN readers
