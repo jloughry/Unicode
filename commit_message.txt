@@ -1,2 +1,1 @@
-fix space after footnote marker
-,
+added WG2 #62 document number to announcements

@@ -106,6 +106,12 @@ of your web browser's support for Unicode fonts.
 Latest Updates
 --------------
 
+*(25th February 2014)*
+
+- The symbols were approved by the ISO 10646 Working Group 2 (JTC 1/SC 2/WG 2) at the
+WG2 #62 meeting this week to go onto an ISO amendment; the document number of the proposal
+is N4567.
+
 *(14th February 2014)*
 
 - The new characters appear in the
