@@ -1,10 +1,9 @@
-Proposal to Add the &#x23FB; IEC 60417-5009 Power Symbol to Unicode
-==========================================================
+How We Got the &#x23FB; IEC 60417-5009 POWER SYMBOL into Unicode in 60 Days
+===========================================================================
 
 [Joe Loughry](mailto:joe.loughry@stx.ox.ac.uk), originally 1st December 2013.
-
 <br/>
-*Sincere thanks to the Unicode Technical Committee and UTC #138!*
+*With sincere thanks to the Unicode Technical Committee, UTC #138, and WG2 #62!*
 
 Success!
 --------
