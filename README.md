@@ -1,5 +1,5 @@
-The &#x23FB; IEC 60417-5009 POWER SYMBOL is now a Unicode character
-===================================================================
+The IEC 60417-5009 POWER SYMBOL &#x23FB; is a Unicode character
+===============================================================
 
 *With sincere thanks to the Unicode Technical Committee, UTC #138, and ISO 10646 JTC1/SC2/WG2 #62!*
 
