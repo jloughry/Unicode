@@ -1,5 +1,5 @@
-The &#x23FB; IEC 60417-5009 POWER SYMBOL is now in Unicode
-==========================================================
+The &#x23FB; IEC 60417-5009 POWER SYMBOL is now a Unicode character
+===================================================================
 
 *With sincere thanks to the Unicode Technical Committee, UTC #138, and ISO 10646 JTC1/SC2/WG2 #62!*
 
@@ -14,9 +14,8 @@ they'll be in the next revision of Unicode after 7.0. The symbols were approved 
 the ISO 10646 Working Group 2 (JTC 1/SC 2/WG 2) at the WG2 #62 meeting to go onto
 an ISO amendment.
 
-It's time to start thinking about how to explain this to [HN](https://news.ycombinator.com/).
-
-### Lessons learnt from a successful proposal:<a name="update20140221"/>
+### Lessons learnt from a successful
+[proposal](https://github.com/jloughry/Unicode/raw/master/proposal.pdf):<a name="update20140221"/>
 
 1. **Attestations are everything.** Committee members need to see *evidence that the characters
 are already in common use* in running text before a proposal will be accepted. The more
@@ -25,10 +24,10 @@ occurrence of the proposed characters in print. We managed to find attestations 
 1984; some proposals for scripts of historical interest have attestations going back centuries
 or millennia.<sup>[&dagger;](#success-footnotes)</sup>
 
-2. Successful proposals **cover every angle and anticipated objection** before those objections
-can be raised in committee. Our proposal took the risk of pointing out disagreement and ambiguities
-around the usage of some of the characters, especially &#x23FB;; this was probably one of the
-strengths of our argument.
+2. Successful proposals **cover every angle and raise every anticipated objection** before those
+objections can be raised in committee. Our proposal took the risk of pointing out disagreement
+and ambiguities around the usage of some of the characters, especially &#x23FB;; this was
+probably one of the strengths of our argument.
 
 3. It is possible to do this in a **reasonable amount of time** (around two months, from
 start to finish, in our case).
@@ -36,14 +35,14 @@ start to finish, in our case).
 4. Some [**artistic drawing talent**](#update20140206) may be helpful. You'll need to make
 a new font.
 
-5. [**Provide your font**](#fonts) along with the proposal, preferably through a clickable
+5. Do [**provide your font**](#fonts) along with the proposal, preferably through a clickable
 link in the PDF of the proposal, even though the
 [instructions for submission](http://www.unicode.org/pending/proposals.html) don't ask
 for it. During the UTC meeting when your proposal is considered, it's likely that
 subcommittee members will need to write a quick proposal in support of your proposal
 (that's how it's done) and it'll help them if your font is to hand when they need it.
 They can't just extract the font from the PDF of your proposal, as we thought they
-would.<sup>[&Dagger;](#success-footnotes)</sup>
+might.<sup>[&Dagger;](#success-footnotes)</sup>
 
 6. The right tool for font design is surprisingly important. A custom font is needed early
 in the process because it's needed to write the proposal, but you should design the font
@@ -404,8 +403,6 @@ for more information on Unicode support in Chrome under Windows.
 	src="https://github.com/jloughry/Unicode/raw/master/graphics/black_box.png"/>.
 	alt="black box"/>
 
-End of footnotes.
-
 Latest Updates
 --------------
 
@@ -519,7 +516,8 @@ Historical Section and Proposal Development
 ===========================================
 
 The following sections describe, in approximately chronological order, how the proposal
-was developed.
+was developed from start to finish. We began the project on 1st December 2013 and reached
+our goal the first week of February 2014.
 
 The IEC 60417-5009 &ldquo;Stand-by&rdquo; Symbol
 ------------------------------------------------
