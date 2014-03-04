@@ -1,9 +1,7 @@
-How We Got the &#x23FB; IEC 60417-5009 POWER SYMBOL into Unicode in 60 Days
-===========================================================================
+How to get the &#x23FB; IEC 60417-5009 POWER SYMBOL into Unicode in sixty days
+==============================================================================
 
-[Joe Loughry](mailto:joe.loughry@stx.ox.ac.uk), originally 1st December 2013.
-<br/>
-*With sincere thanks to the Unicode Technical Committee, UTC #138, and WG2 #62!*
+*With sincere thanks to the Unicode Technical Committee, UTC #138, and ISO 10646 JTC1/SC2/WG2 #62!*
 
 Success!
 --------
