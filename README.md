@@ -14,8 +14,7 @@ they'll be in the next revision of Unicode after 7.0. The symbols were approved 
 the ISO 10646 Working Group 2 (JTC 1/SC 2/WG 2) at the WG2 #62 meeting to go onto
 an ISO amendment.
 
-### Lessons learnt from a successful
-[proposal](https://github.com/jloughry/Unicode/raw/master/proposal.pdf):<a name="update20140221"/>
+### Lessons learnt from a successful [proposal](https://github.com/jloughry/Unicode/raw/master/proposal.pdf):<a name="update20140221"/>
 
 1. **Attestations are everything.** Committee members need to see *evidence that the characters
 are already in common use* in running text before a proposal will be accepted. The more
@@ -89,10 +88,11 @@ but it's not very easy.
 Get the Fonts Here<a name="fonts"/>
 ------------------
 
-[Unicode_IEC_symbol_font.ttf](https://github.com/jloughry/Unicode/blob/master/Unicode_IEC_symbol_font.ttf?raw=true) (TrueType),
+Download the [Unicode_IEC_symbol_font.ttf](https://github.com/jloughry/Unicode/blob/master/Unicode_IEC_symbol_font.ttf?raw=true) (TrueType),
 [Unicode_IEC_symbol_font.otf](https://github.com/jloughry/Unicode/blob/master/Unicode_IEC_symbol_font.otf?raw=true) (OpenType),
 [Unicode_IEC_symbol_font.ps](https://github.com/jloughry/Unicode/blob/master/Unicode_IEC_symbol_font.ps?raw=true)
-(PostScript Type 0 font&mdash;a CMap file for it will be coming soon).
+(PostScript Type 0 font&mdash;a CMap file for it will be coming soon) font files
+and install them on your system.
 
 If you have the font installed, the &#x23FB; characters &#x23FC; should &#x23FD; appear
 &#x2B58; inline &#x1F32D; here. (This may not work in all web browsers.) See the
@@ -100,8 +100,8 @@ If you have the font installed, the &#x23FB; characters &#x23FC; should &#x23FD;
 [HTML Font Embedding Test](#font-embedding-test) page below for a more thorough test
 of your web browser's support for Unicode fonts.
 
-Web Browser Testing<a name="update20140212"/>
--------------------
+Web Browser Test<a name="update20140212"/>
+----------------
 
 ### Straight Compatibility Test
 
