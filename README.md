@@ -2,6 +2,10 @@ The IEC 60417-5009 POWER SYMBOL &#x23FB; is a Unicode character now
 ===================================================================
 
 *With sincere thanks to the Unicode Technical Committee, UTC #138, and ISO 10646 JTC1/SC2/WG2 #62!*
+<table align="right" border="0"><tr><td><img align="right"
+src="http://unicodepowersymbol.com/wp-content/uploads/2014/01/Red-Power-Symbol.png"
+alt="POWER SYMBOL"/></td></tr><tr><td align="center"><a
+href="http://unicodepowersymbol.com/">http://unicodepowersymbol.com</a></td></tr><table>
 
 Success!
 --------
