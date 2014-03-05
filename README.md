@@ -1,7 +1,13 @@
 <p align="right"><img src="http://unicodepowersymbol.com/wp-content/uploads/2014/01/Red-Power-Symbol.png" width="10%" alt="POWER SYMBOL"/> <a href="http://unicodepowersymbol.com">http://unicodepowersymbol.com</a></p>
 
-The IEC 60417-5009 POWER SYMBOL &#x23FB; is a Unicode character now
-===================================================================
+**Caution**
+
+*Use of proposed or accepted characters is at implementers’ own risk; the composition and allocation
+of the characters may change before they are finally published in the Unicode Standard. Always check
+the [Unicode Pipeline](http://www.unicode.org/alloc/Pipeline.html) for the latest guidance.*
+
+Adding the IEC 60417-5009 POWER SYMBOL &#x23FB; to Unicode
+==========================================================
 
 *With sincere thanks to the Unicode Technical Committee, UTC #138, and ISO 10646 JTC1/SC2/WG2 #62!*
 
@@ -12,7 +18,7 @@ The 23FB &#x23FB;, 23FC &#x23FC;, 23FD &#x23FD;, 2B58 &#x2B58;, and 1F32D &#x1F3
 characters<sup>[*](#success-footnotes)</sup> now appear in the Unicode
 [Pipeline Table](http://www.unicode.org/alloc/Pipeline.html) with the status of
 &ldquo;Accepted&rdquo;. They can be used now, and designed into [fonts](#fonts), and
-they'll be in the next revision of Unicode after 7.0. The symbols were approved by
+they'on their way to be in a future version of Unicode after 7.0. The symbols were approved by
 the ISO 10646 Working Group 2 (JTC 1/SC 2/WG 2) at the WG2 #62 meeting to go into
 [Amendment 2 to ISO/IEC 10646:2014](http://www.unicode.org/L2/L2014/14079-n4569.pdf)
 for publication in 2016.  Right now they are in
@@ -108,6 +114,10 @@ If you have the font installed, the &#x23FB; characters &#x23FC; should &#x23FD;
 [Web Browser Test](#update20140212) section, especially the
 [HTML Font Embedding Test](#font-embedding-test) page below for a more thorough test
 of your web browser's support for Unicode fonts.
+
+*Use of proposed or accepted characters is at implementers’ own risk; the composition and allocation
+of the characters may change before they are finally published in the Unicode Standard. Always check
+the [Unicode Pipeline](http://www.unicode.org/alloc/Pipeline.html) for the latest guidance.*
 
 Web Browser Test<a name="update20140212"/>
 ----------------
@@ -458,7 +468,7 @@ according to revision notes from UTC #138.
 
 *(5th February 2014)*
 
-- <a name="update20140205"/>New fonts with Unicode characters:
+- <a name="update20140205"/>New fonts with Unicode character code points:
 [Unicode_IEC_symbol_font.ttf](https://github.com/jloughry/Unicode/blob/master/Unicode_IEC_symbol_font.ttf?raw=true) (TrueType) and
 [Unicode_IEC_symbol_font.otf](https://github.com/jloughry/Unicode/blob/master/Unicode_IEC_symbol_font.otf?raw=true) (OpenType).
 

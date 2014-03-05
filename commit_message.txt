@@ -1,1 +1,1 @@
-add link to news updates in revised order
+add caution that code points are subject to change; they are only in the pipeline, not official yet
