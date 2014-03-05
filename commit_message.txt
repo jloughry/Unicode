@@ -1,1 +1,1 @@
-resize graphic and right-align link
+make the symbol smaller
