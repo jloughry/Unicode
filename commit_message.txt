@@ -1,1 +1,1 @@
-mixing HTML and Markdown markup
+resize graphic and right-align link
