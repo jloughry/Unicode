@@ -16,7 +16,8 @@ they'll be in the next revision of Unicode after 7.0. The symbols were approved 
 the ISO 10646 Working Group 2 (JTC 1/SC 2/WG 2) at the WG2 #62 meeting to go into
 [Amendment 2 to ISO/IEC 10646:2014](http://www.unicode.org/L2/L2014/14079-n4569.pdf)
 for publication in 2016.  Right now they are in
-[ISO stage 5](http://www.unicode.org/alloc/ISOStages.html).
+[ISO stage 5](http://www.unicode.org/alloc/ISOStages.html). See the
+[latest news](#update20140305) for details.
 
 ### Lessons learnt from a successful [proposal](https://github.com/jloughry/Unicode/raw/master/proposal.pdf):<a name="update20140221"/>
 
@@ -414,10 +415,10 @@ for more information on Unicode support in Chrome under Windows.
 Latest Updates
 --------------
 
-*(5th March 2014)*
+<a name="update20140305"/>*(5th March 2014)*
 
 - The [Unicode Pipeline Table](http://www.unicode.org/alloc/Pipeline.html) has been updated.
-Our new characters are in [ISO stage 5](http://www.unicode.org/alloc/ISOStages.html) (of 8)
+Our new characters are in [ISO stage 5](http://www.unicode.org/alloc/ISOStages.html) (of 8 stages)
 and on track for publication in 2016 as
 [amendment 2 to ISO/IEC 10646:2014](http://www.unicode.org/L2/L2014/14079-n4569.pdf).
 

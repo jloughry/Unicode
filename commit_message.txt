@@ -1,2 +1,1 @@
-update news for ISO stage 5 and amendment 2 to
-ISO/IEC 10646:2014[A[B[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D
+add link to news updates in revised order
