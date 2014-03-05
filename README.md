@@ -13,8 +13,10 @@ characters<sup>[*](#success-footnotes)</sup> now appear in the Unicode
 [Pipeline Table](http://www.unicode.org/alloc/Pipeline.html) with the status of
 &ldquo;Accepted&rdquo;. They can be used now, and designed into [fonts](#fonts), and
 they'll be in the next revision of Unicode after 7.0. The symbols were approved by
-the ISO 10646 Working Group 2 (JTC 1/SC 2/WG 2) at the WG2 #62 meeting to go onto
-an ISO amendment.
+the ISO 10646 Working Group 2 (JTC 1/SC 2/WG 2) at the WG2 #62 meeting to go into
+[Amendment 2 to ISO/IEC 10646:2014](http://www.unicode.org/L2/L2014/14079-n4569.pdf)
+for publication in 2016.  Right now they are in
+[ISO stage 5](http://www.unicode.org/alloc/ISOStages.html).
 
 ### Lessons learnt from a successful [proposal](https://github.com/jloughry/Unicode/raw/master/proposal.pdf):<a name="update20140221"/>
 
@@ -411,6 +413,13 @@ for more information on Unicode support in Chrome under Windows.
 
 Latest Updates
 --------------
+
+*(5th March 2014)*
+
+- The [Unicode Pipeline Table](http://www.unicode.org/alloc/Pipeline.html) has been updated.
+Our new characters are in [ISO stage 5](http://www.unicode.org/alloc/ISOStages.html) (of 8)
+and on track for publication in 2016 as
+[amendment 2 to ISO/IEC 10646:2014](http://www.unicode.org/L2/L2014/14079-n4569.pdf).
 
 *(25th February 2014)*
 
