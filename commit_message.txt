@@ -1,1 +1,1 @@
-make the symbol smaller
+clean-up; remove experimental table before heading; make symbol a little larger
