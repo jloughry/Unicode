@@ -1,1 +1,1 @@
-I hate Markdown.
+added link to font embedding test page and copied its source code here.

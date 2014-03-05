@@ -45,6 +45,9 @@ vi: proposal
 css:
 	(cd ../jloughry.github.io && make unicode)
 
+install:
+	@echo "scp $(css_font_embedding_test_page) username@server:"
+
 spell::
 	aspell --lang=en_GB -t check $(source_file)
 

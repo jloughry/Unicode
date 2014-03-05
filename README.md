@@ -27,7 +27,8 @@ for publication in 2016.  Right now they are in
 [latest news](#update20140305) for details.
 
 Feel free to use our [proposal](https://github.com/jloughry/Unicode/raw/master/proposal.pdf)
-and [supporting information](#update20140212) as a guide to making your own proposal a success.
+and [supporting information](#font-embedding-test) as a guide to making your own proposal
+a success.
 
 ### Lessons learnt from a [successful proposal](https://github.com/jloughry/Unicode/raw/master/proposal.pdf):<a name="update20140221"/>
 
