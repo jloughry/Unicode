@@ -2,14 +2,15 @@ The IEC 60417-5009 POWER SYMBOL &#x23FB; is a Unicode character now
 ===================================================================
 
 *With sincere thanks to the Unicode Technical Committee, UTC #138, and ISO 10646 JTC1/SC2/WG2 #62!*
-<table align="right" border="0"><tr><td><img align="right"
-src="http://unicodepowersymbol.com/wp-content/uploads/2014/01/Red-Power-Symbol.png"
-alt="POWER SYMBOL"/></td></tr><tr><td align="center"><a
-href="http://unicodepowersymbol.com/">http://unicodepowersymbol.com</a></td></tr><table>
 
 Success!
 --------
 
+<table align="right" border="0"><tr><td><img align="right" width="50%"
+src="http://unicodepowersymbol.com/wp-content/uploads/2014/01/Red-Power-Symbol.png"
+alt="POWER SYMBOL"/></td></tr><tr><td align="center"><a
+href="http://unicodepowersymbol.com/">http://unicodepowersymbol.com</a></td></tr><table>
+<p>
 The 23FB &#x23FB;, 23FC &#x23FC;, 23FD &#x23FD;, 2B58 &#x2B58;, and 1F32D &#x1F32D;
 characters<sup>[*](#success-footnotes)</sup> now appear in the Unicode
 [Pipeline Table](http://www.unicode.org/alloc/Pipeline.html) with the status of
@@ -17,6 +18,7 @@ characters<sup>[*](#success-footnotes)</sup> now appear in the Unicode
 they'll be in the next revision of Unicode after 7.0. The symbols were approved by
 the ISO 10646 Working Group 2 (JTC 1/SC 2/WG 2) at the WG2 #62 meeting to go onto
 an ISO amendment.
+</p>
 
 ### Lessons learnt from a successful [proposal](https://github.com/jloughry/Unicode/raw/master/proposal.pdf):<a name="update20140221"/>
 
