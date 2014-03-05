@@ -1,1 +1,1 @@
-fix wording and close open issue
+improve spacing around image; fixed typo
