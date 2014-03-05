@@ -1,4 +1,4 @@
-<p align="right"><img src="http://unicodepowersymbol.com/wp-content/uploads/2014/01/Red-Power-Symbol.png" width="10%" hspace="2" vspace="2" alt="POWER SYMBOL"/> <a href="http://unicodepowersymbol.com">http://unicodepowersymbol.com</a></p>
+<p align="right"><img src="http://unicodepowersymbol.com/wp-content/uploads/2014/01/Red-Power-Symbol.png" width="10%" hspace="4" alt="POWER SYMBOL"/> <a href="http://unicodepowersymbol.com">http://unicodepowersymbol.com</a></p>
 
 **Caution:** *Use of proposed or accepted characters is at implementers&apos;
 own risk; the composition and allocation of the characters may change
@@ -6,8 +6,8 @@ before they are finally published in the Unicode Standard. Always check
 the [Unicode Pipeline](http://www.unicode.org/alloc/Pipeline.html)
 for the latest guidance.*
 
-Adding the IEC 60417-5009 POWER SYMBOL &#x23FB; to Unicode
-==========================================================
+Add the IEC 60417-5009 POWER SYMBOL &#x23FB; to the Unicode Standard
+====================================================================
 
 *With sincere thanks to the Unicode Technical Committee, UTC #138, and ISO 10646 JTC1/SC2/WG2 #62!*
 
@@ -26,7 +26,10 @@ for publication in 2016.  Right now they are in
 [ISO stage 5](http://www.unicode.org/alloc/ISOStages.html). See the
 [latest news](#update20140305) for details.
 
-### Lessons learnt from a successful [proposal](https://github.com/jloughry/Unicode/raw/master/proposal.pdf):<a name="update20140221"/>
+Feel free to use our [proposal](https://github.com/jloughry/Unicode/raw/master/proposal.pdf)
+as a guide to making your proposal a success.
+
+### Lessons learnt from a [successful proposal](https://github.com/jloughry/Unicode/raw/master/proposal.pdf):<a name="update20140221"/>
 
 1. **Attestations are everything.** Committee members need to see *evidence that the characters
 are already in common use* in running text before a proposal will be accepted. The more
