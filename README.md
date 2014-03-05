@@ -1,3 +1,5 @@
+<p align="right">See <img src="http://unicodepowersymbol.com/wp-content/uploads/2014/01/Red-Power-Symbol.png" alt="POWER SYMBOL"/> <a href="http://unicodepowersymbol.com">http://unicodepowersymbol.com</a></p>
+
 The IEC 60417-5009 POWER SYMBOL &#x23FB; is a Unicode character now
 ===================================================================
 
