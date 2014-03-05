@@ -1,5 +1,5 @@
-The IEC 60417-5009 POWER SYMBOL &#x23FB; is a Unicode character
-===============================================================
+The IEC 60417-5009 POWER SYMBOL &#x23FB; is a Unicode character now
+===================================================================
 
 *With sincere thanks to the Unicode Technical Committee, UTC #138, and ISO 10646 JTC1/SC2/WG2 #62!*
 
@@ -43,7 +43,11 @@ subcommittee members will need to write a quick proposal in support of your prop
 They can't just extract the font from the PDF of your proposal, as we thought they
 might.<sup>[&Dagger;](#success-footnotes)</sup>
 
-6. The right tool for font design is surprisingly important. A custom font is needed early
+6. Complete the
+[ISO/IEC JTC 1/SC 2/WG 2 PROPOSAL SUMMARY FORM TO ACCOMPANY SUBMISSIONS FOR ADDITIONS TO THE REPERTOIRE OF ISO/IEC 10646](http://std.dkuug.dk/JTC1/SC2/WG2/docs/summaryform.html)
+and attach it to your proposal.
+
+7. The right tool for font design is surprisingly important. A custom font is needed early
 in the process because it's needed to write the proposal, but you should design the font
 from the beginning to employ arbitrary Unicode code points, because you won't know until
 late in the process what the actual code points will be.
@@ -55,18 +59,18 @@ points above FFFF&mdash;which lots of programmes still don't support correctly. 
 [Notes on Tools for Creating Fonts](#update20140202) below for more information on free font
 design tools that work.
 
-7. Choose a font file format&mdash;SVG is good&mdash;that can handle metadata
+8. Choose a font file format&mdash;SVG is good&mdash;that can handle metadata
 so it's possible to embed the font licence and designer's contact information in the font file.
 *The glyphs that will be standardised, that all subsequent font designers will follow, will be
 defined by the final font you submit.* Official font submission happens later in the process;
 our proposal has been formally accepted and we haven't been asked for the official font yet,
 so we still have an opportunity to [fine-tune](#phase-of-the-moon) the glyphs before then.
 
-8. **Friends on the web** are an invaluable resource; sometimes they appear out of nowhere,
+9. **Friends on the web** are an invaluable resource; sometimes they appear out of nowhere,
 provide free technical reviewing services, volunteer their time, and lend a hand. We couldn't
 have done it without them.
 
-9. See our [successful proposal](https://github.com/jloughry/Unicode/raw/master/proposal.pdf)
+10. See our [successful proposal](https://github.com/jloughry/Unicode/raw/master/proposal.pdf)
 here and **use it as a model for your own.**
 
 <a name="success-footnotes"/>
@@ -88,15 +92,15 @@ but it's not very easy.
 Get the Fonts Here<a name="fonts"/>
 ------------------
 
-Download the [Unicode_IEC_symbol_font.ttf](https://github.com/jloughry/Unicode/blob/master/Unicode_IEC_symbol_font.ttf?raw=true) (TrueType),
+Download one of the [Unicode_IEC_symbol_font.ttf](https://github.com/jloughry/Unicode/blob/master/Unicode_IEC_symbol_font.ttf?raw=true) (TrueType),
 [Unicode_IEC_symbol_font.otf](https://github.com/jloughry/Unicode/blob/master/Unicode_IEC_symbol_font.otf?raw=true) (OpenType),
 [Unicode_IEC_symbol_font.ps](https://github.com/jloughry/Unicode/blob/master/Unicode_IEC_symbol_font.ps?raw=true)
 (PostScript Type 0 font&mdash;a CMap file for it will be coming soon) font files
-and install them on your system.
+and install it on your system.
 
 If you have the font installed, the &#x23FB; characters &#x23FC; should &#x23FD; appear
 &#x2B58; inline &#x1F32D; here. (This may not work in all web browsers.) See the
-[Web Browser Testing](#update20140212) section, especially the
+[Web Browser Test](#update20140212) section, especially the
 [HTML Font Embedding Test](#font-embedding-test) page below for a more thorough test
 of your web browser's support for Unicode fonts.
 
@@ -477,8 +481,7 @@ points:<sup>[7](#ref7), [8](#ref8)</sup>
 
 ### Unicode Character Properties
 
-<pre><code>
-23FB;POWER SYMBOL;So;0;ON;;;;;N;;;;;
+<pre><code>23FB;POWER SYMBOL;So;0;ON;;;;;N;;;;;
 23FC;POWER ON-OFF SYMBOL;So;0;ON;;;;;N;;;;;
 23FD;POWER ON SYMBOL;So;0;ON;;;;;N;;;;;
 1F32D;BLACK WANING CRESCENT MOON;So;0;ON;;;;;N;;;;;
