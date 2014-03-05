@@ -1,10 +1,10 @@
 <p align="right"><img src="http://unicodepowersymbol.com/wp-content/uploads/2014/01/Red-Power-Symbol.png" width="10%" alt="POWER SYMBOL"/> <a href="http://unicodepowersymbol.com">http://unicodepowersymbol.com</a></p>
 
-**Caution**
-
-*Use of proposed or accepted characters is at implementers’ own risk; the composition and allocation
-of the characters may change before they are finally published in the Unicode Standard. Always check
-the [Unicode Pipeline](http://www.unicode.org/alloc/Pipeline.html) for the latest guidance.*
+**Caution:** *Use of proposed or accepted characters is at implementers’
+own risk; the composition and allocation of the characters may change
+before they are finally published in the Unicode Standard. Always check
+the [Unicode Pipeline](http://www.unicode.org/alloc/Pipeline.html)
+for the latest guidance.*
 
 Adding the IEC 60417-5009 POWER SYMBOL &#x23FB; to Unicode
 ==========================================================
@@ -18,8 +18,9 @@ The 23FB &#x23FB;, 23FC &#x23FC;, 23FD &#x23FD;, 2B58 &#x2B58;, and 1F32D &#x1F3
 characters<sup>[*](#success-footnotes)</sup> now appear in the Unicode
 [Pipeline Table](http://www.unicode.org/alloc/Pipeline.html) with the status of
 &ldquo;Accepted&rdquo;. They can be used now, and designed into [fonts](#fonts), and
-they'on their way to be in a future version of Unicode after 7.0. The symbols were approved by
-the ISO 10646 Working Group 2 (JTC 1/SC 2/WG 2) at the WG2 #62 meeting to go into
+they'on their way to be in a future version of the Unicode standard after 7.0. The
+symbols were approved by the ISO 10646 Working Group 2 (JTC 1/SC 2/WG 2) at the
+WG2 #62 meeting to go into
 [Amendment 2 to ISO/IEC 10646:2014](http://www.unicode.org/L2/L2014/14079-n4569.pdf)
 for publication in 2016.  Right now they are in
 [ISO stage 5](http://www.unicode.org/alloc/ISOStages.html). See the

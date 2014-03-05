@@ -1,1 +1,1 @@
-add caution that code points are subject to change; they are only in the pipeline, not official yet
+fix wording and close open issue
