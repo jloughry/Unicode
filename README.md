@@ -14,7 +14,7 @@ Add IEC 60417-5009 POWER SYMBOL &#x23FB; to the Unicode Standard
 Success!
 --------
 
-The 23FB &#x23FB;, 23FC &#x23FC;, 23FD &#x23FD;, 2B58 &#x2B58;, and 1F32D &#x1F32D;
+The U+23FB &#x23FB;, U+23FC &#x23FC;, U+23FD &#x23FD;, U+2B58 &#x2B58;, and U+1F32D &#x1F32D;
 characters<sup>[*](#success-footnotes)</sup> now appear in the Unicode
 [Pipeline Table](http://www.unicode.org/alloc/Pipeline.html) with the status of
 &ldquo;Accepted&rdquo;. They can be used now, and designed into [fonts](#fonts), and
@@ -529,14 +529,14 @@ alt="Unicode POWER SLEEP SYMBOL"/> (POWER SLEEP SYMBOL) character now exhibits t
 points:<sup>[7](#ref7), [8](#ref8)</sup>
 
 <table>
-	<tr><td align="center"><img src="https://github.com/jloughry/Unicode/raw/master/graphics/18px-IEC5009_Standby_Symbol.svg.png" alt="Unicode POWER SYMBOL"/></td><td>23FB</td><td>POWER SYMBOL</td></tr>
+	<tr><td align="center"><img src="https://github.com/jloughry/Unicode/raw/master/graphics/18px-IEC5009_Standby_Symbol.svg.png" alt="Unicode POWER SYMBOL"/></td><td>U+23FB</td><td>POWER SYMBOL</td></tr>
 	<tr><td>&nbsp;</td><td>&nbsp;</td><td>x 2B58 <img src="https://github.com/jloughry/Unicode/raw/master/graphics/18px-IEC5008_Off_Symbol.svg.png" alt="Unicode HEAVY CIRCLE"/> heavy circle</td></tr>
-	<tr><td align="center"><img src="https://github.com/jloughry/Unicode/raw/master/graphics/18px-IEC5010_On_Off_Symbol.svg.png" alt="Unicode POWER ON-OFF SYMBOL"/></td><td>23FC</td><td>POWER ON-OFF SYMBOL</td></tr>
-	<tr><td align="center"><img src="https://github.com/jloughry/Unicode/raw/master/graphics/3px-IEC5007_On_Symbol.svg.png" alt="Unicode POWER ON SYMBOL"/></td><td>23FD</td><td>POWER ON SYMBOL</td></tr>
-	<tr><td align="center"><img src="https://github.com/jloughry/Unicode/raw/master/graphics/18px-IEC5008_Off_Symbol.svg.png" alt="Unicode HEAVY CIRCLE"/></td><td>2B58</td><td>HEAVY CIRCLE</td></tr>
+	<tr><td align="center"><img src="https://github.com/jloughry/Unicode/raw/master/graphics/18px-IEC5010_On_Off_Symbol.svg.png" alt="Unicode POWER ON-OFF SYMBOL"/></td><td>U+23FC</td><td>POWER ON-OFF SYMBOL</td></tr>
+	<tr><td align="center"><img src="https://github.com/jloughry/Unicode/raw/master/graphics/3px-IEC5007_On_Symbol.svg.png" alt="Unicode POWER ON SYMBOL"/></td><td>U+23FD</td><td>POWER ON SYMBOL</td></tr>
+	<tr><td align="center"><img src="https://github.com/jloughry/Unicode/raw/master/graphics/18px-IEC5008_Off_Symbol.svg.png" alt="Unicode HEAVY CIRCLE"/></td><td>U+2B58</td><td>HEAVY CIRCLE</td></tr>
 	<tr><td>&nbsp;</td><td>&nbsp;</td><td>x 23FB <img src="https://github.com/jloughry/Unicode/raw/master/graphics/18px-IEC5009_Standby_Symbol.svg.png" alt="Unicode POWER SYMBOL"/> power symbol</td></tr>
 	<tr><td>&nbsp;</td><td>&nbsp;</td><td>&bull; power off symbol</td></tr>
-	<tr><td align="center"><img src="https://github.com/jloughry/Unicode/raw/master/graphics/18px-Unicode_POWER_SLEEP_SYMBOL.svg.png" alt="Unicode BLACK WANING CRESCENT MOON"/></td><td>1F32D</td><td>BLACK WANING CRESCENT MOON</td></tr>
+	<tr><td align="center"><img src="https://github.com/jloughry/Unicode/raw/master/graphics/18px-Unicode_POWER_SLEEP_SYMBOL.svg.png" alt="Unicode BLACK WANING CRESCENT MOON"/></td><td>U+1F32D</td><td>BLACK WANING CRESCENT MOON</td></tr>
 	<tr><td>&nbsp;</td><td>&nbsp;</td><td>x 23FB <img src="https://github.com/jloughry/Unicode/raw/master/graphics/18px-IEC5009_Standby_Symbol.svg.png" alt="Unicode POWER SYMBOL"/> power symbol</td></tr>
 	<tr><td>&nbsp;</td><td>&nbsp;</td><td>&bull; power sleep symbol</td></tr>
 </table>

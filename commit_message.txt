@@ -1,1 +1,1 @@
-Microsoft Internet Explorer 8
+change notation to U+23FB to correspond to recommended usage
