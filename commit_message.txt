@@ -1,1 +1,1 @@
-improve title of page
+update browser test table for IE 8
