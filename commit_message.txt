@@ -1,1 +1,1 @@
-update browser test table for IE 8
+Microsoft Internet Explorer 8

@@ -403,7 +403,7 @@ uses font embedding in HTML and should work on more browsers.
 			src="https://github.com/jloughry/Unicode/raw/master/graphics/red_x.png"
 			alt="red X"/><sup>*</sup></td>
 	</tr>
-	<tr><td>Internet Explorer</td><td>8.0.6001.18702</td><td>Windows XP Professional
+	<tr><td>IE 8</td><td>8.0.6001.18702</td><td>Windows XP Professional
 		Service Pack 3</td>
 		<td><img
 			src="https://github.com/jloughry/Unicode/raw/master/graphics/red_x.png"
@@ -421,7 +421,7 @@ uses font embedding in HTML and should work on more browsers.
 			src="https://github.com/jloughry/Unicode/raw/master/graphics/red_x.png"
 			alt="red X"/><sup>&dagger;</sup></td>
 	</tr>
-	<tr><td colspan="3" align="center">(Internet Explorer 8 with font embedding in CSS)</td>
+	<tr><td colspan="3" align="center">(Microsoft Internet Explorer 8 with font embedding in CSS)</td>
 		<td><img
 			src="https://github.com/jloughry/Unicode/raw/master/graphics/red_x.png"
 			alt="red X"/><sup>&dagger;</sup></td>
