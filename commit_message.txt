@@ -1,1 +1,1 @@
-move paragraph
+update news
