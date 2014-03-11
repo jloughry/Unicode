@@ -6,13 +6,12 @@ before they are finally published in the Unicode Standard. Always check
 the [Unicode Pipeline](http://www.unicode.org/alloc/Pipeline.html)
 for the latest guidance.*
 
+See the [latest news](#update20140311) here.
+
 Add IEC 60417-5009 POWER SYMBOL &#x23FB; to the Unicode Standard
 ================================================================
 
 *With sincere thanks to the Unicode Technical Committee, UTC #138, and ISO 10646 JTC1/SC2/WG2 #62!*
-
-<br/>
-See the [latest news](#update20140311).
 
 Success!
 --------
