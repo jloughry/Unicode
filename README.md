@@ -11,6 +11,9 @@ Add IEC 60417-5009 POWER SYMBOL &#x23FB; to the Unicode Standard
 
 *With sincere thanks to the Unicode Technical Committee, UTC #138, and ISO 10646 JTC1/SC2/WG2 #62!*
 
+<br/>
+See the [latest news](#update20140311).
+
 Success!
 --------
 
@@ -464,6 +467,12 @@ for more information on Unicode support in Chrome under Windows.
 
 Latest Updates
 --------------
+
+<a name="update20140311"/>*(11th March 2014)*
+
+- I was interviewed on the
+[BBC Radio 5](http://downloads.bbc.co.uk/podcasts/fivelive/pods/pods_20140311-0600a.mp3)
+programme *Outriders*.
 
 <a name="update20140305"/>*(5th March 2014)*
 
