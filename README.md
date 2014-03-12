@@ -17,7 +17,7 @@ Success!
 --------
 
 The U+23FB &#x23FB;, U+23FC &#x23FC;, U+23FD &#x23FD;, U+2B58 &#x2B58;, and U+1F32D &#x1F32D;
-[characters<sup>*(#footnote-see-the-characters)</sup>] now appear in the Unicode
+[characters<sup>*</sup>](#footnote-see-the-characters) now appear in the Unicode
 [Pipeline Table](http://www.unicode.org/alloc/Pipeline.html) with the status of
 &ldquo;Accepted&rdquo;. They can be used now, and designed into [fonts](#fonts), and
 they're on their way to be in a future version of the Unicode Standard after 7.0. The
@@ -27,10 +27,6 @@ WG2 #62 meeting to go into
 for publication in 2016.  Right now they are in
 [ISO stage 5](http://www.unicode.org/alloc/ISOStages.html). See the
 [latest news](#update20140305) for details.
-
-Feel free to use our [proposal](https://github.com/jloughry/Unicode/raw/master/proposal.pdf)
-and [supporting information](#font-embedding-test) as a guide to making your own proposal
-a success.
 
 <hr/>
 <a name="footnote-see-the-characters"/>
@@ -43,6 +39,11 @@ a success.
 if you don't have the [font](#fonts) and can't see them yet.
 [Look here](http://call-with-current-continuation.com/unicode_font_test_page.html)
 for a test of dynamic font loading in your web browser.
+<hr/>
+
+Feel free to use our [proposal](https://github.com/jloughry/Unicode/raw/master/proposal.pdf)
+and [supporting information](#font-embedding-test) as a guide to making your own proposal
+a success.
 
 ### Lessons learnt from a [successful proposal](https://github.com/jloughry/Unicode/raw/master/proposal.pdf):<a name="update20140221"/>
 

@@ -1,1 +1,1 @@
-experimenting with different ways of presenting a footnote in Markdown.
+I hate Markdown.
