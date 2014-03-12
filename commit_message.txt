@@ -1,1 +1,1 @@
-i hate Markdown.
+move footnote displaying characters as PNG graphics higher on the page.
