@@ -371,7 +371,7 @@ uses font embedding in HTML and should work on more browsers.
 			src="https://github.com/jloughry/Unicode/raw/master/graphics/green_check.png"
 			alt="green check mark"/></td>
 	</tr>
-	<tr><td>Safari <sup>&sect;, \*\*</sup></td><td>7.0.6 (11B651)</td><td>iPad</td>
+	<tr><td>Safari <sup>&sect;, **</sup></td><td>7.0.6 (11B651)</td><td>iPad</td>
 		<td><img
 			src="https://github.com/jloughry/Unicode/raw/master/graphics/green_check.png"
 			alt="green check mark"/></td>
@@ -388,7 +388,7 @@ uses font embedding in HTML and should work on more browsers.
 			src="https://github.com/jloughry/Unicode/raw/master/graphics/green_check.png"
 			alt="green check mark"/></td>
 	</tr>
-	<tr><td>Safari <sup>&sect;, \*\*</sup></td><td>7.0.6 (11B651)</td><td>iPhone</td>
+	<tr><td>Safari <sup>&sect;, **</sup></td><td>7.0.6 (11B651)</td><td>iPhone</td>
 		<td><img
 			src="https://github.com/jloughry/Unicode/raw/master/graphics/green_check.png"
 			alt="green check mark"/></td>
