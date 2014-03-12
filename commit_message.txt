@@ -1,1 +1,1 @@
-move footnote displaying characters as PNG graphics higher on the page.
+experimenting with different ways of presenting a footnote in Markdown.

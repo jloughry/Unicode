@@ -17,7 +17,7 @@ Success!
 --------
 
 The U+23FB &#x23FB;, U+23FC &#x23FC;, U+23FD &#x23FD;, U+2B58 &#x2B58;, and U+1F32D &#x1F32D;
-characters<sup>[*](#footnote-see-the-characters)</sup> now appear in the Unicode
+[characters<sup>*(#footnote-see-the-characters)</sup>] now appear in the Unicode
 [Pipeline Table](http://www.unicode.org/alloc/Pipeline.html) with the status of
 &ldquo;Accepted&rdquo;. They can be used now, and designed into [fonts](#fonts), and
 they're on their way to be in a future version of the Unicode Standard after 7.0. The
@@ -32,6 +32,7 @@ Feel free to use our [proposal](https://github.com/jloughry/Unicode/raw/master/p
 and [supporting information](#font-embedding-test) as a guide to making your own proposal
 a success.
 
+<hr/>
 <a name="footnote-see-the-characters"/>
 <sup>*</sup> These symbols:
 <img src="https://github.com/jloughry/Unicode/raw/master/graphics/18px-Unicode_POWER_SYMBOL.png" alt="Unicode POWER SYMBOL"/>,
@@ -39,9 +40,9 @@ a success.
 <img src="https://github.com/jloughry/Unicode/raw/master/graphics/3px-Unicode_POWER_ON_SYMBOL.png" alt="Unicode POWER ON SYMBOL"/>,
 <img src="https://github.com/jloughry/Unicode/raw/master/graphics/18px-Unicode_HEAVY_CIRCLE.png" alt="Unicode HEAVY CIRCLE"/>, and
 <img src="https://github.com/jloughry/Unicode/raw/master/graphics/18px-Unicode_BLACK_WANING_CRESCENT_MOON.png" alt="Unicode BLACK WANING CRESCENT MOON"/>,
-if you don't have the [font](#fonts) and can't see them yet. Look
-[here](http://call-with-current-continuation.com/unicode_font_test_page.html)
-to see if your web browser can load the font dynamically.
+if you don't have the [font](#fonts) and can't see them yet.
+[Look here](http://call-with-current-continuation.com/unicode_font_test_page.html)
+for a test of dynamic font loading in your web browser.
 
 ### Lessons learnt from a [successful proposal](https://github.com/jloughry/Unicode/raw/master/proposal.pdf):<a name="update20140221"/>
 
