@@ -1,1 +1,1 @@
-update news
+added iPhone to web browser tests; updated version number of iOS for iPad; added fotnote

@@ -371,7 +371,24 @@ uses font embedding in HTML and should work on more browsers.
 			src="https://github.com/jloughry/Unicode/raw/master/graphics/green_check.png"
 			alt="green check mark"/></td>
 	</tr>
-	<tr><td>Safari <sup>&sect;</sup></td><td>7.0.4 (11B554a)</td><td>iPad</td>
+	<tr><td>Safari <sup>&sect;, \*\*</sup></td><td>7.0.6 (11B651)</td><td>iPad</td>
+		<td><img
+			src="https://github.com/jloughry/Unicode/raw/master/graphics/green_check.png"
+			alt="green check mark"/></td>
+		<td><img
+			src="https://github.com/jloughry/Unicode/raw/master/graphics/green_check.png"
+			alt="green check mark"/></td>
+		<td><img
+			src="https://github.com/jloughry/Unicode/raw/master/graphics/green_check.png"
+			alt="green check mark"/></td>
+		<td><img
+			src="https://github.com/jloughry/Unicode/raw/master/graphics/green_check.png"
+			alt="green check mark"/></td>
+		<td><img
+			src="https://github.com/jloughry/Unicode/raw/master/graphics/green_check.png"
+			alt="green check mark"/></td>
+	</tr>
+	<tr><td>Safari <sup>&sect;, \*\*</sup></td><td>7.0.6 (11B651)</td><td>iPhone</td>
 		<td><img
 			src="https://github.com/jloughry/Unicode/raw/master/graphics/green_check.png"
 			alt="green check mark"/></td>
@@ -463,6 +480,8 @@ for more information on Unicode support in Chrome under Windows.
 <sup>&para;</sup> Safari displays a black box for BLACK WANING CRESCENT MOON, like this: <img
 	src="https://github.com/jloughry/Unicode/raw/master/graphics/black_box.png"/>.
 	alt="black box"/>
+<br/>
+<sup>\*\*</sup> iOS was the only software found to display stacked diacritics correctly.
 
 Latest Updates
 --------------
