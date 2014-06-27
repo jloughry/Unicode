@@ -6,7 +6,7 @@ before they are finally published in the Unicode Standard. Always check
 the [Unicode Pipeline](http://www.unicode.org/alloc/Pipeline.html)
 for the latest guidance.*
 
-See the [latest news](#update20140311) here.
+See the [latest news](#update20140627) here. The process is moving forward.
 
 Add IEC 60417-5009 POWER SYMBOL &#x23FB; to the Unicode Standard
 ================================================================
@@ -494,12 +494,12 @@ Latest Updates
 <a name="update20140627"/>*(27th June 2014)*
 
 - The new symbols 23FB POWER SYMBOL, 23FC POWER ON-OFF SYMBOL, 23FD POWER ON SYMBOL,
-and 1F32D BLACK WANING CRESCENT MOON (use for POWER SLEEP SYMBOL), and the new cross
-reference on 2B58 HEAVY CIRCLE (use for POWER OFF SYMBOL) appear in the
+and 1F32D BLACK WANING CRESCENT MOON (use for POWER SLEEP SYMBOL), together with the
+new cross reference on 2B58 HEAVY CIRCLE (use for POWER OFF SYMBOL) appear in the
 [Draft Additional Repertoire for Amendment 2 to ISO/IEC 10646:2014
 (4th Edition)](http://www.unicode.org/L2/L2014/14142-10646-4th-pdam2.pdf). The draft
 repertoire is in the Proposed Draft Amendment (PDAM) stage.
-[Help is requested](http://www.unicode.org/review/pri276/) to discover any errors
+[Your help is requested](http://www.unicode.org/review/pri276/) to discover any errors
 in character names, incorrect glyphs, or other problems.
 
 <a name="update20140311"/>*(11th March 2014)*
