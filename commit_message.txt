@@ -1,1 +1,1 @@
-update CSS font test page
+update README and Makefile (documenting the reason why common.mk and private.mk are not used).
