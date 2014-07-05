@@ -30,14 +30,14 @@ for publication in 2016.  Right now they are in
 
 <hr/>
 <a name="footnote-see-the-characters"/>
-<sup>*</sup> These symbols:
+<sup>*</sup> These are the symbols:
 <img src="https://github.com/jloughry/Unicode/raw/master/graphics/18px-Unicode_POWER_SYMBOL.png" alt="Unicode POWER SYMBOL"/>,
 <img src="https://github.com/jloughry/Unicode/raw/master/graphics/18px-Unicode_POWER_ON-OFF_SYMBOL.png" alt="Unicode POWER ON-OFF SYMBOL"/>,
 <img src="https://github.com/jloughry/Unicode/raw/master/graphics/3px-Unicode_POWER_ON_SYMBOL.png" alt="Unicode POWER ON SYMBOL"/>,
 <img src="https://github.com/jloughry/Unicode/raw/master/graphics/18px-Unicode_HEAVY_CIRCLE.png" alt="Unicode HEAVY CIRCLE"/>, and
 <img src="https://github.com/jloughry/Unicode/raw/master/graphics/18px-Unicode_BLACK_WANING_CRESCENT_MOON.png" alt="Unicode BLACK WANING CRESCENT MOON"/>,
 if you don't have the [font](#fonts) and can't see them yet.
-[Look here](http://call-with-current-continuation.com/unicode_font_test_page.html)
+[Look here](http://call-with-current-continuation.com/unicode_font_test_page.html) [*external site*]
 for a test of dynamic font loading in your web browser.
 <hr/>
 
