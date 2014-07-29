@@ -26,7 +26,7 @@ WG2 #62 meeting to go into
 [Amendment 2 to ISO/IEC 10646:2014](http://www.unicode.org/L2/L2014/14079-n4569.pdf)
 for publication in 2016.  Right now they are in
 [ISO stage 5](http://www.unicode.org/alloc/ISOStages.html). See the
-[latest news](#update20140305) for details.
+[latest news](#update20140729) for details.
 
 <hr/>
 <a name="footnote-see-the-characters"/>
@@ -488,8 +488,19 @@ for more information on Unicode support in Chrome under Windows.
 <br/>
 <sup>\*\*</sup> iOS was the only software found to display stacked diacritics correctly.
 
-Latest Updates
---------------
+Latest News
+-----------
+
+<a name="update20140729"/>*(29th July 2014)*
+
+- Unicode 8.0 will contain Amendment 1 characters but probably not Amendment 2; these
+will come later in the calendar. The repertoire in which our symbols appear is
+[ISO/IEC 10646:2014 (4th Edition, Amendment 2)](http://www.unicode.org/L2/L2014/14142-10646-4th-pdam2.pdf).
+
+- [Feedback](http://www.unicode.org/review/pri276/) by others on Amendment 2 has suggested
+that POWER SLEEP SYMBOL ought to be encoded in the "Miscellaneous Technical Symbols" block
+in the Basic Multilingual Plane (BMP), perhaps at U+23FE. This would co-locate it "...with
+the other power related symbols in the same Unicode block."
 
 <a name="update20140627"/>*(27th June 2014)*
 

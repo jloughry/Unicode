@@ -1,1 +1,1 @@
-update README and Makefile (documenting the reason why common.mk and private.mk are not used).
+update with feedback on Amendment 2 (it looks like only Amendment 1 will make it into Unicode 8)
