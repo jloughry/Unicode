@@ -1,1 +1,0 @@
-update with feedback on Amendment 2 (it looks like only Amendment 1 will make it into Unicode 8)

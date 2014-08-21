@@ -6,7 +6,8 @@ before they are finally published in the Unicode Standard. Always check
 the [Unicode Pipeline](http://www.unicode.org/alloc/Pipeline.html)
 for the latest guidance.*
 
-See the [latest news](#update20140627) here. The process is moving forward.
+See the [latest news](#update20140820) here; we hope to see the new symbols
+at least in Unicode version 9.0, expected June 2016.
 
 Add IEC 60417-5009 POWER SYMBOL &#x23FB; to the Unicode Standard
 ================================================================
@@ -490,6 +491,11 @@ for more information on Unicode support in Chrome under Windows.
 
 Latest News
 -----------
+
+<a name="update20140820"/>*(20th August 2014)*
+
+- New major revisions of Unicode are now expected to be published every year in June;
+look for Unicode 8.0 in June 2015, and Unicode 9.0 in June 2016.
 
 <a name="update20140729"/>*(29th July 2014)*
 
