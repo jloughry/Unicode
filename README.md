@@ -492,6 +492,11 @@ for more information on Unicode support in Chrome under Windows.
 Latest News
 -----------
 
+<a name="update20141027"/>*(27th October 2014)*
+
+- For historical reasons, [this](http://hea-www.harvard.edu/~fine/OSX/unicode_apple_logo.html)
+was probably the original inspiration for this project [Reference 10](#ref10).
+
 <a name="update20140820"/>*(20th August 2014)*
 
 - New major revisions of Unicode are now expected to be published every year in June;
@@ -1204,4 +1209,9 @@ on 4th February 2014.
 
 9. <a name="ref9"/>Adobe Systems Incorporated. *Building CMap Files for CID-Keyed Fonts*.
 Technical Note #5099, 14 October 1998.
+
+10. <a name="ref10"/>Tom Fine. &ldquo;The Apple Logo in Unicode&rdquo;.
+*Thomas A. Fine's blog*:
+[http://hea-www.harvard.edu/~fine/OSX/unicode_apple_logo.html](http://hea-www.harvard.edu/~fine/OSX/unicode_apple_logo.html),
+2008, 2010.
 
