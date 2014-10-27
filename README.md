@@ -6,8 +6,8 @@ before they are finally published in the Unicode Standard. Always check
 the [Unicode Pipeline](http://www.unicode.org/alloc/Pipeline.html)
 for the latest guidance.*
 
-See the [latest news](#update20140820) here; we hope to see the new symbols
-at least in Unicode version 9.0, expected June 2016.
+See the [latest news](#update20141027) here. We hope to see the new symbols
+in Unicode version 9.0, expected in June or July, 2016.
 
 Add IEC 60417-5009 POWER SYMBOL &#x23FB; to the Unicode Standard
 ================================================================
@@ -495,7 +495,7 @@ Latest News
 <a name="update20141027"/>*(27th October 2014)*
 
 - For historical reasons, [this](http://hea-www.harvard.edu/~fine/OSX/unicode_apple_logo.html)
-was probably the original inspiration for this project [Reference 10](#ref10).
+was probably the original inspiration for this project (see [Reference 10](#ref10)).
 
 <a name="update20140820"/>*(20th August 2014)*
 
@@ -1212,6 +1212,6 @@ Technical Note #5099, 14 October 1998.
 
 10. <a name="ref10"/>Tom Fine. &ldquo;The Apple Logo in Unicode&rdquo;.
 *Thomas A. Fine's blog*:
-[http://hea-www.harvard.edu/~fine/OSX/unicode_apple_logo.html](http://hea-www.harvard.edu/~fine/OSX/unicode_apple_logo.html),
-2008, 2010.
+[http://hea-www.harvard.edu/~fine/OSX/unicode_apple_logo.html](http://hea-www.harvard.edu/~fine/OSX/unicode_apple_logo.html).
+Updated 2008, 2010.
 
