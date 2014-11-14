@@ -17,15 +17,15 @@ Add IEC 60417-5009 POWER SYMBOL &#x23FB; to the Unicode Standard
 Success!
 --------
 
-The U+23FB &#x23FB;, U+23FC &#x23FC;, U+23FD &#x23FD;, U+2B58 &#x2B58;,
-and U+1F32D &#x1F32D;
-[characters](http://www.jwz.org/blog/2011/11/you-doom-us-all-to-inhuman-toil-for-the-one-whose-name-cannot-be-expressed-in-the-basic-multilingual-plane/)[<sup>*</sup>](#footnote-see-the-characters)
-now appear in the Unicode
-[Pipeline Table](http://www.unicode.org/alloc/Pipeline.html) with the status of
-&ldquo;Accepted&rdquo;. They can be used now, and designed into [fonts](#fonts), and
-they're on their way to be in a future version of the Unicode Standard after 7.0. The
-symbols were approved by the ISO 10646 Working Group 2 (JTC 1/SC 2/WG 2) at the
-WG2 #62 meeting to go into
+The U+23FB &#x23FB;[<sup>&lowast;</sup>](#footnote-see-the-characters),
+U+23FC &#x23FC;, U+23FD &#x23FD;, U+2B58 &#x2B58;, and
+U+1F32D &#x1F32D;[<sup>&dagger;</sup>](http://www.jwz.org/blog/2011/11/you-doom-us-all-to-inhuman-toil-for-the-one-whose-name-cannot-be-expressed-in-the-basic-multilingual-plane/)
+characters now appear in the Unicode
+[Pipeline Table](http://www.unicode.org/alloc/Pipeline.html) with the
+status of &ldquo;Accepted&rdquo;. They can be used now, and designed into
+[fonts](#fonts), and they're on their way to be in a future version of the
+Unicode Standard after 7.0. The symbols were approved by the ISO 10646
+Working Group 2 (JTC 1/SC 2/WG 2) at the WG2 #62 meeting to go into
 [Amendment 2 to ISO/IEC 10646:2014](http://www.unicode.org/L2/L2014/14079-n4569.pdf)
 for publication in 2016.  Right now they are in
 [ISO stage 5](http://www.unicode.org/alloc/ISOStages.html). See the
@@ -33,7 +33,7 @@ for publication in 2016.  Right now they are in
 
 <hr/>
 <a name="footnote-see-the-characters"/>
-<sup>*</sup> These are the symbols:
+<sup>&lowast;</sup> These are the symbols:
 <img src="https://github.com/jloughry/Unicode/raw/master/graphics/18px-Unicode_POWER_SYMBOL.png" alt="Unicode POWER SYMBOL"/>,
 <img src="https://github.com/jloughry/Unicode/raw/master/graphics/18px-Unicode_POWER_ON-OFF_SYMBOL.png" alt="Unicode POWER ON-OFF SYMBOL"/>,
 <img src="https://github.com/jloughry/Unicode/raw/master/graphics/3px-Unicode_POWER_ON_SYMBOL.png" alt="Unicode POWER ON SYMBOL"/>,
@@ -42,6 +42,9 @@ for publication in 2016.  Right now they are in
 if you don't have the [font](#fonts) and can't see them yet.
 [Look here](http://call-with-current-continuation.com/unicode_font_test_page.html) [*external site*]
 for a test of dynamic font loading in your web browser.
+
+<sup>&dagger;</sup> The suggestion has been made that this character be
+co-located with the others in the Basic Multilingual Plane.
 <hr/>
 
 Feel free to use our [proposal](https://github.com/jloughry/Unicode/raw/master/proposal.pdf)
@@ -55,7 +58,7 @@ are already in common use* in running text before a proposal will be accepted. T
 attestations you provide, the better. Attestations are usually photographs or scans showing the
 occurrence of the proposed characters in print. We managed to find attestations dating back to
 1984; some proposals for scripts of historical interest have attestations going back centuries
-or millennia.<sup>[&dagger;](#success-footnotes)</sup>
+or millennia.<sup>[&Dagger;](#success-footnotes)</sup>
 
 2. Successful proposals **cover every angle and raise every anticipated objection** before those
 objections can be raised in committee. Our proposal took the risk of pointing out disagreement
@@ -75,7 +78,7 @@ for it. During the UTC meeting when your proposal is considered, it's likely tha
 subcommittee members will need to write a quick proposal in support of your proposal
 (that's how it's done) and it'll help them if your font is to hand when they need it.
 They can't just extract the font from the PDF of your proposal, as we thought they
-might.<sup>[&Dagger;](#success-footnotes)</sup>
+might.<sup>[&sect;](#success-footnotes)</sup>
 
 6. Complete the
 [ISO/IEC JTC 1/SC 2/WG 2 PROPOSAL SUMMARY FORM TO ACCOMPANY SUBMISSIONS FOR ADDITIONS TO THE REPERTOIRE OF ISO/IEC 10646](http://std.dkuug.dk/JTC1/SC2/WG2/docs/summaryform.html)
@@ -109,10 +112,10 @@ here and **use it as a model for your own.**
 
 <a name="success-footnotes"/>
 <hr/>
-<sup>&dagger;</sup>&#x23FD; and &#x2B58; were found in the first IBM PC operating manual
+<sup>&Dagger;</sup>&#x23FD; and &#x2B58; were found in the first IBM PC operating manual
 on page 1-11, but are believed to have been in use in the late nineteen-seventies.
 
-<sup>&Dagger;</sup>&nbsp; [Extracting fonts from a PDF file in the form of usable font files](http://stackoverflow.com/questions/3488042/how-can-i-extract-embedded-fonts-from-a-pdf-as-valid-font-files) can be done,
+<sup>&sect;</sup>&nbsp; [Extracting fonts from a PDF file in the form of usable font files](http://stackoverflow.com/questions/3488042/how-can-i-extract-embedded-fonts-from-a-pdf-as-valid-font-files) can be done,
 but it's not very easy.
 
 Get the Fonts Here<a name="fonts"/>
@@ -205,7 +208,7 @@ uses font embedding in HTML and should work on more browsers.
 			alt="green check mark"/></td>
 		<td><img
 			src="https://github.com/jloughry/Unicode/raw/master/graphics/red_x.png"
-			alt="red X"/><sup>*</sup></td>
+			alt="red X"/><sup>&lowast;</sup></td>
 	</tr>
 	<tr><td>Firefox</td><td>27.0</td><td>Mac OS X 10.6.8 (Intel)</td>
 		<td><img
@@ -222,7 +225,7 @@ uses font embedding in HTML and should work on more browsers.
 			alt="green check mark"/></td>
 		<td><img
 			src="https://github.com/jloughry/Unicode/raw/master/graphics/red_x.png"
-			alt="red X"/><sup>*</sup></td>
+			alt="red X"/><sup>&lowast;</sup></td>
 	</tr>
 	<tr><td>Firefox</td><td>27.0</td><td>Mac OS X 10.9.1 (Intel)</td>
 		<td><img
@@ -428,7 +431,7 @@ uses font embedding in HTML and should work on more browsers.
 			alt="green check mark"/></td>
 		<td><img
 			src="https://github.com/jloughry/Unicode/raw/master/graphics/red_x.png"
-			alt="red X"/><sup>*</sup></td>
+			alt="red X"/><sup>&lowast;</sup></td>
 	</tr>
 	<tr><td>IE 8</td><td>8.0.6001.18702</td><td>Windows XP Professional
 		Service Pack 3</td>
@@ -830,7 +833,7 @@ In brief, the suggested character properties are now (with names and code points
 
 <b>Notes:</b>
 
-<a name="note-star"/><sup>*</sup>This character is cross referenced to <img src="https://github.com/jloughry/Unicode/raw/master/graphics/18px-IEC5008_Off_Symbol.svg.png" alt="Unicode HEAVY CIRCLE"/>.
+<a name="note-star"/><sup>&lowast;</sup>This character is cross referenced to <img src="https://github.com/jloughry/Unicode/raw/master/graphics/18px-IEC5008_Off_Symbol.svg.png" alt="Unicode HEAVY CIRCLE"/>.
 
 <a name="note-dagger"/><sup>&dagger;</sup>This character is aliased to POWER OFF SYMBOL and cross referenced to <img src="https://github.com/jloughry/Unicode/raw/master/graphics/18px-IEC5009_Standby_Symbol.svg.png" alt="Unicode POWER SYMBOL"/>.
 
