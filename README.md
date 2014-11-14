@@ -17,8 +17,11 @@ Add IEC 60417-5009 POWER SYMBOL &#x23FB; to the Unicode Standard
 Success!
 --------
 
-The U+23FB &#x23FB;, U+23FC &#x23FC;, U+23FD &#x23FD;, U+2B58 &#x2B58;, and U+1F32D &#x1F32D;
-[characters<sup>*</sup>](#footnote-see-the-characters) now appear in the Unicode
+The U+23FB &#x23FB;, U+23FC &#x23FC;, U+23FD &#x23FD;, U+2B58 &#x2B58;,
+and U+1F32D &#x1F32D; [characters](http://www.jwz.org/blog/2011/11/<!--
+you-doom-us-all-to-inhuman-toil-for-the-one-whose-name-cannot-be-ex<!--
+pressed-in-the-basic-multilingual-plane/)[<sup>*</sup>](#footnote-see-the-characters)
+now appear in the Unicode
 [Pipeline Table](http://www.unicode.org/alloc/Pipeline.html) with the status of
 &ldquo;Accepted&rdquo;. They can be used now, and designed into [fonts](#fonts), and
 they're on their way to be in a future version of the Unicode Standard after 7.0. The
