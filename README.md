@@ -1,3 +1,8 @@
+[Lessons Learned](#lessons_learnt)
+==================================
+
+Look here for [lessons learnt](#lessons_learnt) from a successful proposal.
+
 <p align="right"><img src="http://unicodepowersymbol.com/wp-content/uploads/2014/01/Red-Power-Symbol.png" width="10%" hspace="4" alt="POWER SYMBOL"/> <a href="http://unicodepowersymbol.com">http://unicodepowersymbol.com</a></p>
 
 **Caution:** *Use of proposed or accepted characters is at implementers&apos;
@@ -51,7 +56,7 @@ Feel free to use our [proposal](https://github.com/jloughry/Unicode/raw/master/p
 and [supporting information](#font-embedding-test) as a guide to making your own proposal
 a success.
 
-### Lessons learnt from a [successful proposal](https://github.com/jloughry/Unicode/raw/master/proposal.pdf):<a name="update20140221"/>
+### Lessons learnt from a [successful proposal](https://github.com/jloughry/Unicode/raw/master/proposal.pdf):<a name="update20140221"/><a name="lessons_learnt"/>
 
 1. **Attestations are everything.** Committee members need to see *evidence that the characters
 are already in common use* in running text before a proposal will be accepted. The more
