@@ -1,7 +1,7 @@
-[Lessons Learned](#lessons_learnt)
-==================================
+[How to make your Unicode proposal successful](#lessons_learnt)
+===============================================================
 
-Look here for [lessons learnt](#lessons_learnt) from a successful proposal.
+[Lessons learnt](#lessons_learnt) from our successful proposal.
 
 <p align="right"><img src="http://unicodepowersymbol.com/wp-content/uploads/2014/01/Red-Power-Symbol.png" width="10%" hspace="4" alt="POWER SYMBOL"/> <a href="http://unicodepowersymbol.com">http://unicodepowersymbol.com</a></p>
 
