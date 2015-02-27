@@ -11,7 +11,20 @@ before they are finally published in the Unicode Standard. Always check
 the [Unicode Pipeline](http://www.unicode.org/alloc/Pipeline.html)
 for the latest guidance.*
 
-See the [latest news](#update20141027) here. We hope to see the new symbols
+The relevant characters are:
+
+- U+23FB POWER SYMBOL (&#x23fb; or <img src="https://github.com/jloughry/Unicode/raw/master/graphics/18px-Unicode_POWER_SYMBOL.png" alt="Unicode POWER SYMBOL"/>)
+- U+23FC POWER ON-OFF SYMBOL (&#x23fc; or <img src="https://github.com/jloughry/Unicode/raw/master/graphics/18px-Unicode_POWER_ON-OFF_SYMBOL.png" alt="Unicode POWER ON-OFF SYMBOL"/>)
+- U+23FD POWER ON SYMBOL (&#x23fd; or <img src="https://github.com/jloughry/Unicode/raw/master/graphics/3px-Unicode_POWER_ON_SYMBOL.png" alt="Unicode POWER ON SYMBOL"/>)
+- U+23FE POWER SLEEP SYMBOL (&#x23fe; or <img src="https://github.com/jloughry/Unicode/raw/master/graphics/18px-Unicode_BLACK_WANING_CRESCENT_MOON.png" alt="Unicode BLACK WANING CRESCENT MOON"/>)
+
+As well as U+2B58 HEAVY CIRCLE (&#x2b58; or <img src="https://github.com/jloughry/Unicode/raw/master/graphics/18px-Unicode_HEAVY_CIRCLE.png" alt="Unicode HEAVY CIRCLE"/>) for the power off symbol.
+
+- Note that POWER SLEEP SYMBOL has now been moved into the "Miscellaneous
+Technical Symbols" block in the Basic Multilingual Plane (BMP) at position
+U+23FE and given its proper name at last.
+
+See the [latest news](#update20150227) here. We hope to see the new symbols
 in Unicode version 9.0, expected in June or July, 2016.
 
 Add IEC 60417-5009 POWER SYMBOL &#x23FB; to the Unicode Standard
@@ -501,6 +514,25 @@ for more information on Unicode support in Chrome under Windows.
 
 Latest News
 -----------
+
+<a name="update20150227"/>*(27th February 2015)*
+
+- [Feedback](http://blog.unicode.org/2015/02/feedback-on-repertoire-for-isoiec.html)
+on the
+[draft repertoire for ISO/IEC 10646:2014 (4th Edition, Amendment 2)](http://www.unicode.org/L2/L2015/15028-n4658-pdam23-charts.pdf)
+is being sought by the Unicode Technical Committee (UTC) this week. The
+relevant characters are:
+
+    - U+23FB POWER SYMBOL
+    - U+23FC POWER ON-OFF SYMBOL
+    - U+23FD POWER ON SYMBOL
+    - U+23FE POWER SLEEP SYMBOL
+
+- As well as U+2B58 HEAVY CIRCLE for the power off symbol.
+
+- Note that POWER SLEEP SYMBOL has now been moved into the "Miscellaneous
+Technical Symbols" block in the Basic Multilingual Plane (BMP) at position
+U+23FE and given its proper name at last.
 
 <a name="update20141027"/>*(27th October 2014)*
 
