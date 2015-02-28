@@ -32,10 +32,9 @@ end def
 
 /WMode 0 def	% horizontal writing mode, i.e., we're not writing in Chinese
 
-3 begincodespacerange
-	<23FB> <23FD>	% Unicode POWER SYMBOL, POWER ON-OFF SYMBOL, POWER ON SYMBOL
+2 begincodespacerange
+	<23FB> <23FE>	% Unicode POWER SYMBOL, POWER ON-OFF SYMBOL, POWER ON SYMBOL, POWER SLEEP SYMBOL
 	<2B58> <2B58>	% Unicode HEAVY CIRCLE
-	<1F32D> <1F32D>	% Unicode BLACK WANING CRESCENT MOON
 endcodespacerange
 
 1 beginnotdefrange
@@ -45,9 +44,9 @@ endnotdefrange
 5 begincidrange		% 5 is the number of mapping lines in the CID range
 <23FB> <23FB> 1		% mapping lines must be in increasing hex order
 <23FC> <23FC> 2		% character code ranges are in hex (from Unicode)
-<23FD> <23FD> 4		% CID start values are in decimal (from the PostScript font file)
-<2B58> <2B58> 3		% If this were a script with a sensible collating order,
-<1F32D> <1F32D> 5	% then probably some of these could be collapsed into ranges.
+<23FD> <23FD> 3		% CID start values are in decimal (from the PostScript font file)
+<23FE> <23FE> 4		% If this were a script with a sensible collating order,         
+<2B58> <2B58> 5		% then probably some of these could be collapsed into ranges.
 endcidrange
 
 endcmap
