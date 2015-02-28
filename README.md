@@ -36,8 +36,8 @@ Success!
 --------
 
 The U+23FB &#x23FB;[<sup>&lowast;</sup>](#footnote-see-the-characters),
-U+23FC &#x23FC;, U+23FD &#x23FD;, U+2B58 &#x2B58;, and
-U+1F32D &#x1F32D;[<sup>&dagger;</sup>](http://www.jwz.org/blog/2011/11/you-doom-us-all-to-inhuman-toil-for-the-one-whose-name-cannot-be-expressed-in-the-basic-multilingual-plane/)
+U+23FC &#x23FC;, U+23FD &#x23FD;, U+23FE &#x23FE;, and
+U+2B58 &#x2B58;[<sup>&dagger;</sup>](http://www.jwz.org/blog/2011/11/you-doom-us-all-to-inhuman-toil-for-the-one-whose-name-cannot-be-expressed-in-the-basic-multilingual-plane/)
 characters now appear in the Unicode
 [Pipeline Table](http://www.unicode.org/alloc/Pipeline.html) with the
 status of &ldquo;Accepted&rdquo;. They can be used now, and designed into
@@ -55,8 +55,8 @@ for publication in 2016.  Right now they are in
 <img src="https://github.com/jloughry/Unicode/raw/master/graphics/18px-Unicode_POWER_SYMBOL.png" alt="Unicode POWER SYMBOL"/>,
 <img src="https://github.com/jloughry/Unicode/raw/master/graphics/18px-Unicode_POWER_ON-OFF_SYMBOL.png" alt="Unicode POWER ON-OFF SYMBOL"/>,
 <img src="https://github.com/jloughry/Unicode/raw/master/graphics/3px-Unicode_POWER_ON_SYMBOL.png" alt="Unicode POWER ON SYMBOL"/>,
-<img src="https://github.com/jloughry/Unicode/raw/master/graphics/18px-Unicode_HEAVY_CIRCLE.png" alt="Unicode HEAVY CIRCLE"/>, and
-<img src="https://github.com/jloughry/Unicode/raw/master/graphics/18px-Unicode_BLACK_WANING_CRESCENT_MOON.png" alt="Unicode BLACK WANING CRESCENT MOON"/>,
+<img src="https://github.com/jloughry/Unicode/raw/master/graphics/18px-Unicode_BLACK_WANING_CRESCENT_MOON.png" alt="Unicode POWER SLEEP SYMBOL"/>, and
+<img src="https://github.com/jloughry/Unicode/raw/master/graphics/18px-Unicode_HEAVY_CIRCLE.png" alt="Unicode HEAVY CIRCLE"/>,
 if you don't have the [font](#fonts) and can't see them yet.
 [Look here](http://call-with-current-continuation.com/unicode_font_test_page.html) [*external site*]
 for a test of dynamic font loading in your web browser.
@@ -146,7 +146,7 @@ Download one of the [Unicode_IEC_symbol_font.ttf](https://github.com/jloughry/Un
 and install it on your system.
 
 If you have the font installed, the &#x23FB; characters &#x23FC; should &#x23FD; appear
-&#x2B58; inline &#x1F32D; here. (This may not work in all web browsers.) See the
+&#x23FE; inline &#x2B58; here. (This may not work in all web browsers.) See the
 [Web Browser Test](#update20140212) section, especially the
 [HTML Font Embedding Test](#font-embedding-test) page below for a more thorough test
 of your web browser's support for Unicode fonts.
@@ -165,8 +165,8 @@ Here are the new characters displayed without using HTML font embedding: can you
 - &#x23FB; POWER SYMBOL
 - &#x23FC; POWER ON-OFF SYMBOL
 - &#x23FD; POWER ON SYMBOL
+- &#x23FE; POWER SLEEP SYMBOL
 - &#x2B58; HEAVY CIRCLE (POWER OFF)
-- &#x1F32D; BLACK WANING CRESCENT MOON (SLEEP)
 
 ### <a name="font-embedding-test"/>HTML Font Embedding Test
 
