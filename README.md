@@ -16,7 +16,8 @@ The relevant characters are:
 - U+23FB POWER SYMBOL (&#x23fb; or <img src="https://github.com/jloughry/Unicode/raw/master/graphics/18px-Unicode_POWER_SYMBOL.png" alt="Unicode POWER SYMBOL"/>)
 - U+23FC POWER ON-OFF SYMBOL (&#x23fc; or <img src="https://github.com/jloughry/Unicode/raw/master/graphics/18px-Unicode_POWER_ON-OFF_SYMBOL.png" alt="Unicode POWER ON-OFF SYMBOL"/>)
 - U+23FD POWER ON SYMBOL (&#x23fd; or <img src="https://github.com/jloughry/Unicode/raw/master/graphics/3px-Unicode_POWER_ON_SYMBOL.png" alt="Unicode POWER ON SYMBOL"/>)
-- U+23FE POWER SLEEP SYMBOL (&#x23fe; or <img src="https://github.com/jloughry/Unicode/raw/master/graphics/18px-Unicode_BLACK_WANING_CRESCENT_MOON.png" alt="Unicode BLACK WANING CRESCENT MOON"/>)
+- U+23FE POWER SLEEP SYMBOL (&#x23fe; or <img src="https://github.com/jloughry/Unicode/raw/master/graphics/18px-Unicode_BLACK_WANING_CRESCENT_MOON.png" alt="Unicode <s>BLACK WANING CRESCENT MOON</s>
+POWER SLEEP SYMBOL"/>)
 
 As well as U+2B58 HEAVY CIRCLE (&#x2b58; or <img src="https://github.com/jloughry/Unicode/raw/master/graphics/18px-Unicode_HEAVY_CIRCLE.png" alt="Unicode HEAVY CIRCLE"/>) for the power off symbol.
 
@@ -192,7 +193,7 @@ uses font embedding in HTML and should work on more browsers.
 			alt="Unicode HEAVY CIRCLE"/></th>
 		<th><img
 			src="https://github.com/jloughry/Unicode/raw/master/graphics/18px-Unicode_BLACK_WANING_CRESCENT_MOON.png"
-			alt="Unicode BLACK WANING CRESCENT MOON"/></th>
+			alt="Unicode <s>BLACK WANING CRESCENT MOON</s> POWER SLEEP SYMBOL"/></th>
 	</tr>
 	<tr><td>Firefox</td><td>26.0</td><td>Windows XP Professional Service Pack 3</td>
 		<td><img
@@ -503,10 +504,12 @@ for more information on Unicode support in Chrome under Windows.
 <sup>&sect;</sup> Full support on these devices (everything works correctly) using
 [font embedding in CSS](#font-embedding-test).
 <br/>
-<sup>&#x2225;</sup> Partial support (everything but BLACK WANING CRESCENT MOON works) using
+<sup>&#x2225;</sup> Partial support (everything but <s>BLACK WANING CRESCENT MOON</s>
+POWER SLEEP SYMBOL works) using
 [font embedding in CSS](#font-embedding-test).
 <br/>
-<sup>&para;</sup> Safari displays a black box for BLACK WANING CRESCENT MOON, like this: <img
+<sup>&para;</sup> Safari displays a black box for <s>BLACK WANING CRESCENT MOON</s>
+POWER SLEEP SYMBOL, like this: <img
 	src="https://github.com/jloughry/Unicode/raw/master/graphics/black_box.png"/>.
 	alt="black box"/>
 <br/>
@@ -558,7 +561,8 @@ the other power related symbols in the same Unicode block."
 <a name="update20140627"/>*(27th June 2014)*
 
 - The new symbols 23FB POWER SYMBOL, 23FC POWER ON-OFF SYMBOL, 23FD POWER ON SYMBOL,
-and 1F32D BLACK WANING CRESCENT MOON (use for POWER SLEEP SYMBOL), together with the
+and <s>1F32D BLACK WANING CRESCENT MOON (use for POWER SLEEP SYMBOL)</s>
+23FE POWER SLEEP SYMBOL, together with the
 new cross reference on 2B58 HEAVY CIRCLE (use for POWER OFF SYMBOL) appear in the
 [Draft Additional Repertoire for Amendment 2 to ISO/IEC 10646:2014
 (4th Edition)](http://www.unicode.org/L2/L2014/14142-10646-4th-pdam2.pdf). The draft
@@ -607,8 +611,8 @@ See [my advice to HN readers](#update20140221) in progress.
 
 *(6th February 2014)*
 
-- [Notes on Constructing the BLACK WANING CRESCENT MOON](#update20140206) with compass
-and straightedge.
+- [Notes on Constructing the <s>BLACK WANING CRESCENT MOON</s> POWER SLEEP SYMBOL](#update20140206)
+with compass and straightedge.
 
 - Updated [proposal](https://github.com/jloughry/Unicode/raw/master/proposal.pdf)
 according to revision notes from UTC #138.
@@ -643,9 +647,11 @@ points:<sup>[7](#ref7), [8](#ref8)</sup>
 	<tr><td align="center"><img src="https://github.com/jloughry/Unicode/raw/master/graphics/18px-IEC5008_Off_Symbol.svg.png" alt="Unicode HEAVY CIRCLE"/></td><td>U+2B58</td><td>HEAVY CIRCLE</td></tr>
 	<tr><td>&nbsp;</td><td>&nbsp;</td><td>x 23FB <img src="https://github.com/jloughry/Unicode/raw/master/graphics/18px-IEC5009_Standby_Symbol.svg.png" alt="Unicode POWER SYMBOL"/> power symbol</td></tr>
 	<tr><td>&nbsp;</td><td>&nbsp;</td><td>&bull; power off symbol</td></tr>
-	<tr><td align="center"><img src="https://github.com/jloughry/Unicode/raw/master/graphics/18px-Unicode_POWER_SLEEP_SYMBOL.svg.png" alt="Unicode BLACK WANING CRESCENT MOON"/></td><td>U+1F32D</td><td>BLACK WANING CRESCENT MOON</td></tr>
-	<tr><td>&nbsp;</td><td>&nbsp;</td><td>x 23FB <img src="https://github.com/jloughry/Unicode/raw/master/graphics/18px-IEC5009_Standby_Symbol.svg.png" alt="Unicode POWER SYMBOL"/> power symbol</td></tr>
-	<tr><td>&nbsp;</td><td>&nbsp;</td><td>&bull; power sleep symbol</td></tr>
+	<tr><td align="center"><img src="https://github.com/jloughry/Unicode/raw/master/graphics/18px-Unicode_POWER_SLEEP_SYMBOL.svg.png" alt="Unicode <s>BLACK WANING CRESCENT MOON</s>
+    POWER SLEEP SYMBOL"/></td><td><s>U+1F32D</s>
+    U+23FE</td><td><s>BLACK WANING CRESCENT MOON</s> POWER SLEEP SYMBOL</td></tr>
+	<tr><td>&nbsp;</td><td>&nbsp;</td><td><s>x 23FB <img src="https://github.com/jloughry/Unicode/raw/master/graphics/18px-IEC5009_Standby_Symbol.svg.png" alt="Unicode POWER SYMBOL"/> power symbol</s></td></tr>
+	<tr><td>&nbsp;</td><td>&nbsp;</td><td><s>&bull; power sleep symbol</s></td></tr>
 </table>
 
 ### Unicode Character Properties
@@ -654,6 +660,11 @@ points:<sup>[7](#ref7), [8](#ref8)</sup>
 23FC;POWER ON-OFF SYMBOL;So;0;ON;;;;;N;;;;;
 23FD;POWER ON SYMBOL;So;0;ON;;;;;N;;;;;
 1F32D;BLACK WANING CRESCENT MOON;So;0;ON;;;;;N;;;;;
+</code></pre>
+
+#### The last line above has since been changed to:
+
+<pre><code>23FE;POWER SLEEP SYMBOL;So;0;ON;;;;;N;;;;;
 </code></pre>
 
 *(3rd February 2014)*
@@ -858,7 +869,7 @@ In brief, the suggested character properties are now (with names and code points
 		<td align="center"><img src="https://github.com/jloughry/Unicode/raw/master/graphics/18px-IEC5008_Off_Symbol.svg.png" alt="IEC-5008 POWER OFF symbol"/></td><td>2B58</td><td>HEAVY CIRCLE<sup>[&dagger;](#note-dagger)</sup></td><td>So</td><td>0</td><td>ON</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>N</td><td>&nbsp;</td><td>&nbsp;</td<><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
 	</tr>
 	<tr>
-		<td align="center"><img src="https://github.com/jloughry/Unicode/raw/master/graphics/18px-Unicode_POWER_SLEEP_SYMBOL.svg.png" alt="IEEE 1621 SLEEP symbol"/></td><td>1F32D</td><td>BLACK WANING<br/>CRESCENT MOON<sup>[&Dagger;](#note-double-dagger)</sup></td><td>So</td><td>0</td><td>ON</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>N</td><td>&nbsp;</td><td>&nbsp;</td<><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+		<td align="center"><img src="https://github.com/jloughry/Unicode/raw/master/graphics/18px-Unicode_POWER_SLEEP_SYMBOL.svg.png" alt="IEEE 1621 SLEEP symbol"/></td><td><s>1F32D</s>23FE</td><td><s>BLACK WANING</s>POWER SLEEP<br/><s>CRESCENT MOON</s>SYMBOL<sup>[&Dagger;](#note-double-dagger)</sup></td><td>So</td><td>0</td><td>ON</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>N</td><td>&nbsp;</td><td>&nbsp;</td<><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
 	</tr>
 	<tr>
 		<td align="center"><img src="https://github.com/jloughry/Unicode/raw/master/graphics/3px-IEC5007_On_Symbol.svg.png" alt="IEC-5007 POWER ON symbol"/></td><td>23FD</td><td>POWER ON SYMBOL</td><td>So</td><td>0</td><td>ON</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>N</td><td>&nbsp;</td><td>&nbsp;</td<><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
@@ -1181,8 +1192,8 @@ XeTeX in the current version of MiKTeX has a bug that causes a harmless message
 during compilation, `** WARNING ** Couldn't open font map file "kanjix.map"`. To
 avoid it, place an empty file called `kanjix.map` in the current directory.
 
-<a name="update20140206"/>Notes on Constructing the BLACK WANING CRESCENT MOON
-------------------------------------------------------------------------------
+<a name="update20140206"/>Notes on Constructing the <s>BLACK WANING CRESCENT MOON</s> POWER SLEEP SYMBOL
+--------------------------------------------------------------------------------------------------------
 
 To construct the symbol, first construct a line with a perpendicular. Call their
 intersection the origin. Draw a circle of radius <i>r</i> centred on the origin.
@@ -1196,7 +1207,8 @@ circle anti-clockwise 23.44&deg; to match the axial tilt of Earth.
 
 <a name="update20140207"/><img
 src="https://github.com/jloughry/Unicode/raw/master/graphics/construction_of_the_crescent_moon.png"
-alt="compass and straightedge construction of the BLACK WANING CRESCENT MOON"/>
+alt="compass and straightedge construction of the <s>BLACK WANING CRESCENT MOON</s>
+POWER SLEEP SYMBOL"/>
 
 Analytically, for the purpose of drawing things with a computer, the angle of the arc
 of the larger circle between the horns of the crescent is nontrivial to calculate; a
