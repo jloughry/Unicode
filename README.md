@@ -21,7 +21,7 @@ POWER SLEEP SYMBOL"/>)
 
 As well as U+2B58 HEAVY CIRCLE (&#x2b58; or <img src="https://github.com/jloughry/Unicode/raw/master/graphics/18px-Unicode_HEAVY_CIRCLE.png" alt="Unicode HEAVY CIRCLE"/>) for the power off symbol.
 
-- Note that POWER SLEEP SYMBOL has now been moved into the "Miscellaneous
+- Note that POWER SLEEP SYMBOL has been moved into the "Miscellaneous
 Technical Symbols" block in the Basic Multilingual Plane (BMP) at position
 U+23FE and given its proper name at last.
 
@@ -533,7 +533,7 @@ relevant characters are:
 
 - As well as U+2B58 HEAVY CIRCLE for the power off symbol.
 
-- Note that POWER SLEEP SYMBOL has now been moved into the "Miscellaneous
+- Note that POWER SLEEP SYMBOL has been moved into the "Miscellaneous
 Technical Symbols" block in the Basic Multilingual Plane (BMP) at position
 U+23FE and given its proper name at last.
 
@@ -883,9 +883,9 @@ In brief, the suggested character properties are now (with names and code points
 
 <a name="note-star"/><sup>&lowast;</sup>This character is cross referenced to <img src="https://github.com/jloughry/Unicode/raw/master/graphics/18px-IEC5008_Off_Symbol.svg.png" alt="Unicode HEAVY CIRCLE"/>.
 
-<a name="note-dagger"/><sup>&dagger;</sup>This character is aliased to POWER OFF SYMBOL and cross referenced to <img src="https://github.com/jloughry/Unicode/raw/master/graphics/18px-IEC5009_Standby_Symbol.svg.png" alt="Unicode POWER SYMBOL"/>.
+<a name="note-dagger"/><s><sup>&dagger;</sup>This character is aliased to POWER OFF SYMBOL and cross referenced to <img src="https://github.com/jloughry/Unicode/raw/master/graphics/18px-IEC5009_Standby_Symbol.svg.png" alt="Unicode POWER SYMBOL"/>.</s>
 
-<a name="note-double-dagger"/><sup>&Dagger;</sup>This character is aliased to POWER SLEEP SYMBOL and cross referenced to <img src="https://github.com/jloughry/Unicode/raw/master/graphics/18px-IEC5009_Standby_Symbol.svg.png" alt="Unicode POWER SYMBOL"/>.
+<a name="note-double-dagger"/><s><sup>&Dagger;</sup>This character is aliased to POWER SLEEP SYMBOL and cross referenced to <img src="https://github.com/jloughry/Unicode/raw/master/graphics/18px-IEC5009_Standby_Symbol.svg.png" alt="Unicode POWER SYMBOL"/>.</s>
 
 *(22nd January 2014)*
 
@@ -1068,7 +1068,7 @@ for submitting good proposals are being looked at.
 
 - Put the new [code points](#update20140204) in the font.
 
-- Fix the axial tilt of the crescent moon SLEEP symbol to match the
+- Fix the axial tilt of the crescent moon POWER SLEEP SYMBOL to match the
 [precise drawing](http://energy.lbl.gov/controls/publications/moonsymbol-brown.pdf)
 and [explanation](http://energy.lbl.gov/controls/publications/moonsymbol020621.pdf)
 of the drawing.<sup>[6](#ref6)</sup>
@@ -1207,8 +1207,7 @@ circle anti-clockwise 23.44&deg; to match the axial tilt of Earth.
 
 <a name="update20140207"/><img
 src="https://github.com/jloughry/Unicode/raw/master/graphics/construction_of_the_crescent_moon.png"
-alt="compass and straightedge construction of the <s>BLACK WANING CRESCENT MOON</s>
-POWER SLEEP SYMBOL"/>
+alt="compass and straightedge construction of the POWER SLEEP SYMBOL"/>
 
 Analytically, for the purpose of drawing things with a computer, the angle of the arc
 of the larger circle between the horns of the crescent is nontrivial to calculate; a
@@ -1227,8 +1226,8 @@ References
 ----------
 
 *See the last page of the current
-[proposal](https://github.com/jloughry/Unicode/raw/master/proposal.pdf) (PDF)
-for a more up-to-date list of references.*
+[proposal](https://github.com/jloughry/Unicode/raw/master/proposal.pdf)
+(PDF) for a more up-to-date list of references.*
 
 1. <a name="ref1"/>&ldquo;Power symbol&rdquo; *Wikipedia*.
 http://en.wikipedia.org/wiki/Power_symbol#Definitions
